@@ -1,0 +1,5001 @@
+Teacher_ID,School_ID,Subject,Training_Level,Years_of_Experience,Student_Teacher_Ratio
+TCH0001,SCH386,Social Studies,Basic,1,27
+TCH0002,SCH161,Science,Advanced,7,20
+TCH0003,SCH038,Social Studies,Basic,4,30
+TCH0004,SCH259,Math,Basic,12,27
+TCH0005,SCH252,English,Advanced,24,13
+TCH0006,SCH500,Math,Basic,8,22
+TCH0007,SCH244,Social Studies,Advanced,27,12
+TCH0008,SCH316,Nepali,Advanced,8,8
+TCH0009,SCH250,English,Basic,1,19
+TCH0010,SCH007,Math,Advanced,5,30
+TCH0011,SCH209,English,Basic,12,26
+TCH0012,SCH467,Nepali,Advanced,15,8
+TCH0013,SCH010,Social Studies,Basic,1,24
+TCH0014,SCH003,English,Advanced,17,10
+TCH0015,SCH011,Science,Basic,11,25
+TCH0016,SCH127,Science,Basic,4,10
+TCH0017,SCH029,Science,Advanced,9,12
+TCH0018,SCH102,Science,Basic,1,31
+TCH0019,SCH304,Nepali,Advanced,4,9
+TCH0020,SCH471,Science,Advanced,1,29
+TCH0021,SCH276,Science,Basic,5,8
+TCH0022,SCH454,Nepali,Basic,13,22
+TCH0023,SCH307,Science,Advanced,11,11
+TCH0024,SCH268,Nepali,Basic,9,25
+TCH0025,SCH143,Nepali,Advanced,8,9
+TCH0026,SCH381,Nepali,Advanced,14,9
+TCH0027,SCH383,Math,Basic,9,17
+TCH0028,SCH026,Math,Basic,7,27
+TCH0029,SCH012,Math,Advanced,15,9
+TCH0030,SCH474,Math,Basic,9,22
+TCH0031,SCH161,Science,Advanced,15,23
+TCH0032,SCH214,Math,Basic,14,24
+TCH0033,SCH028,Nepali,Basic,2,24
+TCH0034,SCH360,Nepali,Advanced,6,9
+TCH0035,SCH239,Social Studies,Basic,5,9
+TCH0036,SCH200,Science,Basic,12,30
+TCH0037,SCH191,Science,Basic,4,27
+TCH0038,SCH281,Nepali,Basic,15,20
+TCH0039,SCH359,Social Studies,Basic,1,8
+TCH0040,SCH406,Science,Advanced,11,8
+TCH0041,SCH398,Math,Basic,13,16
+TCH0042,SCH273,Math,Advanced,7,26
+TCH0043,SCH422,Science,Advanced,16,12
+TCH0044,SCH413,Science,Basic,16,26
+TCH0045,SCH438,Social Studies,Basic,8,10
+TCH0046,SCH371,Nepali,Advanced,14,10
+TCH0047,SCH463,Nepali,Advanced,9,12
+TCH0048,SCH146,English,Basic,6,24
+TCH0049,SCH381,English,Advanced,6,11
+TCH0050,SCH074,Nepali,Basic,18,29
+TCH0051,SCH226,Science,Basic,5,8
+TCH0052,SCH073,Social Studies,Basic,1,26
+TCH0053,SCH016,Math,Advanced,14,8
+TCH0054,SCH229,Math,Basic,5,17
+TCH0055,SCH470,Nepali,Basic,7,22
+TCH0056,SCH182,Nepali,Advanced,7,14
+TCH0057,SCH022,Math,Basic,11,24
+TCH0058,SCH464,Nepali,Basic,13,8
+TCH0059,SCH443,Social Studies,Basic,17,9
+TCH0060,SCH457,Math,Advanced,5,13
+TCH0061,SCH225,Science,Basic,4,33
+TCH0062,SCH313,English,Advanced,17,11
+TCH0063,SCH380,Nepali,Basic,3,30
+TCH0064,SCH373,Science,Advanced,26,8
+TCH0065,SCH488,Social Studies,Advanced,11,8
+TCH0066,SCH246,Nepali,Basic,6,24
+TCH0067,SCH366,Math,Advanced,14,19
+TCH0068,SCH051,Nepali,Advanced,11,28
+TCH0069,SCH115,Science,Advanced,6,10
+TCH0070,SCH023,English,Basic,5,25
+TCH0071,SCH472,Social Studies,Basic,17,21
+TCH0072,SCH171,Nepali,Advanced,13,8
+TCH0073,SCH356,Science,Basic,11,26
+TCH0074,SCH247,Social Studies,Advanced,15,8
+TCH0075,SCH448,Social Studies,Advanced,5,8
+TCH0076,SCH403,Math,Advanced,12,11
+TCH0077,SCH192,Social Studies,Advanced,9,27
+TCH0078,SCH306,English,Advanced,8,9
+TCH0079,SCH412,Nepali,Basic,1,24
+TCH0080,SCH338,Social Studies,Basic,22,10
+TCH0081,SCH230,Nepali,Basic,24,10
+TCH0082,SCH404,Nepali,Advanced,12,27
+TCH0083,SCH219,Science,Basic,17,10
+TCH0084,SCH058,Science,Advanced,17,8
+TCH0085,SCH274,Math,Advanced,20,13
+TCH0086,SCH084,Nepali,Basic,14,9
+TCH0087,SCH339,Math,Advanced,4,10
+TCH0088,SCH205,Social Studies,Basic,7,22
+TCH0089,SCH120,Social Studies,Advanced,6,8
+TCH0090,SCH223,Nepali,Advanced,12,10
+TCH0091,SCH287,Social Studies,Basic,10,35
+TCH0092,SCH093,Social Studies,Advanced,16,12
+TCH0093,SCH418,Science,Advanced,12,8
+TCH0094,SCH351,Math,Advanced,9,13
+TCH0095,SCH116,Social Studies,Basic,3,25
+TCH0096,SCH150,English,Basic,12,13
+TCH0097,SCH362,Math,Basic,15,11
+TCH0098,SCH293,Social Studies,Basic,11,8
+TCH0099,SCH205,Social Studies,Advanced,6,24
+TCH0100,SCH392,Math,Basic,8,22
+TCH0101,SCH010,Social Studies,Basic,1,28
+TCH0102,SCH237,Social Studies,Basic,10,9
+TCH0103,SCH140,Social Studies,Basic,1,24
+TCH0104,SCH098,Nepali,Basic,16,10
+TCH0105,SCH395,Science,Basic,9,8
+TCH0106,SCH103,Social Studies,Advanced,10,10
+TCH0107,SCH381,Science,Basic,14,11
+TCH0108,SCH060,Nepali,Basic,16,10
+TCH0109,SCH001,Math,Advanced,22,11
+TCH0110,SCH445,Nepali,Advanced,7,10
+TCH0111,SCH493,Math,Basic,10,28
+TCH0112,SCH128,English,Basic,5,17
+TCH0113,SCH489,Math,Basic,15,24
+TCH0114,SCH133,Social Studies,Basic,1,23
+TCH0115,SCH053,English,Basic,16,8
+TCH0116,SCH489,Math,Basic,2,24
+TCH0117,SCH430,Science,Advanced,12,8
+TCH0118,SCH374,Nepali,Basic,6,28
+TCH0119,SCH138,Math,Basic,8,19
+TCH0120,SCH197,Science,Advanced,19,9
+TCH0121,SCH026,Nepali,Basic,3,24
+TCH0122,SCH336,Nepali,Basic,1,25
+TCH0123,SCH312,Math,Advanced,15,8
+TCH0124,SCH191,Nepali,Basic,6,22
+TCH0125,SCH045,Social Studies,Basic,11,24
+TCH0126,SCH015,Science,Advanced,8,10
+TCH0127,SCH356,Social Studies,Basic,6,24
+TCH0128,SCH317,Social Studies,Advanced,7,11
+TCH0129,SCH383,Nepali,Basic,5,23
+TCH0130,SCH344,Nepali,Basic,8,32
+TCH0131,SCH328,Science,Advanced,17,8
+TCH0132,SCH430,Social Studies,Advanced,4,10
+TCH0133,SCH459,Social Studies,Basic,8,9
+TCH0134,SCH366,Social Studies,Advanced,7,24
+TCH0135,SCH309,Social Studies,Basic,10,9
+TCH0136,SCH212,Math,Basic,1,10
+TCH0137,SCH370,English,Advanced,15,8
+TCH0138,SCH434,Science,Basic,11,26
+TCH0139,SCH335,Math,Basic,8,25
+TCH0140,SCH196,English,Basic,16,11
+TCH0141,SCH432,Nepali,Advanced,2,12
+TCH0142,SCH062,Math,Advanced,15,8
+TCH0143,SCH394,English,Basic,1,8
+TCH0144,SCH249,English,Basic,19,9
+TCH0145,SCH178,Nepali,Basic,16,14
+TCH0146,SCH365,Math,Basic,2,20
+TCH0147,SCH224,English,Basic,7,26
+TCH0148,SCH144,Nepali,Basic,16,8
+TCH0149,SCH117,Math,Basic,4,30
+TCH0150,SCH014,Math,Basic,14,10
+TCH0151,SCH128,Math,Basic,5,30
+TCH0152,SCH384,Science,Advanced,18,9
+TCH0153,SCH093,Social Studies,Advanced,2,11
+TCH0154,SCH433,English,Basic,15,10
+TCH0155,SCH054,English,Advanced,13,26
+TCH0156,SCH375,Science,Basic,10,12
+TCH0157,SCH025,Nepali,Advanced,13,11
+TCH0158,SCH309,English,Advanced,12,11
+TCH0159,SCH002,English,Basic,20,12
+TCH0160,SCH042,English,Basic,8,11
+TCH0161,SCH391,Social Studies,Advanced,8,11
+TCH0162,SCH438,Science,Advanced,11,8
+TCH0163,SCH275,English,Basic,13,12
+TCH0164,SCH157,Math,Basic,11,21
+TCH0165,SCH029,Social Studies,Basic,13,9
+TCH0166,SCH359,Nepali,Advanced,16,12
+TCH0167,SCH484,Nepali,Advanced,1,25
+TCH0168,SCH429,Nepali,Basic,6,10
+TCH0169,SCH326,Social Studies,Advanced,3,9
+TCH0170,SCH407,English,Basic,13,8
+TCH0171,SCH101,Social Studies,Advanced,10,8
+TCH0172,SCH395,English,Basic,16,8
+TCH0173,SCH139,Social Studies,Basic,6,30
+TCH0174,SCH159,Math,Basic,2,22
+TCH0175,SCH409,English,Basic,11,10
+TCH0176,SCH346,Math,Basic,1,23
+TCH0177,SCH184,Math,Basic,16,14
+TCH0178,SCH054,Math,Basic,4,23
+TCH0179,SCH332,Science,Advanced,14,8
+TCH0180,SCH137,Math,Advanced,20,9
+TCH0181,SCH422,English,Basic,13,11
+TCH0182,SCH002,Math,Advanced,1,10
+TCH0183,SCH360,Math,Basic,8,8
+TCH0184,SCH482,Nepali,Basic,10,29
+TCH0185,SCH072,Math,Advanced,11,13
+TCH0186,SCH406,Math,Advanced,10,8
+TCH0187,SCH119,Science,Advanced,5,13
+TCH0188,SCH331,Nepali,Advanced,22,10
+TCH0189,SCH375,Social Studies,Advanced,8,9
+TCH0190,SCH293,English,Basic,11,10
+TCH0191,SCH224,Science,Advanced,10,26
+TCH0192,SCH160,Nepali,Basic,2,20
+TCH0193,SCH280,Nepali,Advanced,15,9
+TCH0194,SCH134,Science,Basic,7,25
+TCH0195,SCH465,Social Studies,Advanced,5,25
+TCH0196,SCH032,English,Basic,11,24
+TCH0197,SCH087,Social Studies,Advanced,20,13
+TCH0198,SCH288,English,Basic,3,26
+TCH0199,SCH109,Science,Basic,10,8
+TCH0200,SCH145,Science,Advanced,11,8
+TCH0201,SCH028,English,Advanced,11,28
+TCH0202,SCH279,Math,Basic,9,28
+TCH0203,SCH430,Math,Advanced,7,8
+TCH0204,SCH374,Science,Advanced,5,20
+TCH0205,SCH068,Math,Basic,8,30
+TCH0206,SCH381,Math,Advanced,13,9
+TCH0207,SCH138,English,Basic,13,31
+TCH0208,SCH140,Math,Advanced,10,22
+TCH0209,SCH035,Science,Basic,12,10
+TCH0210,SCH162,Science,Basic,7,30
+TCH0211,SCH456,Science,Basic,17,8
+TCH0212,SCH261,English,Basic,1,22
+TCH0213,SCH081,Social Studies,Advanced,6,9
+TCH0214,SCH343,Nepali,Basic,11,9
+TCH0215,SCH007,English,Basic,8,23
+TCH0216,SCH032,Science,Basic,1,21
+TCH0217,SCH371,Science,Advanced,5,8
+TCH0218,SCH272,Math,Advanced,14,9
+TCH0219,SCH128,Nepali,Basic,3,24
+TCH0220,SCH242,English,Basic,13,10
+TCH0221,SCH065,Social Studies,Basic,26,8
+TCH0222,SCH048,Math,Basic,14,12
+TCH0223,SCH284,English,Advanced,21,9
+TCH0224,SCH091,Social Studies,Basic,1,23
+TCH0225,SCH201,Nepali,Basic,9,35
+TCH0226,SCH007,Social Studies,Advanced,1,24
+TCH0227,SCH058,Social Studies,Basic,7,11
+TCH0228,SCH436,Nepali,Basic,4,18
+TCH0229,SCH073,Math,Advanced,1,26
+TCH0230,SCH153,English,Advanced,12,11
+TCH0231,SCH060,Math,Basic,12,10
+TCH0232,SCH340,Social Studies,Basic,14,8
+TCH0233,SCH325,Science,Advanced,11,11
+TCH0234,SCH188,Social Studies,Advanced,3,17
+TCH0235,SCH400,Nepali,Advanced,9,24
+TCH0236,SCH443,English,Advanced,20,11
+TCH0237,SCH298,Nepali,Advanced,6,19
+TCH0238,SCH486,Social Studies,Basic,14,28
+TCH0239,SCH194,Math,Basic,19,11
+TCH0240,SCH133,Math,Basic,1,26
+TCH0241,SCH222,Social Studies,Basic,17,10
+TCH0242,SCH086,Math,Basic,10,9
+TCH0243,SCH434,Math,Advanced,4,24
+TCH0244,SCH071,Science,Advanced,4,8
+TCH0245,SCH144,Nepali,Advanced,8,8
+TCH0246,SCH315,English,Basic,25,12
+TCH0247,SCH222,Science,Advanced,10,9
+TCH0248,SCH058,Nepali,Advanced,18,9
+TCH0249,SCH287,Nepali,Basic,7,23
+TCH0250,SCH125,Math,Basic,7,20
+TCH0251,SCH204,Math,Advanced,18,9
+TCH0252,SCH069,Science,Advanced,19,12
+TCH0253,SCH236,Science,Basic,14,12
+TCH0254,SCH243,Social Studies,Basic,6,22
+TCH0255,SCH177,English,Advanced,8,10
+TCH0256,SCH233,Science,Advanced,16,10
+TCH0257,SCH483,Social Studies,Advanced,17,27
+TCH0258,SCH454,Science,Advanced,5,25
+TCH0259,SCH261,Social Studies,Basic,12,23
+TCH0260,SCH161,Math,Advanced,4,29
+TCH0261,SCH335,English,Basic,11,25
+TCH0262,SCH288,Math,Advanced,5,23
+TCH0263,SCH498,Social Studies,Advanced,9,27
+TCH0264,SCH084,English,Advanced,18,10
+TCH0265,SCH226,English,Advanced,4,12
+TCH0266,SCH193,Nepali,Advanced,13,28
+TCH0267,SCH484,Science,Basic,14,28
+TCH0268,SCH163,English,Basic,8,20
+TCH0269,SCH407,Social Studies,Advanced,7,9
+TCH0270,SCH259,English,Basic,11,31
+TCH0271,SCH370,Social Studies,Basic,20,9
+TCH0272,SCH226,Social Studies,Advanced,11,8
+TCH0273,SCH189,Science,Advanced,22,8
+TCH0274,SCH379,Science,Advanced,10,12
+TCH0275,SCH223,Science,Advanced,14,11
+TCH0276,SCH112,Nepali,Basic,9,18
+TCH0277,SCH468,Science,Basic,14,11
+TCH0278,SCH284,Math,Advanced,8,11
+TCH0279,SCH038,Social Studies,Advanced,5,30
+TCH0280,SCH051,Nepali,Basic,7,27
+TCH0281,SCH094,Nepali,Basic,9,27
+TCH0282,SCH335,Science,Basic,8,27
+TCH0283,SCH123,Math,Basic,11,20
+TCH0284,SCH231,English,Advanced,11,23
+TCH0285,SCH063,Social Studies,Basic,7,23
+TCH0286,SCH009,Math,Basic,9,12
+TCH0287,SCH069,Science,Advanced,3,8
+TCH0288,SCH449,Social Studies,Basic,5,24
+TCH0289,SCH471,Math,Basic,3,21
+TCH0290,SCH403,Nepali,Advanced,16,10
+TCH0291,SCH034,Science,Basic,20,21
+TCH0292,SCH225,Science,Basic,9,27
+TCH0293,SCH374,Social Studies,Basic,6,20
+TCH0294,SCH316,Math,Advanced,11,11
+TCH0295,SCH160,Math,Advanced,4,24
+TCH0296,SCH389,Math,Basic,7,21
+TCH0297,SCH317,Math,Advanced,19,10
+TCH0298,SCH484,Social Studies,Basic,6,28
+TCH0299,SCH060,Social Studies,Basic,12,12
+TCH0300,SCH409,Math,Advanced,6,11
+TCH0301,SCH215,Social Studies,Advanced,7,30
+TCH0302,SCH054,Math,Advanced,12,26
+TCH0303,SCH049,Social Studies,Basic,13,9
+TCH0304,SCH407,Nepali,Advanced,18,8
+TCH0305,SCH442,Social Studies,Basic,7,27
+TCH0306,SCH200,Math,Basic,4,20
+TCH0307,SCH100,Nepali,Basic,12,19
+TCH0308,SCH412,Math,Basic,12,23
+TCH0309,SCH497,Nepali,Advanced,1,30
+TCH0310,SCH452,Social Studies,Advanced,1,29
+TCH0311,SCH437,Math,Advanced,22,31
+TCH0312,SCH292,Social Studies,Advanced,10,13
+TCH0313,SCH040,Math,Advanced,18,8
+TCH0314,SCH032,Science,Advanced,3,25
+TCH0315,SCH209,Nepali,Basic,10,29
+TCH0316,SCH463,Nepali,Basic,17,10
+TCH0317,SCH454,Math,Basic,5,28
+TCH0318,SCH416,Math,Basic,13,25
+TCH0319,SCH109,Social Studies,Advanced,10,9
+TCH0320,SCH100,Nepali,Basic,1,22
+TCH0321,SCH245,Science,Advanced,20,10
+TCH0322,SCH172,Math,Advanced,5,24
+TCH0323,SCH212,Nepali,Advanced,9,10
+TCH0324,SCH442,Science,Basic,6,24
+TCH0325,SCH265,Math,Advanced,1,8
+TCH0326,SCH189,English,Advanced,13,9
+TCH0327,SCH239,Math,Basic,15,10
+TCH0328,SCH308,Social Studies,Basic,20,8
+TCH0329,SCH364,English,Basic,7,27
+TCH0330,SCH132,English,Basic,12,9
+TCH0331,SCH498,Nepali,Basic,5,22
+TCH0332,SCH197,English,Advanced,9,8
+TCH0333,SCH187,English,Basic,6,21
+TCH0334,SCH455,English,Basic,13,21
+TCH0335,SCH293,Math,Advanced,21,11
+TCH0336,SCH145,Math,Advanced,19,9
+TCH0337,SCH321,Science,Basic,2,18
+TCH0338,SCH056,Science,Basic,12,24
+TCH0339,SCH472,English,Advanced,5,27
+TCH0340,SCH404,Math,Advanced,21,25
+TCH0341,SCH092,English,Advanced,13,24
+TCH0342,SCH158,Math,Basic,12,25
+TCH0343,SCH387,Science,Basic,17,11
+TCH0344,SCH362,Social Studies,Basic,8,8
+TCH0345,SCH249,English,Advanced,1,10
+TCH0346,SCH376,English,Advanced,20,11
+TCH0347,SCH407,Social Studies,Advanced,20,13
+TCH0348,SCH271,Math,Basic,10,16
+TCH0349,SCH390,English,Basic,4,8
+TCH0350,SCH226,Social Studies,Advanced,3,8
+TCH0351,SCH308,Math,Basic,11,8
+TCH0352,SCH264,Science,Advanced,4,26
+TCH0353,SCH123,English,Basic,3,25
+TCH0354,SCH159,English,Basic,6,29
+TCH0355,SCH294,Science,Basic,4,19
+TCH0356,SCH299,Science,Advanced,10,14
+TCH0357,SCH301,Nepali,Advanced,21,13
+TCH0358,SCH188,Math,Basic,10,25
+TCH0359,SCH365,Nepali,Advanced,2,26
+TCH0360,SCH008,Social Studies,Basic,3,9
+TCH0361,SCH072,Science,Basic,14,8
+TCH0362,SCH235,Math,Advanced,14,8
+TCH0363,SCH382,Nepali,Basic,1,11
+TCH0364,SCH116,Science,Advanced,11,22
+TCH0365,SCH347,Social Studies,Advanced,11,14
+TCH0366,SCH289,Nepali,Basic,16,8
+TCH0367,SCH083,English,Advanced,14,11
+TCH0368,SCH221,Science,Advanced,6,24
+TCH0369,SCH267,Science,Basic,1,9
+TCH0370,SCH080,Social Studies,Advanced,1,20
+TCH0371,SCH171,Social Studies,Basic,9,10
+TCH0372,SCH142,Social Studies,Advanced,1,9
+TCH0373,SCH104,English,Basic,1,33
+TCH0374,SCH355,Math,Basic,1,24
+TCH0375,SCH287,Math,Advanced,1,26
+TCH0376,SCH438,Science,Advanced,1,12
+TCH0377,SCH004,English,Advanced,26,12
+TCH0378,SCH178,Science,Advanced,12,9
+TCH0379,SCH377,Science,Advanced,5,8
+TCH0380,SCH018,English,Advanced,4,27
+TCH0381,SCH099,Nepali,Advanced,8,9
+TCH0382,SCH234,Social Studies,Basic,13,11
+TCH0383,SCH359,Science,Advanced,23,8
+TCH0384,SCH336,Math,Advanced,17,30
+TCH0385,SCH349,Social Studies,Basic,11,23
+TCH0386,SCH345,Math,Advanced,9,12
+TCH0387,SCH277,English,Basic,9,8
+TCH0388,SCH404,Math,Advanced,7,22
+TCH0389,SCH118,Nepali,Basic,18,8
+TCH0390,SCH335,Social Studies,Basic,20,24
+TCH0391,SCH358,Nepali,Advanced,1,10
+TCH0392,SCH396,English,Basic,14,12
+TCH0393,SCH106,Math,Basic,8,25
+TCH0394,SCH328,Nepali,Advanced,12,8
+TCH0395,SCH198,Nepali,Basic,8,24
+TCH0396,SCH237,Nepali,Basic,7,8
+TCH0397,SCH076,Science,Advanced,6,27
+TCH0398,SCH148,English,Basic,15,24
+TCH0399,SCH255,Nepali,Basic,11,9
+TCH0400,SCH377,Nepali,Advanced,13,9
+TCH0401,SCH017,Science,Advanced,10,15
+TCH0402,SCH403,Math,Basic,15,9
+TCH0403,SCH314,Social Studies,Basic,11,8
+TCH0404,SCH424,Social Studies,Basic,7,27
+TCH0405,SCH405,English,Basic,18,10
+TCH0406,SCH289,English,Basic,13,11
+TCH0407,SCH470,Science,Basic,4,30
+TCH0408,SCH084,Math,Advanced,3,11
+TCH0409,SCH446,Social Studies,Advanced,5,8
+TCH0410,SCH412,Nepali,Advanced,3,27
+TCH0411,SCH490,Science,Basic,2,28
+TCH0412,SCH072,Social Studies,Advanced,12,8
+TCH0413,SCH310,Math,Basic,6,28
+TCH0414,SCH345,Nepali,Advanced,19,11
+TCH0415,SCH199,Math,Basic,17,10
+TCH0416,SCH291,Social Studies,Basic,9,9
+TCH0417,SCH144,Nepali,Advanced,20,8
+TCH0418,SCH192,Nepali,Basic,8,26
+TCH0419,SCH359,English,Basic,10,12
+TCH0420,SCH181,Math,Advanced,14,10
+TCH0421,SCH011,Nepali,Basic,9,29
+TCH0422,SCH243,English,Basic,6,22
+TCH0423,SCH436,English,Basic,10,27
+TCH0424,SCH384,English,Advanced,15,8
+TCH0425,SCH116,English,Advanced,7,25
+TCH0426,SCH075,English,Basic,11,20
+TCH0427,SCH465,Nepali,Advanced,11,22
+TCH0428,SCH035,Math,Advanced,11,12
+TCH0429,SCH390,Science,Basic,13,10
+TCH0430,SCH495,Science,Basic,10,27
+TCH0431,SCH272,Social Studies,Advanced,1,11
+TCH0432,SCH426,Nepali,Basic,14,25
+TCH0433,SCH010,English,Basic,1,22
+TCH0434,SCH178,Social Studies,Advanced,4,10
+TCH0435,SCH451,English,Advanced,12,12
+TCH0436,SCH156,Math,Basic,20,15
+TCH0437,SCH060,Nepali,Advanced,7,10
+TCH0438,SCH087,Nepali,Basic,11,8
+TCH0439,SCH262,Nepali,Advanced,9,27
+TCH0440,SCH246,English,Basic,19,27
+TCH0441,SCH192,Social Studies,Basic,2,19
+TCH0442,SCH172,Nepali,Basic,3,27
+TCH0443,SCH371,Social Studies,Basic,12,8
+TCH0444,SCH208,Math,Advanced,6,12
+TCH0445,SCH272,English,Basic,19,8
+TCH0446,SCH198,Science,Advanced,9,28
+TCH0447,SCH479,English,Basic,10,12
+TCH0448,SCH167,Nepali,Advanced,22,12
+TCH0449,SCH085,English,Basic,14,8
+TCH0450,SCH229,Nepali,Advanced,16,21
+TCH0451,SCH171,Math,Advanced,15,8
+TCH0452,SCH125,Math,Basic,2,30
+TCH0453,SCH297,Math,Basic,20,8
+TCH0454,SCH134,Science,Basic,10,24
+TCH0455,SCH027,Social Studies,Basic,4,8
+TCH0456,SCH085,Nepali,Basic,9,10
+TCH0457,SCH406,Math,Advanced,24,12
+TCH0458,SCH276,Math,Advanced,13,9
+TCH0459,SCH284,Science,Advanced,2,8
+TCH0460,SCH384,Math,Advanced,18,11
+TCH0461,SCH320,Math,Advanced,4,9
+TCH0462,SCH198,Science,Basic,1,27
+TCH0463,SCH053,English,Advanced,14,8
+TCH0464,SCH268,Social Studies,Advanced,11,28
+TCH0465,SCH226,Math,Advanced,16,9
+TCH0466,SCH416,English,Basic,10,28
+TCH0467,SCH088,English,Basic,1,27
+TCH0468,SCH254,Science,Advanced,1,9
+TCH0469,SCH174,English,Basic,10,11
+TCH0470,SCH276,Math,Advanced,11,11
+TCH0471,SCH470,Math,Basic,5,27
+TCH0472,SCH168,Nepali,Basic,10,25
+TCH0473,SCH226,Nepali,Advanced,9,9
+TCH0474,SCH183,Math,Basic,11,8
+TCH0475,SCH349,Social Studies,Basic,7,26
+TCH0476,SCH217,English,Basic,8,20
+TCH0477,SCH323,Math,Advanced,10,10
+TCH0478,SCH307,Science,Advanced,9,10
+TCH0479,SCH183,Science,Basic,8,10
+TCH0480,SCH461,Science,Advanced,16,9
+TCH0481,SCH479,Math,Basic,14,12
+TCH0482,SCH101,Social Studies,Basic,11,11
+TCH0483,SCH022,Science,Basic,5,26
+TCH0484,SCH187,Science,Basic,6,17
+TCH0485,SCH187,Math,Advanced,15,23
+TCH0486,SCH180,Social Studies,Basic,10,24
+TCH0487,SCH149,Science,Advanced,5,12
+TCH0488,SCH135,Nepali,Basic,15,8
+TCH0489,SCH149,Social Studies,Basic,16,13
+TCH0490,SCH241,Social Studies,Advanced,13,11
+TCH0491,SCH111,English,Advanced,20,8
+TCH0492,SCH296,Nepali,Basic,15,8
+TCH0493,SCH414,Social Studies,Advanced,11,8
+TCH0494,SCH312,Science,Basic,9,8
+TCH0495,SCH301,Nepali,Basic,6,8
+TCH0496,SCH266,English,Basic,1,23
+TCH0497,SCH158,Science,Basic,1,22
+TCH0498,SCH473,Math,Advanced,6,8
+TCH0499,SCH234,Nepali,Advanced,13,10
+TCH0500,SCH094,Science,Basic,9,25
+TCH0501,SCH283,Nepali,Basic,15,9
+TCH0502,SCH442,Social Studies,Basic,15,19
+TCH0503,SCH116,Science,Basic,1,16
+TCH0504,SCH285,Social Studies,Basic,1,23
+TCH0505,SCH408,Science,Basic,10,11
+TCH0506,SCH194,Nepali,Advanced,10,13
+TCH0507,SCH454,Social Studies,Basic,9,27
+TCH0508,SCH018,Math,Basic,12,23
+TCH0509,SCH155,English,Basic,22,10
+TCH0510,SCH118,Math,Basic,21,12
+TCH0511,SCH311,English,Basic,10,23
+TCH0512,SCH331,English,Advanced,11,10
+TCH0513,SCH111,English,Advanced,5,8
+TCH0514,SCH146,Science,Advanced,6,23
+TCH0515,SCH051,Math,Basic,10,30
+TCH0516,SCH260,Math,Advanced,11,8
+TCH0517,SCH197,Social Studies,Advanced,12,10
+TCH0518,SCH317,Social Studies,Basic,10,8
+TCH0519,SCH038,Nepali,Advanced,17,28
+TCH0520,SCH248,Nepali,Advanced,15,8
+TCH0521,SCH175,Social Studies,Advanced,1,18
+TCH0522,SCH151,Science,Basic,6,29
+TCH0523,SCH498,English,Advanced,7,23
+TCH0524,SCH110,Math,Basic,1,26
+TCH0525,SCH014,Social Studies,Basic,9,12
+TCH0526,SCH035,Science,Advanced,7,9
+TCH0527,SCH331,Nepali,Basic,8,9
+TCH0528,SCH232,Math,Basic,11,20
+TCH0529,SCH376,Social Studies,Advanced,10,9
+TCH0530,SCH414,Science,Basic,15,9
+TCH0531,SCH477,Science,Basic,18,8
+TCH0532,SCH309,Math,Basic,14,9
+TCH0533,SCH073,Science,Basic,12,20
+TCH0534,SCH148,Math,Advanced,16,30
+TCH0535,SCH460,English,Advanced,9,10
+TCH0536,SCH330,English,Basic,2,27
+TCH0537,SCH367,Social Studies,Advanced,6,10
+TCH0538,SCH082,English,Basic,2,29
+TCH0539,SCH328,English,Basic,15,13
+TCH0540,SCH456,Social Studies,Basic,13,8
+TCH0541,SCH318,Nepali,Advanced,13,15
+TCH0542,SCH275,Social Studies,Basic,10,10
+TCH0543,SCH068,English,Basic,11,19
+TCH0544,SCH341,Nepali,Basic,9,27
+TCH0545,SCH291,English,Advanced,16,9
+TCH0546,SCH018,English,Basic,3,22
+TCH0547,SCH021,Science,Advanced,6,25
+TCH0548,SCH094,Social Studies,Basic,1,29
+TCH0549,SCH027,English,Basic,17,14
+TCH0550,SCH120,Science,Advanced,13,9
+TCH0551,SCH287,Science,Advanced,1,18
+TCH0552,SCH121,Nepali,Basic,2,19
+TCH0553,SCH331,Social Studies,Basic,9,8
+TCH0554,SCH159,Nepali,Advanced,13,27
+TCH0555,SCH122,Social Studies,Advanced,11,18
+TCH0556,SCH314,Math,Basic,12,8
+TCH0557,SCH434,Social Studies,Basic,10,22
+TCH0558,SCH462,Social Studies,Basic,1,23
+TCH0559,SCH489,Science,Basic,4,27
+TCH0560,SCH325,English,Basic,8,10
+TCH0561,SCH306,English,Basic,6,8
+TCH0562,SCH305,Social Studies,Basic,2,23
+TCH0563,SCH491,Social Studies,Advanced,10,26
+TCH0564,SCH072,Nepali,Advanced,19,8
+TCH0565,SCH165,Science,Basic,7,22
+TCH0566,SCH426,Nepali,Basic,8,25
+TCH0567,SCH152,English,Advanced,3,26
+TCH0568,SCH155,Nepali,Advanced,11,12
+TCH0569,SCH089,Science,Basic,3,8
+TCH0570,SCH261,Science,Basic,14,25
+TCH0571,SCH028,Nepali,Basic,3,24
+TCH0572,SCH122,Social Studies,Basic,1,27
+TCH0573,SCH167,Social Studies,Basic,6,10
+TCH0574,SCH088,English,Basic,8,23
+TCH0575,SCH011,Science,Basic,1,23
+TCH0576,SCH197,Social Studies,Advanced,1,13
+TCH0577,SCH102,English,Advanced,6,21
+TCH0578,SCH145,Nepali,Advanced,1,11
+TCH0579,SCH206,Science,Basic,10,24
+TCH0580,SCH238,Nepali,Basic,7,21
+TCH0581,SCH096,Social Studies,Advanced,4,29
+TCH0582,SCH020,English,Advanced,6,26
+TCH0583,SCH074,Nepali,Advanced,6,24
+TCH0584,SCH251,Social Studies,Advanced,18,30
+TCH0585,SCH406,Math,Advanced,16,9
+TCH0586,SCH170,Math,Basic,11,17
+TCH0587,SCH273,Social Studies,Basic,7,21
+TCH0588,SCH111,English,Advanced,16,11
+TCH0589,SCH049,Social Studies,Advanced,18,9
+TCH0590,SCH482,Science,Basic,7,27
+TCH0591,SCH181,Science,Basic,19,8
+TCH0592,SCH255,Science,Advanced,11,8
+TCH0593,SCH064,Math,Advanced,12,22
+TCH0594,SCH100,Math,Basic,10,19
+TCH0595,SCH147,Math,Basic,7,22
+TCH0596,SCH173,Math,Advanced,7,11
+TCH0597,SCH465,Social Studies,Basic,3,29
+TCH0598,SCH132,Science,Advanced,21,8
+TCH0599,SCH224,Science,Basic,16,28
+TCH0600,SCH367,English,Advanced,25,13
+TCH0601,SCH165,English,Basic,8,29
+TCH0602,SCH225,Social Studies,Advanced,6,30
+TCH0603,SCH014,Nepali,Advanced,5,9
+TCH0604,SCH454,English,Advanced,4,23
+TCH0605,SCH457,English,Advanced,10,9
+TCH0606,SCH136,English,Advanced,15,10
+TCH0607,SCH172,Social Studies,Basic,10,21
+TCH0608,SCH167,Math,Advanced,8,9
+TCH0609,SCH241,English,Advanced,11,12
+TCH0610,SCH053,Nepali,Advanced,12,8
+TCH0611,SCH229,Nepali,Basic,11,25
+TCH0612,SCH192,Math,Advanced,6,30
+TCH0613,SCH343,Nepali,Basic,16,9
+TCH0614,SCH435,Science,Basic,11,9
+TCH0615,SCH291,Math,Basic,3,9
+TCH0616,SCH416,Nepali,Basic,8,19
+TCH0617,SCH310,English,Basic,2,34
+TCH0618,SCH325,Social Studies,Basic,21,8
+TCH0619,SCH404,Math,Basic,4,27
+TCH0620,SCH288,Math,Basic,5,25
+TCH0621,SCH492,Math,Advanced,7,23
+TCH0622,SCH047,Math,Advanced,3,8
+TCH0623,SCH449,English,Basic,6,22
+TCH0624,SCH168,Social Studies,Basic,1,31
+TCH0625,SCH071,Nepali,Advanced,14,9
+TCH0626,SCH137,Math,Advanced,15,9
+TCH0627,SCH167,Nepali,Basic,26,15
+TCH0628,SCH484,Math,Basic,16,29
+TCH0629,SCH256,Math,Advanced,6,17
+TCH0630,SCH012,Math,Basic,20,9
+TCH0631,SCH201,English,Basic,8,26
+TCH0632,SCH022,Social Studies,Advanced,10,26
+TCH0633,SCH309,Social Studies,Advanced,7,9
+TCH0634,SCH310,Science,Basic,6,29
+TCH0635,SCH489,Math,Basic,6,23
+TCH0636,SCH396,Math,Advanced,12,9
+TCH0637,SCH415,Social Studies,Advanced,11,8
+TCH0638,SCH334,English,Advanced,5,8
+TCH0639,SCH223,English,Basic,13,8
+TCH0640,SCH118,Social Studies,Advanced,13,11
+TCH0641,SCH176,Math,Basic,1,21
+TCH0642,SCH369,Nepali,Basic,1,19
+TCH0643,SCH122,Math,Basic,1,25
+TCH0644,SCH084,Nepali,Advanced,6,10
+TCH0645,SCH400,Math,Basic,12,21
+TCH0646,SCH182,Nepali,Basic,16,12
+TCH0647,SCH221,Math,Basic,4,17
+TCH0648,SCH414,Social Studies,Advanced,4,14
+TCH0649,SCH478,Math,Advanced,10,12
+TCH0650,SCH453,Math,Advanced,8,17
+TCH0651,SCH283,Science,Basic,15,8
+TCH0652,SCH194,Nepali,Advanced,23,8
+TCH0653,SCH176,Nepali,Basic,16,31
+TCH0654,SCH225,Math,Basic,1,27
+TCH0655,SCH085,Nepali,Basic,9,12
+TCH0656,SCH145,Science,Advanced,14,10
+TCH0657,SCH276,Social Studies,Advanced,9,11
+TCH0658,SCH244,Social Studies,Advanced,3,11
+TCH0659,SCH060,English,Advanced,17,11
+TCH0660,SCH144,Math,Advanced,6,8
+TCH0661,SCH132,Science,Advanced,8,8
+TCH0662,SCH068,Math,Advanced,9,22
+TCH0663,SCH095,Nepali,Basic,6,23
+TCH0664,SCH409,Social Studies,Advanced,5,8
+TCH0665,SCH115,Nepali,Advanced,18,11
+TCH0666,SCH299,Social Studies,Advanced,14,12
+TCH0667,SCH237,English,Basic,8,9
+TCH0668,SCH238,Social Studies,Basic,13,24
+TCH0669,SCH317,Science,Basic,6,8
+TCH0670,SCH362,Nepali,Advanced,6,12
+TCH0671,SCH008,Nepali,Basic,13,10
+TCH0672,SCH322,English,Basic,8,22
+TCH0673,SCH347,Nepali,Advanced,1,8
+TCH0674,SCH309,Science,Basic,19,11
+TCH0675,SCH381,Science,Basic,21,10
+TCH0676,SCH198,Science,Basic,11,19
+TCH0677,SCH379,Science,Advanced,2,12
+TCH0678,SCH250,Nepali,Advanced,9,25
+TCH0679,SCH248,Nepali,Basic,8,13
+TCH0680,SCH284,Math,Advanced,6,12
+TCH0681,SCH439,Math,Basic,12,8
+TCH0682,SCH307,Math,Basic,15,9
+TCH0683,SCH455,Science,Advanced,5,25
+TCH0684,SCH224,Nepali,Basic,1,25
+TCH0685,SCH391,Science,Advanced,12,13
+TCH0686,SCH013,English,Basic,19,23
+TCH0687,SCH402,Math,Advanced,17,12
+TCH0688,SCH464,Nepali,Basic,12,10
+TCH0689,SCH126,Nepali,Basic,6,19
+TCH0690,SCH367,English,Basic,18,8
+TCH0691,SCH305,English,Basic,6,29
+TCH0692,SCH472,Social Studies,Basic,1,23
+TCH0693,SCH119,English,Basic,20,8
+TCH0694,SCH437,Math,Basic,5,19
+TCH0695,SCH160,Social Studies,Basic,12,32
+TCH0696,SCH495,Math,Basic,14,26
+TCH0697,SCH313,Math,Advanced,10,11
+TCH0698,SCH133,Science,Basic,11,19
+TCH0699,SCH097,Social Studies,Basic,5,8
+TCH0700,SCH265,Social Studies,Advanced,13,9
+TCH0701,SCH218,Science,Basic,11,29
+TCH0702,SCH214,Science,Basic,9,24
+TCH0703,SCH287,Science,Advanced,14,18
+TCH0704,SCH282,English,Basic,8,24
+TCH0705,SCH175,Math,Basic,7,22
+TCH0706,SCH216,Science,Advanced,19,8
+TCH0707,SCH301,Nepali,Basic,16,8
+TCH0708,SCH413,English,Basic,1,26
+TCH0709,SCH170,English,Basic,10,30
+TCH0710,SCH493,Science,Basic,8,28
+TCH0711,SCH412,English,Basic,12,25
+TCH0712,SCH064,Science,Advanced,1,27
+TCH0713,SCH050,Math,Basic,12,21
+TCH0714,SCH236,English,Basic,9,8
+TCH0715,SCH330,Social Studies,Advanced,12,21
+TCH0716,SCH130,Science,Basic,15,11
+TCH0717,SCH463,Math,Advanced,15,10
+TCH0718,SCH040,Science,Advanced,17,9
+TCH0719,SCH159,Social Studies,Basic,13,23
+TCH0720,SCH103,Social Studies,Advanced,19,10
+TCH0721,SCH215,Math,Basic,7,25
+TCH0722,SCH310,Science,Advanced,14,23
+TCH0723,SCH454,Nepali,Basic,9,21
+TCH0724,SCH282,Science,Basic,5,27
+TCH0725,SCH248,Science,Advanced,8,11
+TCH0726,SCH207,Math,Basic,20,8
+TCH0727,SCH300,Social Studies,Advanced,8,11
+TCH0728,SCH280,Nepali,Basic,13,8
+TCH0729,SCH261,English,Advanced,3,25
+TCH0730,SCH388,Math,Advanced,23,11
+TCH0731,SCH469,Science,Advanced,20,25
+TCH0732,SCH141,Science,Advanced,1,14
+TCH0733,SCH236,Science,Basic,6,8
+TCH0734,SCH324,English,Advanced,17,12
+TCH0735,SCH044,Math,Advanced,14,26
+TCH0736,SCH289,Science,Advanced,1,10
+TCH0737,SCH380,Science,Basic,14,26
+TCH0738,SCH432,Nepali,Basic,11,12
+TCH0739,SCH175,English,Advanced,12,23
+TCH0740,SCH266,Science,Basic,10,24
+TCH0741,SCH256,Science,Basic,9,24
+TCH0742,SCH416,Math,Basic,6,22
+TCH0743,SCH318,Social Studies,Advanced,14,11
+TCH0744,SCH332,Nepali,Advanced,8,8
+TCH0745,SCH302,Social Studies,Basic,11,9
+TCH0746,SCH025,Social Studies,Basic,18,12
+TCH0747,SCH292,Science,Advanced,4,9
+TCH0748,SCH256,Math,Basic,9,23
+TCH0749,SCH323,Social Studies,Advanced,20,8
+TCH0750,SCH269,Nepali,Basic,7,10
+TCH0751,SCH214,Math,Advanced,4,23
+TCH0752,SCH413,Math,Advanced,1,29
+TCH0753,SCH300,Social Studies,Basic,15,8
+TCH0754,SCH037,Science,Advanced,12,24
+TCH0755,SCH107,Math,Advanced,9,10
+TCH0756,SCH387,Nepali,Basic,9,9
+TCH0757,SCH247,English,Advanced,5,9
+TCH0758,SCH002,Social Studies,Advanced,7,10
+TCH0759,SCH280,English,Basic,11,9
+TCH0760,SCH112,Science,Basic,3,27
+TCH0761,SCH113,Math,Basic,10,29
+TCH0762,SCH200,Math,Advanced,9,24
+TCH0763,SCH302,English,Basic,15,8
+TCH0764,SCH204,Nepali,Advanced,9,8
+TCH0765,SCH004,Science,Advanced,19,9
+TCH0766,SCH308,Math,Basic,12,8
+TCH0767,SCH041,Social Studies,Basic,13,9
+TCH0768,SCH385,Math,Basic,20,9
+TCH0769,SCH477,Nepali,Advanced,15,8
+TCH0770,SCH390,Nepali,Advanced,12,10
+TCH0771,SCH348,Math,Advanced,6,10
+TCH0772,SCH179,English,Basic,2,16
+TCH0773,SCH395,English,Advanced,13,12
+TCH0774,SCH309,Math,Advanced,1,11
+TCH0775,SCH350,Math,Basic,18,8
+TCH0776,SCH090,Math,Advanced,7,20
+TCH0777,SCH158,Nepali,Basic,17,25
+TCH0778,SCH298,Science,Advanced,1,28
+TCH0779,SCH451,English,Advanced,9,10
+TCH0780,SCH155,Nepali,Advanced,5,11
+TCH0781,SCH308,Science,Basic,15,11
+TCH0782,SCH206,Science,Advanced,5,21
+TCH0783,SCH232,Math,Basic,12,29
+TCH0784,SCH012,English,Advanced,1,10
+TCH0785,SCH274,Social Studies,Advanced,13,10
+TCH0786,SCH020,Nepali,Advanced,11,15
+TCH0787,SCH261,Science,Basic,16,34
+TCH0788,SCH142,English,Basic,13,11
+TCH0789,SCH080,Nepali,Advanced,4,27
+TCH0790,SCH323,Math,Advanced,11,9
+TCH0791,SCH256,Nepali,Basic,7,21
+TCH0792,SCH247,English,Basic,19,13
+TCH0793,SCH095,Nepali,Basic,3,26
+TCH0794,SCH473,Nepali,Advanced,16,8
+TCH0795,SCH294,Nepali,Advanced,5,22
+TCH0796,SCH338,Science,Advanced,19,11
+TCH0797,SCH137,Math,Basic,16,9
+TCH0798,SCH118,Science,Advanced,14,12
+TCH0799,SCH239,English,Advanced,20,8
+TCH0800,SCH420,English,Basic,1,20
+TCH0801,SCH075,Social Studies,Advanced,5,26
+TCH0802,SCH116,English,Basic,10,24
+TCH0803,SCH486,Nepali,Basic,9,27
+TCH0804,SCH137,Social Studies,Basic,8,9
+TCH0805,SCH132,English,Advanced,15,10
+TCH0806,SCH266,Nepali,Basic,1,28
+TCH0807,SCH111,Science,Basic,12,8
+TCH0808,SCH405,Science,Basic,10,9
+TCH0809,SCH318,English,Basic,6,10
+TCH0810,SCH298,Nepali,Basic,9,29
+TCH0811,SCH296,Math,Basic,2,10
+TCH0812,SCH187,Math,Basic,5,23
+TCH0813,SCH257,Science,Advanced,18,29
+TCH0814,SCH085,Nepali,Advanced,18,10
+TCH0815,SCH150,Social Studies,Advanced,12,8
+TCH0816,SCH023,Social Studies,Basic,16,21
+TCH0817,SCH435,English,Advanced,14,9
+TCH0818,SCH059,Nepali,Advanced,9,8
+TCH0819,SCH299,Social Studies,Basic,13,8
+TCH0820,SCH262,Social Studies,Basic,1,22
+TCH0821,SCH065,English,Basic,14,8
+TCH0822,SCH353,English,Advanced,1,13
+TCH0823,SCH009,Science,Advanced,24,11
+TCH0824,SCH270,Social Studies,Advanced,9,11
+TCH0825,SCH392,Math,Basic,11,27
+TCH0826,SCH192,Social Studies,Advanced,11,27
+TCH0827,SCH023,Nepali,Basic,6,25
+TCH0828,SCH108,Math,Basic,16,10
+TCH0829,SCH116,Nepali,Basic,12,21
+TCH0830,SCH313,English,Advanced,13,8
+TCH0831,SCH358,Nepali,Basic,12,8
+TCH0832,SCH371,Math,Basic,10,11
+TCH0833,SCH489,English,Basic,10,21
+TCH0834,SCH450,Social Studies,Basic,9,11
+TCH0835,SCH012,English,Advanced,23,11
+TCH0836,SCH210,Social Studies,Basic,4,24
+TCH0837,SCH030,Social Studies,Basic,9,26
+TCH0838,SCH073,Nepali,Basic,8,21
+TCH0839,SCH057,Nepali,Advanced,5,26
+TCH0840,SCH155,English,Advanced,9,11
+TCH0841,SCH026,Science,Basic,1,30
+TCH0842,SCH079,Science,Basic,24,10
+TCH0843,SCH412,Social Studies,Basic,4,31
+TCH0844,SCH354,English,Advanced,10,8
+TCH0845,SCH369,Nepali,Basic,9,29
+TCH0846,SCH443,English,Basic,23,8
+TCH0847,SCH007,Social Studies,Advanced,8,25
+TCH0848,SCH410,Science,Advanced,5,26
+TCH0849,SCH173,English,Basic,15,10
+TCH0850,SCH100,Math,Basic,3,25
+TCH0851,SCH175,Nepali,Basic,2,18
+TCH0852,SCH049,English,Advanced,11,10
+TCH0853,SCH100,Math,Advanced,8,23
+TCH0854,SCH335,Social Studies,Basic,9,31
+TCH0855,SCH277,Science,Advanced,13,14
+TCH0856,SCH474,Social Studies,Advanced,7,24
+TCH0857,SCH323,Math,Basic,13,8
+TCH0858,SCH188,Social Studies,Basic,8,20
+TCH0859,SCH397,Math,Advanced,16,8
+TCH0860,SCH419,Social Studies,Basic,8,10
+TCH0861,SCH239,Nepali,Advanced,7,8
+TCH0862,SCH318,English,Advanced,11,12
+TCH0863,SCH078,Science,Advanced,10,14
+TCH0864,SCH220,Science,Basic,19,9
+TCH0865,SCH294,Nepali,Basic,9,26
+TCH0866,SCH312,Social Studies,Advanced,11,10
+TCH0867,SCH135,Science,Advanced,6,12
+TCH0868,SCH495,Math,Basic,8,28
+TCH0869,SCH050,Science,Basic,5,32
+TCH0870,SCH074,Math,Basic,6,21
+TCH0871,SCH005,Math,Basic,1,25
+TCH0872,SCH458,Nepali,Basic,11,28
+TCH0873,SCH348,Nepali,Advanced,12,8
+TCH0874,SCH068,Science,Basic,16,23
+TCH0875,SCH499,Nepali,Advanced,1,9
+TCH0876,SCH041,Social Studies,Advanced,1,8
+TCH0877,SCH086,Nepali,Basic,9,8
+TCH0878,SCH381,Nepali,Basic,8,9
+TCH0879,SCH418,English,Basic,4,11
+TCH0880,SCH260,Math,Basic,5,8
+TCH0881,SCH351,Nepali,Basic,14,13
+TCH0882,SCH490,English,Advanced,5,22
+TCH0883,SCH274,Social Studies,Advanced,16,9
+TCH0884,SCH009,English,Advanced,12,10
+TCH0885,SCH282,Math,Basic,4,25
+TCH0886,SCH126,Nepali,Advanced,18,24
+TCH0887,SCH191,Social Studies,Basic,18,18
+TCH0888,SCH377,English,Basic,10,9
+TCH0889,SCH403,Math,Basic,3,9
+TCH0890,SCH257,Math,Advanced,4,22
+TCH0891,SCH331,Nepali,Basic,12,13
+TCH0892,SCH138,English,Advanced,11,28
+TCH0893,SCH497,Science,Basic,9,21
+TCH0894,SCH030,Math,Basic,7,25
+TCH0895,SCH438,English,Advanced,10,9
+TCH0896,SCH277,Science,Advanced,15,11
+TCH0897,SCH299,Nepali,Basic,20,9
+TCH0898,SCH483,English,Advanced,14,24
+TCH0899,SCH227,Science,Advanced,12,10
+TCH0900,SCH172,Math,Basic,12,32
+TCH0901,SCH343,Social Studies,Advanced,4,9
+TCH0902,SCH047,Nepali,Basic,15,8
+TCH0903,SCH081,Social Studies,Advanced,2,9
+TCH0904,SCH469,Social Studies,Basic,3,27
+TCH0905,SCH482,Science,Advanced,4,27
+TCH0906,SCH271,Nepali,Basic,15,32
+TCH0907,SCH319,Science,Advanced,13,8
+TCH0908,SCH216,Nepali,Basic,20,10
+TCH0909,SCH228,Nepali,Basic,9,27
+TCH0910,SCH043,Social Studies,Advanced,5,8
+TCH0911,SCH428,Science,Advanced,16,9
+TCH0912,SCH205,English,Basic,10,24
+TCH0913,SCH190,Social Studies,Basic,13,31
+TCH0914,SCH333,Nepali,Basic,8,28
+TCH0915,SCH090,English,Basic,7,30
+TCH0916,SCH136,Nepali,Advanced,3,11
+TCH0917,SCH410,Social Studies,Basic,6,27
+TCH0918,SCH347,Math,Advanced,11,10
+TCH0919,SCH317,Nepali,Advanced,9,8
+TCH0920,SCH115,Math,Advanced,19,8
+TCH0921,SCH031,Math,Basic,2,26
+TCH0922,SCH101,Science,Advanced,14,11
+TCH0923,SCH007,Science,Advanced,10,29
+TCH0924,SCH138,Social Studies,Advanced,12,18
+TCH0925,SCH100,English,Advanced,8,22
+TCH0926,SCH346,Science,Advanced,16,22
+TCH0927,SCH151,English,Advanced,12,19
+TCH0928,SCH356,English,Basic,7,25
+TCH0929,SCH447,Nepali,Advanced,1,23
+TCH0930,SCH095,Nepali,Advanced,10,29
+TCH0931,SCH296,Social Studies,Advanced,17,10
+TCH0932,SCH084,Nepali,Basic,14,8
+TCH0933,SCH312,Nepali,Advanced,1,9
+TCH0934,SCH217,Social Studies,Basic,1,16
+TCH0935,SCH132,Math,Advanced,10,9
+TCH0936,SCH292,Social Studies,Advanced,7,10
+TCH0937,SCH074,English,Advanced,10,26
+TCH0938,SCH500,Science,Advanced,6,23
+TCH0939,SCH295,Math,Basic,4,9
+TCH0940,SCH128,Nepali,Basic,11,24
+TCH0941,SCH391,Science,Advanced,12,10
+TCH0942,SCH261,Science,Basic,7,22
+TCH0943,SCH101,English,Basic,11,10
+TCH0944,SCH235,Nepali,Basic,15,14
+TCH0945,SCH143,Science,Basic,12,10
+TCH0946,SCH072,Science,Advanced,7,10
+TCH0947,SCH036,Math,Advanced,5,8
+TCH0948,SCH115,English,Advanced,5,10
+TCH0949,SCH018,Nepali,Basic,1,26
+TCH0950,SCH487,Math,Advanced,8,19
+TCH0951,SCH322,Nepali,Basic,6,23
+TCH0952,SCH087,Math,Basic,16,8
+TCH0953,SCH368,Nepali,Advanced,14,23
+TCH0954,SCH413,Math,Advanced,6,16
+TCH0955,SCH494,English,Advanced,1,9
+TCH0956,SCH248,Science,Basic,1,8
+TCH0957,SCH038,Social Studies,Basic,6,29
+TCH0958,SCH133,Science,Basic,6,23
+TCH0959,SCH147,Science,Basic,5,26
+TCH0960,SCH327,Social Studies,Basic,26,11
+TCH0961,SCH222,Nepali,Advanced,4,10
+TCH0962,SCH478,Nepali,Basic,7,11
+TCH0963,SCH116,Science,Basic,7,26
+TCH0964,SCH050,Nepali,Basic,12,32
+TCH0965,SCH419,Social Studies,Advanced,7,8
+TCH0966,SCH493,Math,Basic,1,23
+TCH0967,SCH306,English,Advanced,15,9
+TCH0968,SCH246,Nepali,Advanced,7,19
+TCH0969,SCH101,Science,Advanced,13,10
+TCH0970,SCH459,Social Studies,Advanced,1,13
+TCH0971,SCH172,Social Studies,Basic,12,25
+TCH0972,SCH232,Social Studies,Advanced,18,22
+TCH0973,SCH295,Science,Basic,13,8
+TCH0974,SCH437,Social Studies,Basic,16,27
+TCH0975,SCH300,Nepali,Advanced,7,8
+TCH0976,SCH247,English,Advanced,17,13
+TCH0977,SCH152,Science,Basic,5,28
+TCH0978,SCH057,English,Advanced,3,27
+TCH0979,SCH019,Math,Basic,8,18
+TCH0980,SCH301,Science,Advanced,8,11
+TCH0981,SCH324,Nepali,Basic,14,8
+TCH0982,SCH471,Science,Advanced,2,18
+TCH0983,SCH026,English,Basic,3,25
+TCH0984,SCH396,Math,Advanced,16,8
+TCH0985,SCH187,Science,Basic,8,20
+TCH0986,SCH485,Social Studies,Basic,12,13
+TCH0987,SCH204,Social Studies,Basic,4,10
+TCH0988,SCH378,Nepali,Advanced,1,27
+TCH0989,SCH346,Nepali,Advanced,5,29
+TCH0990,SCH006,Social Studies,Advanced,7,27
+TCH0991,SCH489,English,Basic,17,27
+TCH0992,SCH157,English,Advanced,11,29
+TCH0993,SCH372,Math,Basic,14,8
+TCH0994,SCH406,Math,Advanced,1,8
+TCH0995,SCH444,Science,Basic,11,23
+TCH0996,SCH200,Math,Advanced,7,24
+TCH0997,SCH345,English,Advanced,8,11
+TCH0998,SCH274,Science,Advanced,15,9
+TCH0999,SCH032,Social Studies,Basic,11,25
+TCH1000,SCH421,Science,Basic,12,9
+TCH1001,SCH030,English,Advanced,5,23
+TCH1002,SCH061,Math,Basic,7,27
+TCH1003,SCH452,English,Basic,5,25
+TCH1004,SCH071,Nepali,Advanced,18,12
+TCH1005,SCH228,English,Basic,2,34
+TCH1006,SCH138,English,Advanced,11,23
+TCH1007,SCH061,Social Studies,Basic,1,28
+TCH1008,SCH049,Science,Advanced,14,8
+TCH1009,SCH057,Nepali,Advanced,8,19
+TCH1010,SCH292,Math,Basic,3,9
+TCH1011,SCH112,Nepali,Basic,6,30
+TCH1012,SCH457,Nepali,Basic,12,9
+TCH1013,SCH398,Math,Basic,4,26
+TCH1014,SCH498,Math,Basic,1,25
+TCH1015,SCH211,English,Basic,22,12
+TCH1016,SCH033,Nepali,Basic,18,22
+TCH1017,SCH165,Social Studies,Advanced,10,24
+TCH1018,SCH460,Social Studies,Advanced,19,9
+TCH1019,SCH250,English,Basic,13,21
+TCH1020,SCH066,Social Studies,Basic,7,23
+TCH1021,SCH123,English,Basic,14,21
+TCH1022,SCH125,Social Studies,Basic,5,24
+TCH1023,SCH297,Math,Basic,1,9
+TCH1024,SCH147,Science,Advanced,8,31
+TCH1025,SCH425,Nepali,Advanced,10,9
+TCH1026,SCH425,Science,Advanced,8,9
+TCH1027,SCH069,English,Advanced,10,9
+TCH1028,SCH123,Social Studies,Basic,9,27
+TCH1029,SCH205,Science,Basic,6,25
+TCH1030,SCH225,Social Studies,Basic,5,22
+TCH1031,SCH082,Science,Basic,14,25
+TCH1032,SCH260,English,Basic,8,10
+TCH1033,SCH150,Social Studies,Basic,18,8
+TCH1034,SCH207,English,Advanced,14,11
+TCH1035,SCH476,Science,Advanced,13,9
+TCH1036,SCH356,Nepali,Basic,17,23
+TCH1037,SCH152,English,Basic,7,23
+TCH1038,SCH388,Math,Basic,14,8
+TCH1039,SCH176,Social Studies,Basic,13,19
+TCH1040,SCH480,Nepali,Basic,14,8
+TCH1041,SCH031,English,Basic,16,26
+TCH1042,SCH049,Nepali,Advanced,1,9
+TCH1043,SCH445,Social Studies,Basic,14,9
+TCH1044,SCH370,Math,Advanced,5,8
+TCH1045,SCH279,Nepali,Basic,17,35
+TCH1046,SCH277,Nepali,Advanced,5,10
+TCH1047,SCH190,Math,Basic,5,29
+TCH1048,SCH370,English,Advanced,10,9
+TCH1049,SCH261,Nepali,Basic,1,21
+TCH1050,SCH015,Science,Advanced,17,11
+TCH1051,SCH403,English,Basic,11,12
+TCH1052,SCH403,Science,Advanced,4,8
+TCH1053,SCH493,Science,Basic,7,28
+TCH1054,SCH369,Math,Basic,16,15
+TCH1055,SCH479,Math,Advanced,8,12
+TCH1056,SCH134,Math,Basic,1,16
+TCH1057,SCH075,English,Advanced,6,29
+TCH1058,SCH487,English,Advanced,9,29
+TCH1059,SCH262,Math,Basic,16,29
+TCH1060,SCH213,Nepali,Basic,20,8
+TCH1061,SCH418,Science,Advanced,8,8
+TCH1062,SCH095,English,Basic,6,28
+TCH1063,SCH414,Social Studies,Basic,16,9
+TCH1064,SCH174,Nepali,Basic,19,8
+TCH1065,SCH286,Math,Advanced,19,28
+TCH1066,SCH338,Science,Basic,21,9
+TCH1067,SCH336,Math,Basic,4,30
+TCH1068,SCH306,Nepali,Advanced,12,8
+TCH1069,SCH240,Science,Advanced,8,23
+TCH1070,SCH018,Nepali,Basic,9,30
+TCH1071,SCH293,Science,Basic,12,8
+TCH1072,SCH118,Social Studies,Basic,7,9
+TCH1073,SCH436,Math,Basic,7,17
+TCH1074,SCH252,Social Studies,Advanced,9,9
+TCH1075,SCH272,Nepali,Basic,7,9
+TCH1076,SCH112,Science,Basic,14,22
+TCH1077,SCH386,English,Advanced,1,33
+TCH1078,SCH405,Science,Advanced,8,9
+TCH1079,SCH156,English,Advanced,12,8
+TCH1080,SCH333,English,Basic,9,23
+TCH1081,SCH185,Nepali,Advanced,9,27
+TCH1082,SCH319,Nepali,Advanced,19,13
+TCH1083,SCH409,English,Advanced,10,8
+TCH1084,SCH316,English,Basic,4,11
+TCH1085,SCH249,Social Studies,Advanced,12,9
+TCH1086,SCH148,Math,Basic,1,22
+TCH1087,SCH186,Science,Basic,15,11
+TCH1088,SCH356,Math,Advanced,9,25
+TCH1089,SCH142,English,Advanced,19,11
+TCH1090,SCH109,English,Advanced,17,8
+TCH1091,SCH232,Social Studies,Basic,19,31
+TCH1092,SCH191,Math,Basic,10,22
+TCH1093,SCH332,Science,Advanced,6,10
+TCH1094,SCH299,Nepali,Advanced,13,9
+TCH1095,SCH149,Social Studies,Basic,5,10
+TCH1096,SCH071,Social Studies,Advanced,11,8
+TCH1097,SCH187,English,Advanced,8,28
+TCH1098,SCH167,Science,Advanced,14,9
+TCH1099,SCH499,Social Studies,Advanced,22,8
+TCH1100,SCH487,English,Basic,9,22
+TCH1101,SCH449,Math,Advanced,8,23
+TCH1102,SCH115,Social Studies,Advanced,19,10
+TCH1103,SCH459,English,Advanced,13,9
+TCH1104,SCH200,Social Studies,Basic,7,27
+TCH1105,SCH328,Science,Advanced,16,10
+TCH1106,SCH493,Math,Basic,11,30
+TCH1107,SCH064,Science,Basic,10,17
+TCH1108,SCH284,Science,Advanced,13,13
+TCH1109,SCH285,Nepali,Advanced,12,25
+TCH1110,SCH475,Math,Basic,16,9
+TCH1111,SCH482,English,Basic,10,27
+TCH1112,SCH166,Social Studies,Advanced,20,8
+TCH1113,SCH316,Math,Advanced,5,9
+TCH1114,SCH118,Science,Advanced,16,12
+TCH1115,SCH161,Social Studies,Basic,8,17
+TCH1116,SCH212,English,Advanced,19,10
+TCH1117,SCH158,Math,Basic,10,15
+TCH1118,SCH473,Math,Basic,20,9
+TCH1119,SCH392,English,Basic,14,28
+TCH1120,SCH222,Social Studies,Basic,8,10
+TCH1121,SCH254,Science,Advanced,18,8
+TCH1122,SCH210,English,Basic,12,19
+TCH1123,SCH388,Social Studies,Advanced,6,8
+TCH1124,SCH387,Social Studies,Advanced,25,10
+TCH1125,SCH013,Social Studies,Basic,1,22
+TCH1126,SCH483,Social Studies,Advanced,4,25
+TCH1127,SCH311,Math,Basic,4,19
+TCH1128,SCH424,English,Advanced,14,24
+TCH1129,SCH210,Nepali,Basic,7,31
+TCH1130,SCH117,Science,Basic,17,24
+TCH1131,SCH206,Nepali,Basic,2,25
+TCH1132,SCH353,Nepali,Basic,25,8
+TCH1133,SCH443,Math,Basic,5,10
+TCH1134,SCH348,Science,Basic,11,10
+TCH1135,SCH229,Nepali,Basic,9,24
+TCH1136,SCH066,Math,Basic,5,23
+TCH1137,SCH171,English,Advanced,5,9
+TCH1138,SCH133,Social Studies,Advanced,7,23
+TCH1139,SCH021,Social Studies,Advanced,10,24
+TCH1140,SCH058,Social Studies,Basic,12,9
+TCH1141,SCH017,Math,Basic,8,20
+TCH1142,SCH384,Social Studies,Basic,6,12
+TCH1143,SCH483,Math,Basic,9,20
+TCH1144,SCH204,Science,Basic,1,11
+TCH1145,SCH466,Math,Advanced,15,9
+TCH1146,SCH458,Nepali,Advanced,8,25
+TCH1147,SCH102,Social Studies,Basic,3,25
+TCH1148,SCH142,Social Studies,Advanced,11,8
+TCH1149,SCH407,Nepali,Advanced,13,10
+TCH1150,SCH485,Social Studies,Advanced,5,11
+TCH1151,SCH408,English,Basic,8,8
+TCH1152,SCH123,Math,Basic,11,27
+TCH1153,SCH162,Math,Basic,3,26
+TCH1154,SCH298,Science,Basic,10,23
+TCH1155,SCH127,Science,Advanced,15,8
+TCH1156,SCH033,Math,Basic,4,28
+TCH1157,SCH432,Social Studies,Basic,9,8
+TCH1158,SCH101,Science,Basic,1,12
+TCH1159,SCH332,Math,Advanced,7,8
+TCH1160,SCH002,Social Studies,Advanced,14,13
+TCH1161,SCH217,Science,Basic,8,17
+TCH1162,SCH364,Science,Advanced,4,28
+TCH1163,SCH218,Math,Advanced,9,19
+TCH1164,SCH152,Social Studies,Basic,20,22
+TCH1165,SCH147,Social Studies,Basic,6,23
+TCH1166,SCH143,Nepali,Advanced,17,9
+TCH1167,SCH252,Nepali,Advanced,1,8
+TCH1168,SCH445,English,Basic,8,10
+TCH1169,SCH489,English,Advanced,5,27
+TCH1170,SCH011,English,Basic,15,19
+TCH1171,SCH448,Science,Advanced,13,8
+TCH1172,SCH416,English,Basic,4,22
+TCH1173,SCH096,English,Basic,11,25
+TCH1174,SCH035,Science,Advanced,8,13
+TCH1175,SCH388,Social Studies,Advanced,9,10
+TCH1176,SCH260,Social Studies,Advanced,11,8
+TCH1177,SCH147,Nepali,Basic,6,22
+TCH1178,SCH497,Social Studies,Basic,5,33
+TCH1179,SCH068,Social Studies,Basic,4,25
+TCH1180,SCH057,English,Basic,12,21
+TCH1181,SCH249,Social Studies,Advanced,5,10
+TCH1182,SCH272,Social Studies,Advanced,12,11
+TCH1183,SCH225,Math,Advanced,1,31
+TCH1184,SCH386,Nepali,Basic,8,29
+TCH1185,SCH350,Math,Advanced,26,9
+TCH1186,SCH002,English,Advanced,6,9
+TCH1187,SCH221,Nepali,Basic,7,25
+TCH1188,SCH218,Nepali,Advanced,14,25
+TCH1189,SCH490,Nepali,Basic,14,29
+TCH1190,SCH108,Social Studies,Advanced,12,8
+TCH1191,SCH078,Math,Advanced,17,11
+TCH1192,SCH344,Social Studies,Basic,6,20
+TCH1193,SCH370,Science,Advanced,11,10
+TCH1194,SCH279,Math,Basic,1,20
+TCH1195,SCH038,Math,Advanced,23,20
+TCH1196,SCH372,Math,Basic,7,13
+TCH1197,SCH248,Science,Basic,6,8
+TCH1198,SCH199,Math,Basic,17,8
+TCH1199,SCH294,Science,Basic,5,27
+TCH1200,SCH410,Math,Advanced,15,27
+TCH1201,SCH067,Social Studies,Advanced,14,10
+TCH1202,SCH063,Math,Basic,14,30
+TCH1203,SCH392,Science,Advanced,10,25
+TCH1204,SCH086,Science,Basic,6,8
+TCH1205,SCH040,English,Basic,1,9
+TCH1206,SCH374,Social Studies,Basic,2,21
+TCH1207,SCH278,English,Advanced,19,11
+TCH1208,SCH450,Nepali,Basic,8,9
+TCH1209,SCH383,Social Studies,Basic,19,21
+TCH1210,SCH126,Science,Advanced,11,31
+TCH1211,SCH475,Science,Advanced,13,10
+TCH1212,SCH108,Science,Advanced,1,9
+TCH1213,SCH164,English,Advanced,13,12
+TCH1214,SCH080,Nepali,Basic,5,25
+TCH1215,SCH440,Math,Basic,14,29
+TCH1216,SCH151,Math,Basic,10,22
+TCH1217,SCH293,Science,Advanced,15,10
+TCH1218,SCH152,Math,Advanced,1,24
+TCH1219,SCH297,English,Basic,15,13
+TCH1220,SCH288,Science,Advanced,4,28
+TCH1221,SCH326,Nepali,Basic,8,9
+TCH1222,SCH401,Social Studies,Advanced,5,32
+TCH1223,SCH172,Science,Basic,11,28
+TCH1224,SCH196,Nepali,Advanced,7,11
+TCH1225,SCH063,English,Basic,2,15
+TCH1226,SCH486,Nepali,Advanced,5,30
+TCH1227,SCH237,Social Studies,Advanced,9,11
+TCH1228,SCH477,Social Studies,Advanced,27,9
+TCH1229,SCH482,Nepali,Advanced,16,16
+TCH1230,SCH234,English,Advanced,8,10
+TCH1231,SCH204,Social Studies,Advanced,11,11
+TCH1232,SCH120,Nepali,Advanced,6,14
+TCH1233,SCH394,Social Studies,Advanced,21,11
+TCH1234,SCH333,Social Studies,Basic,2,25
+TCH1235,SCH074,English,Basic,13,22
+TCH1236,SCH445,Social Studies,Advanced,21,10
+TCH1237,SCH491,Science,Advanced,7,28
+TCH1238,SCH177,Math,Advanced,7,9
+TCH1239,SCH190,Social Studies,Basic,5,18
+TCH1240,SCH005,Science,Advanced,1,21
+TCH1241,SCH387,English,Advanced,7,11
+TCH1242,SCH007,English,Basic,6,27
+TCH1243,SCH361,Social Studies,Advanced,2,10
+TCH1244,SCH444,Science,Basic,1,23
+TCH1245,SCH246,English,Basic,12,23
+TCH1246,SCH367,English,Basic,5,12
+TCH1247,SCH476,Math,Advanced,17,12
+TCH1248,SCH401,Nepali,Basic,1,17
+TCH1249,SCH310,Math,Basic,15,19
+TCH1250,SCH214,Science,Basic,7,24
+TCH1251,SCH103,Science,Advanced,8,8
+TCH1252,SCH389,Social Studies,Basic,6,28
+TCH1253,SCH075,Math,Basic,5,20
+TCH1254,SCH281,Math,Basic,8,16
+TCH1255,SCH399,English,Basic,13,11
+TCH1256,SCH122,Science,Basic,5,28
+TCH1257,SCH470,Math,Basic,7,23
+TCH1258,SCH170,Math,Basic,2,28
+TCH1259,SCH390,English,Basic,9,9
+TCH1260,SCH213,Math,Advanced,16,8
+TCH1261,SCH327,Social Studies,Advanced,7,10
+TCH1262,SCH073,Nepali,Basic,1,26
+TCH1263,SCH461,Nepali,Basic,11,8
+TCH1264,SCH099,Social Studies,Advanced,1,8
+TCH1265,SCH191,Math,Advanced,5,29
+TCH1266,SCH270,English,Advanced,24,8
+TCH1267,SCH028,Math,Basic,3,30
+TCH1268,SCH148,Nepali,Basic,9,35
+TCH1269,SCH367,English,Basic,10,11
+TCH1270,SCH175,Nepali,Basic,19,20
+TCH1271,SCH488,English,Advanced,6,10
+TCH1272,SCH160,Nepali,Basic,7,25
+TCH1273,SCH182,Nepali,Advanced,7,9
+TCH1274,SCH199,Science,Basic,9,11
+TCH1275,SCH282,Math,Advanced,12,18
+TCH1276,SCH492,Math,Advanced,14,25
+TCH1277,SCH102,English,Advanced,12,24
+TCH1278,SCH244,English,Advanced,18,11
+TCH1279,SCH362,English,Advanced,14,10
+TCH1280,SCH259,Nepali,Basic,10,32
+TCH1281,SCH065,Social Studies,Basic,18,11
+TCH1282,SCH103,Science,Basic,8,8
+TCH1283,SCH136,Math,Advanced,7,8
+TCH1284,SCH294,English,Advanced,12,25
+TCH1285,SCH057,Nepali,Basic,9,18
+TCH1286,SCH064,English,Basic,4,24
+TCH1287,SCH080,Nepali,Basic,2,20
+TCH1288,SCH337,Nepali,Advanced,6,11
+TCH1289,SCH257,Math,Basic,1,24
+TCH1290,SCH014,Math,Basic,21,12
+TCH1291,SCH470,Math,Basic,13,23
+TCH1292,SCH477,Science,Basic,23,8
+TCH1293,SCH126,Nepali,Basic,10,27
+TCH1294,SCH282,Math,Advanced,2,17
+TCH1295,SCH409,Nepali,Advanced,17,8
+TCH1296,SCH407,Math,Advanced,11,10
+TCH1297,SCH278,Math,Advanced,11,11
+TCH1298,SCH358,Social Studies,Basic,14,11
+TCH1299,SCH294,Nepali,Advanced,9,19
+TCH1300,SCH304,Social Studies,Basic,12,10
+TCH1301,SCH290,Science,Advanced,25,10
+TCH1302,SCH338,English,Basic,10,11
+TCH1303,SCH106,Math,Basic,4,30
+TCH1304,SCH075,Nepali,Basic,7,24
+TCH1305,SCH036,Math,Basic,3,9
+TCH1306,SCH064,Social Studies,Basic,7,31
+TCH1307,SCH480,English,Advanced,9,9
+TCH1308,SCH274,Social Studies,Advanced,16,8
+TCH1309,SCH381,Science,Advanced,9,12
+TCH1310,SCH157,Social Studies,Basic,1,22
+TCH1311,SCH353,English,Basic,14,10
+TCH1312,SCH229,Social Studies,Advanced,21,25
+TCH1313,SCH159,Nepali,Advanced,5,23
+TCH1314,SCH234,Social Studies,Advanced,18,8
+TCH1315,SCH322,Nepali,Advanced,7,28
+TCH1316,SCH135,Nepali,Basic,10,11
+TCH1317,SCH363,English,Basic,1,21
+TCH1318,SCH365,English,Advanced,5,19
+TCH1319,SCH337,Social Studies,Advanced,5,8
+TCH1320,SCH350,Math,Advanced,24,10
+TCH1321,SCH256,Math,Basic,12,27
+TCH1322,SCH214,Math,Basic,1,25
+TCH1323,SCH390,Science,Advanced,8,8
+TCH1324,SCH284,Nepali,Basic,14,8
+TCH1325,SCH347,Science,Advanced,11,9
+TCH1326,SCH318,Nepali,Advanced,6,11
+TCH1327,SCH113,English,Basic,7,25
+TCH1328,SCH354,Social Studies,Basic,16,11
+TCH1329,SCH076,Social Studies,Advanced,8,21
+TCH1330,SCH026,English,Advanced,7,28
+TCH1331,SCH168,English,Basic,4,26
+TCH1332,SCH288,Social Studies,Basic,4,28
+TCH1333,SCH284,Nepali,Basic,11,8
+TCH1334,SCH250,Math,Basic,21,25
+TCH1335,SCH268,Math,Basic,1,21
+TCH1336,SCH418,Nepali,Basic,20,11
+TCH1337,SCH107,Social Studies,Advanced,19,9
+TCH1338,SCH350,Science,Basic,16,9
+TCH1339,SCH219,Social Studies,Advanced,14,8
+TCH1340,SCH370,Nepali,Advanced,10,8
+TCH1341,SCH450,Science,Advanced,11,8
+TCH1342,SCH222,Math,Advanced,13,8
+TCH1343,SCH150,Nepali,Advanced,11,16
+TCH1344,SCH112,Math,Basic,7,22
+TCH1345,SCH296,Science,Basic,12,8
+TCH1346,SCH181,English,Basic,9,9
+TCH1347,SCH475,Math,Advanced,13,12
+TCH1348,SCH061,Nepali,Basic,9,20
+TCH1349,SCH165,Nepali,Basic,1,29
+TCH1350,SCH196,Nepali,Advanced,8,10
+TCH1351,SCH120,Math,Advanced,21,10
+TCH1352,SCH386,English,Basic,1,26
+TCH1353,SCH415,Science,Advanced,10,8
+TCH1354,SCH111,English,Advanced,17,10
+TCH1355,SCH208,Social Studies,Advanced,23,10
+TCH1356,SCH021,Social Studies,Advanced,4,26
+TCH1357,SCH021,Science,Basic,6,30
+TCH1358,SCH153,Social Studies,Advanced,12,8
+TCH1359,SCH429,English,Basic,13,10
+TCH1360,SCH034,Science,Advanced,9,23
+TCH1361,SCH120,Science,Advanced,12,8
+TCH1362,SCH230,Science,Basic,13,8
+TCH1363,SCH333,Social Studies,Advanced,4,32
+TCH1364,SCH442,Social Studies,Advanced,5,26
+TCH1365,SCH124,Social Studies,Advanced,2,9
+TCH1366,SCH152,Social Studies,Advanced,12,26
+TCH1367,SCH350,Math,Advanced,2,8
+TCH1368,SCH060,English,Basic,17,8
+TCH1369,SCH045,Science,Basic,10,26
+TCH1370,SCH372,Social Studies,Basic,2,11
+TCH1371,SCH026,Science,Basic,11,24
+TCH1372,SCH278,Math,Basic,13,8
+TCH1373,SCH475,Science,Basic,10,10
+TCH1374,SCH077,English,Advanced,13,26
+TCH1375,SCH426,Science,Advanced,6,23
+TCH1376,SCH190,Math,Advanced,8,24
+TCH1377,SCH443,Math,Advanced,11,8
+TCH1378,SCH060,Science,Basic,6,13
+TCH1379,SCH438,Social Studies,Advanced,14,11
+TCH1380,SCH043,Science,Advanced,14,10
+TCH1381,SCH394,Nepali,Advanced,12,12
+TCH1382,SCH133,Math,Basic,10,18
+TCH1383,SCH195,Nepali,Advanced,7,8
+TCH1384,SCH189,Science,Basic,26,10
+TCH1385,SCH177,Science,Advanced,20,9
+TCH1386,SCH077,Math,Advanced,9,25
+TCH1387,SCH443,Math,Basic,8,8
+TCH1388,SCH438,Social Studies,Advanced,11,8
+TCH1389,SCH254,English,Basic,12,9
+TCH1390,SCH062,Science,Advanced,16,8
+TCH1391,SCH056,Social Studies,Basic,7,23
+TCH1392,SCH441,English,Advanced,9,11
+TCH1393,SCH003,English,Basic,1,8
+TCH1394,SCH260,Science,Advanced,10,13
+TCH1395,SCH418,English,Basic,14,12
+TCH1396,SCH391,English,Advanced,18,8
+TCH1397,SCH346,English,Basic,7,21
+TCH1398,SCH075,Nepali,Advanced,2,18
+TCH1399,SCH327,Nepali,Basic,6,10
+TCH1400,SCH227,Science,Basic,15,10
+TCH1401,SCH028,Nepali,Advanced,3,23
+TCH1402,SCH053,Math,Advanced,5,12
+TCH1403,SCH465,Social Studies,Basic,11,18
+TCH1404,SCH441,English,Basic,13,8
+TCH1405,SCH397,English,Advanced,14,11
+TCH1406,SCH403,Nepali,Basic,1,14
+TCH1407,SCH064,Social Studies,Advanced,13,21
+TCH1408,SCH111,Nepali,Basic,11,11
+TCH1409,SCH430,Math,Basic,1,10
+TCH1410,SCH327,Math,Advanced,14,11
+TCH1411,SCH096,Math,Basic,3,26
+TCH1412,SCH458,Math,Basic,12,21
+TCH1413,SCH149,Math,Basic,15,8
+TCH1414,SCH418,English,Basic,8,8
+TCH1415,SCH220,Social Studies,Basic,1,11
+TCH1416,SCH351,Math,Basic,18,10
+TCH1417,SCH469,Social Studies,Basic,2,28
+TCH1418,SCH035,Social Studies,Advanced,13,11
+TCH1419,SCH374,Math,Advanced,10,22
+TCH1420,SCH305,English,Basic,8,23
+TCH1421,SCH077,Nepali,Advanced,8,28
+TCH1422,SCH319,Social Studies,Basic,8,11
+TCH1423,SCH264,Science,Basic,8,24
+TCH1424,SCH380,Nepali,Basic,7,27
+TCH1425,SCH042,Social Studies,Advanced,10,9
+TCH1426,SCH076,Math,Basic,16,28
+TCH1427,SCH083,English,Basic,19,13
+TCH1428,SCH224,Nepali,Advanced,9,34
+TCH1429,SCH478,Science,Advanced,14,8
+TCH1430,SCH420,English,Advanced,5,18
+TCH1431,SCH019,Nepali,Advanced,13,25
+TCH1432,SCH250,Science,Advanced,5,25
+TCH1433,SCH024,Science,Advanced,10,8
+TCH1434,SCH451,English,Advanced,25,10
+TCH1435,SCH419,English,Advanced,12,9
+TCH1436,SCH001,Math,Advanced,4,8
+TCH1437,SCH429,Math,Basic,19,9
+TCH1438,SCH345,Social Studies,Basic,1,8
+TCH1439,SCH382,Social Studies,Advanced,15,11
+TCH1440,SCH053,Science,Basic,9,12
+TCH1441,SCH355,Social Studies,Basic,1,31
+TCH1442,SCH096,Nepali,Basic,1,27
+TCH1443,SCH267,Math,Advanced,13,11
+TCH1444,SCH398,Social Studies,Basic,1,23
+TCH1445,SCH384,English,Basic,18,8
+TCH1446,SCH468,English,Basic,20,8
+TCH1447,SCH271,Math,Basic,1,21
+TCH1448,SCH095,Nepali,Advanced,11,30
+TCH1449,SCH034,Social Studies,Basic,4,25
+TCH1450,SCH229,English,Basic,14,27
+TCH1451,SCH012,Math,Advanced,24,8
+TCH1452,SCH244,Social Studies,Advanced,19,8
+TCH1453,SCH163,English,Advanced,9,25
+TCH1454,SCH030,Math,Basic,9,20
+TCH1455,SCH388,Social Studies,Advanced,8,8
+TCH1456,SCH406,Math,Advanced,8,9
+TCH1457,SCH183,Science,Basic,6,8
+TCH1458,SCH406,Science,Advanced,15,10
+TCH1459,SCH151,Math,Advanced,16,25
+TCH1460,SCH129,Math,Basic,16,18
+TCH1461,SCH031,Science,Basic,1,23
+TCH1462,SCH146,Math,Advanced,5,21
+TCH1463,SCH426,Nepali,Basic,5,27
+TCH1464,SCH439,English,Advanced,9,11
+TCH1465,SCH263,Science,Advanced,19,11
+TCH1466,SCH380,English,Basic,6,23
+TCH1467,SCH050,Science,Basic,14,31
+TCH1468,SCH130,Social Studies,Basic,13,11
+TCH1469,SCH021,Social Studies,Basic,11,22
+TCH1470,SCH241,Science,Advanced,12,10
+TCH1471,SCH187,Math,Basic,14,24
+TCH1472,SCH080,English,Basic,2,24
+TCH1473,SCH400,English,Basic,7,21
+TCH1474,SCH337,Math,Basic,18,12
+TCH1475,SCH435,Nepali,Basic,1,12
+TCH1476,SCH377,English,Basic,13,10
+TCH1477,SCH096,English,Basic,10,18
+TCH1478,SCH357,Social Studies,Basic,5,27
+TCH1479,SCH414,Nepali,Advanced,15,9
+TCH1480,SCH382,Science,Advanced,12,10
+TCH1481,SCH250,Science,Advanced,9,33
+TCH1482,SCH257,Math,Basic,1,21
+TCH1483,SCH407,Science,Advanced,12,10
+TCH1484,SCH409,Science,Advanced,12,8
+TCH1485,SCH164,Social Studies,Advanced,14,10
+TCH1486,SCH148,Math,Advanced,9,22
+TCH1487,SCH117,English,Basic,10,29
+TCH1488,SCH141,English,Advanced,17,8
+TCH1489,SCH230,Nepali,Advanced,6,11
+TCH1490,SCH182,Social Studies,Basic,8,8
+TCH1491,SCH098,Science,Advanced,8,8
+TCH1492,SCH260,English,Advanced,10,9
+TCH1493,SCH186,Math,Advanced,1,10
+TCH1494,SCH064,Science,Basic,10,25
+TCH1495,SCH481,English,Basic,15,11
+TCH1496,SCH418,English,Basic,4,9
+TCH1497,SCH427,Math,Basic,13,10
+TCH1498,SCH419,Science,Basic,20,10
+TCH1499,SCH149,English,Basic,12,11
+TCH1500,SCH479,Nepali,Basic,17,10
+TCH1501,SCH422,Nepali,Basic,19,10
+TCH1502,SCH490,English,Basic,5,28
+TCH1503,SCH377,Math,Advanced,7,12
+TCH1504,SCH478,English,Advanced,9,8
+TCH1505,SCH117,Science,Basic,4,28
+TCH1506,SCH320,Social Studies,Advanced,8,8
+TCH1507,SCH012,Nepali,Advanced,9,8
+TCH1508,SCH121,Science,Basic,14,19
+TCH1509,SCH040,Social Studies,Advanced,18,12
+TCH1510,SCH370,Nepali,Advanced,15,10
+TCH1511,SCH273,English,Basic,7,31
+TCH1512,SCH359,Social Studies,Basic,25,8
+TCH1513,SCH019,Science,Basic,11,23
+TCH1514,SCH106,Science,Basic,18,26
+TCH1515,SCH077,Science,Advanced,4,21
+TCH1516,SCH189,Math,Advanced,11,8
+TCH1517,SCH232,English,Basic,2,19
+TCH1518,SCH150,English,Advanced,1,11
+TCH1519,SCH040,Social Studies,Advanced,16,11
+TCH1520,SCH427,Social Studies,Basic,5,10
+TCH1521,SCH039,Social Studies,Basic,7,20
+TCH1522,SCH367,Nepali,Basic,9,8
+TCH1523,SCH199,Nepali,Advanced,1,8
+TCH1524,SCH157,English,Advanced,4,28
+TCH1525,SCH113,Math,Basic,4,29
+TCH1526,SCH029,Math,Advanced,18,10
+TCH1527,SCH230,Math,Advanced,9,8
+TCH1528,SCH124,Math,Basic,6,11
+TCH1529,SCH260,Science,Advanced,16,9
+TCH1530,SCH120,English,Basic,12,8
+TCH1531,SCH220,Nepali,Basic,8,10
+TCH1532,SCH216,English,Advanced,8,8
+TCH1533,SCH318,Math,Advanced,6,8
+TCH1534,SCH313,Social Studies,Advanced,5,11
+TCH1535,SCH443,Social Studies,Advanced,20,13
+TCH1536,SCH189,Math,Advanced,10,9
+TCH1537,SCH271,English,Basic,11,19
+TCH1538,SCH156,Nepali,Advanced,7,8
+TCH1539,SCH239,Social Studies,Advanced,20,9
+TCH1540,SCH142,English,Advanced,19,8
+TCH1541,SCH193,Math,Basic,2,31
+TCH1542,SCH155,Math,Advanced,13,8
+TCH1543,SCH246,English,Basic,1,22
+TCH1544,SCH128,Science,Basic,17,23
+TCH1545,SCH333,Math,Basic,1,23
+TCH1546,SCH115,Social Studies,Basic,16,9
+TCH1547,SCH459,Social Studies,Advanced,15,10
+TCH1548,SCH499,Math,Advanced,10,8
+TCH1549,SCH078,English,Advanced,8,9
+TCH1550,SCH300,Nepali,Basic,2,10
+TCH1551,SCH271,Math,Basic,4,29
+TCH1552,SCH487,Nepali,Advanced,14,23
+TCH1553,SCH243,Math,Advanced,7,22
+TCH1554,SCH322,Science,Basic,1,22
+TCH1555,SCH043,Science,Basic,11,11
+TCH1556,SCH019,Math,Basic,17,22
+TCH1557,SCH209,Science,Basic,3,28
+TCH1558,SCH056,Math,Advanced,1,20
+TCH1559,SCH171,English,Advanced,18,8
+TCH1560,SCH243,Nepali,Basic,5,24
+TCH1561,SCH265,English,Advanced,16,9
+TCH1562,SCH412,English,Basic,7,23
+TCH1563,SCH382,Nepali,Basic,10,8
+TCH1564,SCH411,Science,Basic,2,30
+TCH1565,SCH179,Math,Basic,4,24
+TCH1566,SCH011,Science,Basic,12,16
+TCH1567,SCH104,Science,Basic,1,24
+TCH1568,SCH270,Social Studies,Advanced,11,8
+TCH1569,SCH339,Science,Basic,1,8
+TCH1570,SCH264,Science,Advanced,9,28
+TCH1571,SCH149,Social Studies,Basic,13,8
+TCH1572,SCH407,English,Advanced,4,9
+TCH1573,SCH277,Math,Basic,11,8
+TCH1574,SCH123,Nepali,Basic,6,26
+TCH1575,SCH379,English,Advanced,24,12
+TCH1576,SCH357,Science,Basic,6,24
+TCH1577,SCH164,Social Studies,Basic,11,8
+TCH1578,SCH385,Social Studies,Advanced,19,12
+TCH1579,SCH436,Science,Advanced,9,31
+TCH1580,SCH416,English,Basic,5,27
+TCH1581,SCH153,English,Basic,19,11
+TCH1582,SCH284,Nepali,Basic,21,11
+TCH1583,SCH267,Science,Advanced,10,8
+TCH1584,SCH027,Social Studies,Advanced,9,11
+TCH1585,SCH069,Social Studies,Advanced,18,8
+TCH1586,SCH369,Math,Basic,5,26
+TCH1587,SCH080,Science,Basic,8,21
+TCH1588,SCH364,Science,Basic,15,28
+TCH1589,SCH122,Math,Basic,18,23
+TCH1590,SCH191,Social Studies,Basic,1,25
+TCH1591,SCH274,Social Studies,Basic,24,10
+TCH1592,SCH352,Science,Basic,11,26
+TCH1593,SCH182,Social Studies,Advanced,4,8
+TCH1594,SCH302,Nepali,Advanced,8,9
+TCH1595,SCH499,Social Studies,Advanced,17,8
+TCH1596,SCH119,English,Basic,1,8
+TCH1597,SCH446,Math,Advanced,9,12
+TCH1598,SCH497,Social Studies,Basic,3,15
+TCH1599,SCH068,Nepali,Basic,3,25
+TCH1600,SCH427,Social Studies,Advanced,1,11
+TCH1601,SCH090,Nepali,Basic,10,25
+TCH1602,SCH118,Social Studies,Advanced,14,9
+TCH1603,SCH418,Math,Advanced,8,8
+TCH1604,SCH122,Math,Advanced,6,33
+TCH1605,SCH459,English,Basic,7,11
+TCH1606,SCH295,Math,Advanced,6,9
+TCH1607,SCH239,Science,Basic,11,8
+TCH1608,SCH297,Math,Basic,12,8
+TCH1609,SCH024,Math,Advanced,1,10
+TCH1610,SCH160,Science,Basic,13,25
+TCH1611,SCH130,Social Studies,Basic,18,14
+TCH1612,SCH092,Social Studies,Basic,7,25
+TCH1613,SCH002,Social Studies,Advanced,13,11
+TCH1614,SCH166,English,Advanced,7,12
+TCH1615,SCH386,Social Studies,Basic,13,26
+TCH1616,SCH328,Social Studies,Basic,20,12
+TCH1617,SCH039,Nepali,Advanced,2,25
+TCH1618,SCH451,English,Advanced,16,12
+TCH1619,SCH157,English,Basic,1,24
+TCH1620,SCH250,Math,Basic,14,29
+TCH1621,SCH290,English,Advanced,2,8
+TCH1622,SCH402,Nepali,Advanced,14,9
+TCH1623,SCH462,Math,Basic,6,25
+TCH1624,SCH249,Social Studies,Advanced,10,9
+TCH1625,SCH050,Nepali,Basic,10,28
+TCH1626,SCH230,Nepali,Basic,12,12
+TCH1627,SCH218,English,Basic,5,25
+TCH1628,SCH308,English,Advanced,10,8
+TCH1629,SCH317,English,Advanced,15,12
+TCH1630,SCH459,Science,Advanced,17,10
+TCH1631,SCH493,Math,Advanced,1,27
+TCH1632,SCH302,Math,Basic,23,9
+TCH1633,SCH076,English,Basic,8,30
+TCH1634,SCH060,Nepali,Basic,12,9
+TCH1635,SCH074,English,Advanced,8,28
+TCH1636,SCH373,Nepali,Advanced,17,8
+TCH1637,SCH427,Math,Basic,16,10
+TCH1638,SCH389,Math,Advanced,4,30
+TCH1639,SCH123,English,Advanced,11,19
+TCH1640,SCH228,Math,Advanced,11,29
+TCH1641,SCH316,Nepali,Advanced,7,10
+TCH1642,SCH355,Nepali,Basic,7,25
+TCH1643,SCH051,English,Basic,6,23
+TCH1644,SCH032,Nepali,Basic,11,25
+TCH1645,SCH131,Nepali,Advanced,11,29
+TCH1646,SCH463,Social Studies,Advanced,21,8
+TCH1647,SCH017,Science,Basic,14,26
+TCH1648,SCH418,Science,Advanced,13,10
+TCH1649,SCH224,English,Basic,7,18
+TCH1650,SCH245,Social Studies,Advanced,16,11
+TCH1651,SCH212,Science,Advanced,13,8
+TCH1652,SCH122,Nepali,Basic,8,26
+TCH1653,SCH004,English,Basic,23,10
+TCH1654,SCH101,Social Studies,Basic,1,11
+TCH1655,SCH231,Nepali,Basic,13,23
+TCH1656,SCH354,Science,Advanced,2,13
+TCH1657,SCH347,Math,Advanced,12,8
+TCH1658,SCH117,Science,Basic,11,21
+TCH1659,SCH401,Nepali,Advanced,3,23
+TCH1660,SCH095,Science,Basic,9,22
+TCH1661,SCH023,Science,Advanced,10,27
+TCH1662,SCH400,Math,Basic,7,24
+TCH1663,SCH115,Science,Basic,17,11
+TCH1664,SCH392,Science,Basic,2,29
+TCH1665,SCH123,Nepali,Basic,11,22
+TCH1666,SCH429,Nepali,Advanced,2,10
+TCH1667,SCH347,Nepali,Advanced,13,10
+TCH1668,SCH408,Nepali,Basic,20,9
+TCH1669,SCH361,Science,Basic,14,11
+TCH1670,SCH383,Social Studies,Basic,5,28
+TCH1671,SCH035,Math,Advanced,20,9
+TCH1672,SCH344,English,Advanced,1,21
+TCH1673,SCH175,Math,Basic,8,18
+TCH1674,SCH146,Social Studies,Advanced,5,25
+TCH1675,SCH370,Nepali,Basic,15,11
+TCH1676,SCH134,Nepali,Basic,9,24
+TCH1677,SCH382,Nepali,Advanced,9,9
+TCH1678,SCH339,Social Studies,Basic,16,11
+TCH1679,SCH215,Social Studies,Basic,8,30
+TCH1680,SCH278,Social Studies,Advanced,10,12
+TCH1681,SCH314,Nepali,Basic,9,8
+TCH1682,SCH429,Nepali,Advanced,12,8
+TCH1683,SCH139,Nepali,Basic,6,28
+TCH1684,SCH109,Math,Basic,16,12
+TCH1685,SCH121,Nepali,Basic,4,20
+TCH1686,SCH291,English,Advanced,15,8
+TCH1687,SCH323,Social Studies,Advanced,13,8
+TCH1688,SCH161,Science,Basic,5,23
+TCH1689,SCH136,Nepali,Advanced,11,9
+TCH1690,SCH495,English,Advanced,9,25
+TCH1691,SCH499,Nepali,Advanced,14,9
+TCH1692,SCH162,Science,Advanced,10,29
+TCH1693,SCH062,Nepali,Advanced,5,8
+TCH1694,SCH411,Social Studies,Basic,11,28
+TCH1695,SCH140,English,Basic,6,27
+TCH1696,SCH305,Social Studies,Basic,6,24
+TCH1697,SCH236,Nepali,Basic,11,10
+TCH1698,SCH399,Science,Advanced,20,14
+TCH1699,SCH328,English,Basic,3,8
+TCH1700,SCH330,Social Studies,Advanced,4,30
+TCH1701,SCH023,Social Studies,Advanced,13,28
+TCH1702,SCH017,Social Studies,Advanced,6,25
+TCH1703,SCH434,Science,Basic,1,27
+TCH1704,SCH489,Social Studies,Basic,9,23
+TCH1705,SCH320,English,Basic,16,9
+TCH1706,SCH002,English,Advanced,1,12
+TCH1707,SCH243,English,Basic,16,19
+TCH1708,SCH186,Social Studies,Basic,13,12
+TCH1709,SCH371,Science,Advanced,4,8
+TCH1710,SCH347,English,Advanced,10,10
+TCH1711,SCH477,Math,Advanced,19,14
+TCH1712,SCH308,Science,Advanced,16,8
+TCH1713,SCH236,Math,Basic,14,9
+TCH1714,SCH094,English,Basic,12,17
+TCH1715,SCH479,Nepali,Advanced,17,13
+TCH1716,SCH268,Math,Basic,9,29
+TCH1717,SCH254,English,Basic,16,8
+TCH1718,SCH498,Math,Basic,8,26
+TCH1719,SCH184,Math,Advanced,5,10
+TCH1720,SCH387,Science,Basic,2,10
+TCH1721,SCH240,Nepali,Basic,10,34
+TCH1722,SCH245,Social Studies,Basic,6,11
+TCH1723,SCH016,Science,Advanced,4,12
+TCH1724,SCH281,Nepali,Basic,7,27
+TCH1725,SCH459,Social Studies,Advanced,6,11
+TCH1726,SCH445,Nepali,Basic,8,9
+TCH1727,SCH388,Math,Advanced,5,9
+TCH1728,SCH320,Science,Advanced,13,9
+TCH1729,SCH085,Math,Advanced,19,8
+TCH1730,SCH492,Nepali,Basic,15,23
+TCH1731,SCH193,English,Basic,16,26
+TCH1732,SCH019,Nepali,Advanced,18,25
+TCH1733,SCH311,English,Advanced,1,24
+TCH1734,SCH408,Math,Advanced,11,13
+TCH1735,SCH181,English,Basic,1,8
+TCH1736,SCH449,Science,Basic,9,26
+TCH1737,SCH477,Social Studies,Advanced,19,8
+TCH1738,SCH127,Social Studies,Basic,7,11
+TCH1739,SCH171,Science,Basic,11,11
+TCH1740,SCH050,Science,Basic,7,29
+TCH1741,SCH051,Nepali,Basic,4,23
+TCH1742,SCH035,Math,Basic,11,8
+TCH1743,SCH145,Science,Advanced,12,9
+TCH1744,SCH018,Science,Basic,9,26
+TCH1745,SCH176,Science,Advanced,4,27
+TCH1746,SCH446,English,Advanced,13,8
+TCH1747,SCH227,Nepali,Basic,17,10
+TCH1748,SCH364,Math,Basic,13,30
+TCH1749,SCH026,English,Advanced,2,31
+TCH1750,SCH013,English,Advanced,10,26
+TCH1751,SCH375,Social Studies,Advanced,7,10
+TCH1752,SCH056,Nepali,Basic,1,20
+TCH1753,SCH182,Science,Basic,1,9
+TCH1754,SCH468,English,Advanced,20,10
+TCH1755,SCH086,Math,Advanced,15,9
+TCH1756,SCH197,Science,Basic,12,8
+TCH1757,SCH048,Math,Basic,18,11
+TCH1758,SCH289,English,Advanced,16,10
+TCH1759,SCH414,Nepali,Advanced,9,11
+TCH1760,SCH089,Math,Advanced,10,9
+TCH1761,SCH322,Social Studies,Basic,13,29
+TCH1762,SCH004,Nepali,Basic,9,10
+TCH1763,SCH498,Nepali,Basic,13,19
+TCH1764,SCH463,Nepali,Advanced,12,10
+TCH1765,SCH429,Nepali,Advanced,1,8
+TCH1766,SCH467,Nepali,Advanced,4,9
+TCH1767,SCH050,Math,Advanced,9,19
+TCH1768,SCH162,Math,Advanced,4,24
+TCH1769,SCH111,Science,Advanced,23,8
+TCH1770,SCH124,Math,Advanced,11,10
+TCH1771,SCH415,Math,Basic,22,10
+TCH1772,SCH227,Math,Advanced,22,8
+TCH1773,SCH216,Nepali,Advanced,16,8
+TCH1774,SCH167,Science,Advanced,10,9
+TCH1775,SCH338,Nepali,Advanced,5,12
+TCH1776,SCH271,Nepali,Basic,3,22
+TCH1777,SCH227,Science,Advanced,10,8
+TCH1778,SCH431,Science,Basic,13,8
+TCH1779,SCH220,Math,Advanced,6,8
+TCH1780,SCH161,English,Advanced,3,30
+TCH1781,SCH499,Science,Advanced,9,9
+TCH1782,SCH485,Science,Basic,13,12
+TCH1783,SCH436,Science,Advanced,4,26
+TCH1784,SCH208,Social Studies,Advanced,4,10
+TCH1785,SCH276,Nepali,Basic,11,8
+TCH1786,SCH430,Science,Advanced,1,12
+TCH1787,SCH250,English,Advanced,12,27
+TCH1788,SCH352,Social Studies,Basic,14,27
+TCH1789,SCH385,Math,Advanced,6,10
+TCH1790,SCH267,Math,Advanced,21,8
+TCH1791,SCH180,Math,Basic,6,26
+TCH1792,SCH289,Social Studies,Basic,21,11
+TCH1793,SCH182,English,Advanced,6,10
+TCH1794,SCH434,Nepali,Advanced,8,27
+TCH1795,SCH068,Math,Advanced,1,19
+TCH1796,SCH206,Math,Basic,7,24
+TCH1797,SCH444,English,Basic,3,25
+TCH1798,SCH033,English,Basic,8,32
+TCH1799,SCH083,Nepali,Advanced,9,8
+TCH1800,SCH210,Math,Basic,15,22
+TCH1801,SCH466,Nepali,Advanced,14,12
+TCH1802,SCH452,Math,Basic,16,25
+TCH1803,SCH413,Science,Advanced,2,26
+TCH1804,SCH460,Social Studies,Advanced,11,8
+TCH1805,SCH429,English,Basic,17,11
+TCH1806,SCH026,Social Studies,Basic,14,25
+TCH1807,SCH134,Science,Advanced,1,32
+TCH1808,SCH208,Science,Advanced,3,8
+TCH1809,SCH145,Nepali,Advanced,8,11
+TCH1810,SCH191,Nepali,Advanced,6,27
+TCH1811,SCH214,Math,Basic,2,24
+TCH1812,SCH434,Science,Basic,12,29
+TCH1813,SCH043,Nepali,Advanced,16,10
+TCH1814,SCH249,English,Advanced,8,8
+TCH1815,SCH130,Math,Advanced,16,10
+TCH1816,SCH303,Science,Basic,3,28
+TCH1817,SCH267,Social Studies,Advanced,8,12
+TCH1818,SCH187,Science,Basic,5,22
+TCH1819,SCH496,Math,Advanced,8,9
+TCH1820,SCH159,Math,Basic,11,24
+TCH1821,SCH095,Math,Advanced,16,24
+TCH1822,SCH017,English,Basic,2,25
+TCH1823,SCH242,Science,Advanced,24,9
+TCH1824,SCH440,English,Basic,1,21
+TCH1825,SCH036,Nepali,Basic,13,8
+TCH1826,SCH106,Science,Advanced,16,23
+TCH1827,SCH379,Nepali,Basic,1,14
+TCH1828,SCH047,English,Basic,20,8
+TCH1829,SCH325,Nepali,Basic,6,9
+TCH1830,SCH118,Nepali,Basic,21,10
+TCH1831,SCH235,English,Advanced,3,12
+TCH1832,SCH433,Social Studies,Basic,15,8
+TCH1833,SCH398,Nepali,Basic,4,24
+TCH1834,SCH352,Social Studies,Basic,7,28
+TCH1835,SCH129,Social Studies,Basic,13,26
+TCH1836,SCH469,English,Basic,13,26
+TCH1837,SCH112,Social Studies,Basic,2,25
+TCH1838,SCH015,English,Advanced,8,12
+TCH1839,SCH407,Nepali,Advanced,7,10
+TCH1840,SCH187,Social Studies,Basic,4,18
+TCH1841,SCH383,Science,Advanced,8,26
+TCH1842,SCH182,Nepali,Advanced,18,11
+TCH1843,SCH437,Social Studies,Basic,1,24
+TCH1844,SCH036,Science,Advanced,5,8
+TCH1845,SCH420,Nepali,Basic,9,27
+TCH1846,SCH224,English,Advanced,1,26
+TCH1847,SCH380,Math,Advanced,9,20
+TCH1848,SCH157,Science,Advanced,7,20
+TCH1849,SCH084,Math,Advanced,1,12
+TCH1850,SCH255,Nepali,Advanced,17,9
+TCH1851,SCH066,Nepali,Advanced,10,20
+TCH1852,SCH411,Social Studies,Basic,12,25
+TCH1853,SCH464,Math,Advanced,4,10
+TCH1854,SCH015,Math,Basic,14,8
+TCH1855,SCH472,English,Basic,1,23
+TCH1856,SCH357,Social Studies,Basic,13,27
+TCH1857,SCH120,Math,Basic,13,8
+TCH1858,SCH289,Nepali,Advanced,8,8
+TCH1859,SCH221,Social Studies,Basic,8,25
+TCH1860,SCH043,English,Basic,18,8
+TCH1861,SCH092,English,Basic,6,22
+TCH1862,SCH044,Science,Advanced,8,27
+TCH1863,SCH485,Nepali,Advanced,7,11
+TCH1864,SCH338,English,Basic,15,9
+TCH1865,SCH329,Math,Advanced,17,10
+TCH1866,SCH317,Science,Advanced,7,8
+TCH1867,SCH306,Science,Basic,17,8
+TCH1868,SCH268,Math,Advanced,11,20
+TCH1869,SCH354,Math,Basic,17,8
+TCH1870,SCH045,Math,Basic,1,23
+TCH1871,SCH486,Science,Basic,14,29
+TCH1872,SCH495,English,Advanced,11,27
+TCH1873,SCH385,English,Basic,7,8
+TCH1874,SCH440,Science,Basic,14,29
+TCH1875,SCH328,Math,Basic,6,10
+TCH1876,SCH188,English,Basic,7,20
+TCH1877,SCH161,Social Studies,Basic,1,26
+TCH1878,SCH143,Math,Basic,11,9
+TCH1879,SCH426,Nepali,Basic,7,24
+TCH1880,SCH210,Nepali,Advanced,9,29
+TCH1881,SCH006,Nepali,Basic,12,28
+TCH1882,SCH416,English,Basic,5,22
+TCH1883,SCH366,Science,Advanced,4,28
+TCH1884,SCH044,English,Advanced,11,18
+TCH1885,SCH396,Science,Advanced,18,10
+TCH1886,SCH113,Science,Basic,8,29
+TCH1887,SCH270,English,Basic,13,8
+TCH1888,SCH461,English,Advanced,7,10
+TCH1889,SCH500,Science,Advanced,8,27
+TCH1890,SCH086,Science,Advanced,25,12
+TCH1891,SCH122,Science,Basic,3,25
+TCH1892,SCH205,Nepali,Basic,6,26
+TCH1893,SCH230,Social Studies,Advanced,6,8
+TCH1894,SCH110,English,Advanced,1,15
+TCH1895,SCH439,English,Advanced,7,14
+TCH1896,SCH213,Science,Basic,9,10
+TCH1897,SCH101,Social Studies,Advanced,5,8
+TCH1898,SCH386,Math,Basic,3,22
+TCH1899,SCH289,Social Studies,Advanced,11,12
+TCH1900,SCH042,Science,Basic,20,11
+TCH1901,SCH259,Social Studies,Basic,11,23
+TCH1902,SCH054,Nepali,Advanced,18,21
+TCH1903,SCH360,Social Studies,Basic,11,9
+TCH1904,SCH432,Science,Basic,18,9
+TCH1905,SCH149,Social Studies,Basic,13,11
+TCH1906,SCH375,Nepali,Advanced,5,11
+TCH1907,SCH286,Math,Basic,9,21
+TCH1908,SCH424,English,Basic,5,24
+TCH1909,SCH018,Science,Advanced,9,30
+TCH1910,SCH029,Nepali,Advanced,22,8
+TCH1911,SCH053,English,Basic,27,9
+TCH1912,SCH424,Math,Basic,17,30
+TCH1913,SCH424,Science,Basic,2,19
+TCH1914,SCH137,English,Advanced,12,11
+TCH1915,SCH319,Nepali,Advanced,12,10
+TCH1916,SCH454,Science,Advanced,10,18
+TCH1917,SCH296,Social Studies,Advanced,12,8
+TCH1918,SCH013,English,Advanced,6,19
+TCH1919,SCH241,Science,Advanced,4,10
+TCH1920,SCH189,Math,Advanced,11,13
+TCH1921,SCH229,Social Studies,Advanced,6,27
+TCH1922,SCH036,English,Advanced,19,10
+TCH1923,SCH333,English,Basic,9,29
+TCH1924,SCH227,Science,Advanced,19,11
+TCH1925,SCH308,Social Studies,Basic,20,10
+TCH1926,SCH422,Social Studies,Advanced,5,10
+TCH1927,SCH442,English,Advanced,4,30
+TCH1928,SCH032,English,Basic,6,28
+TCH1929,SCH157,Math,Basic,3,20
+TCH1930,SCH359,Nepali,Advanced,10,8
+TCH1931,SCH443,Math,Basic,16,12
+TCH1932,SCH256,Math,Basic,10,30
+TCH1933,SCH102,Math,Advanced,11,23
+TCH1934,SCH446,English,Basic,12,10
+TCH1935,SCH366,Social Studies,Basic,13,25
+TCH1936,SCH112,Social Studies,Basic,2,19
+TCH1937,SCH030,Social Studies,Basic,7,25
+TCH1938,SCH290,Nepali,Advanced,4,12
+TCH1939,SCH262,English,Basic,7,28
+TCH1940,SCH416,Nepali,Basic,3,28
+TCH1941,SCH028,Social Studies,Advanced,2,22
+TCH1942,SCH253,Math,Basic,5,23
+TCH1943,SCH409,Science,Basic,18,10
+TCH1944,SCH364,Social Studies,Basic,3,20
+TCH1945,SCH076,English,Basic,8,24
+TCH1946,SCH385,Social Studies,Basic,13,8
+TCH1947,SCH165,English,Basic,19,18
+TCH1948,SCH062,English,Advanced,10,8
+TCH1949,SCH350,Math,Advanced,4,11
+TCH1950,SCH348,Nepali,Advanced,10,8
+TCH1951,SCH211,Nepali,Basic,9,11
+TCH1952,SCH347,Nepali,Advanced,17,13
+TCH1953,SCH366,Nepali,Basic,9,22
+TCH1954,SCH414,Math,Basic,8,11
+TCH1955,SCH416,Social Studies,Basic,14,17
+TCH1956,SCH041,Science,Advanced,11,8
+TCH1957,SCH091,Social Studies,Basic,8,31
+TCH1958,SCH042,Social Studies,Advanced,1,8
+TCH1959,SCH431,Math,Advanced,21,10
+TCH1960,SCH149,Nepali,Advanced,11,11
+TCH1961,SCH173,English,Advanced,22,10
+TCH1962,SCH156,Math,Advanced,11,8
+TCH1963,SCH059,Social Studies,Advanced,6,8
+TCH1964,SCH185,Social Studies,Basic,8,30
+TCH1965,SCH372,Social Studies,Basic,9,10
+TCH1966,SCH434,Math,Basic,12,26
+TCH1967,SCH082,Nepali,Advanced,7,19
+TCH1968,SCH179,Science,Basic,11,29
+TCH1969,SCH277,Social Studies,Advanced,12,9
+TCH1970,SCH278,Nepali,Basic,16,10
+TCH1971,SCH053,English,Advanced,21,9
+TCH1972,SCH298,Social Studies,Basic,11,26
+TCH1973,SCH355,Science,Basic,8,22
+TCH1974,SCH444,Math,Basic,11,31
+TCH1975,SCH069,English,Advanced,1,10
+TCH1976,SCH209,Nepali,Basic,10,21
+TCH1977,SCH491,Science,Basic,10,26
+TCH1978,SCH018,English,Basic,11,23
+TCH1979,SCH211,Nepali,Advanced,4,10
+TCH1980,SCH251,English,Basic,14,28
+TCH1981,SCH187,English,Basic,1,24
+TCH1982,SCH057,English,Basic,7,27
+TCH1983,SCH455,Science,Basic,7,24
+TCH1984,SCH494,Social Studies,Basic,8,14
+TCH1985,SCH098,Science,Advanced,1,10
+TCH1986,SCH125,Nepali,Basic,8,27
+TCH1987,SCH334,Science,Advanced,9,9
+TCH1988,SCH151,Nepali,Advanced,10,23
+TCH1989,SCH070,Social Studies,Advanced,7,12
+TCH1990,SCH498,Math,Advanced,2,22
+TCH1991,SCH236,Math,Basic,14,11
+TCH1992,SCH182,Math,Basic,10,10
+TCH1993,SCH308,Math,Advanced,13,9
+TCH1994,SCH182,Science,Basic,6,11
+TCH1995,SCH389,English,Basic,3,35
+TCH1996,SCH235,Nepali,Basic,8,13
+TCH1997,SCH187,English,Basic,13,23
+TCH1998,SCH376,Nepali,Basic,18,11
+TCH1999,SCH416,English,Basic,6,18
+TCH2000,SCH195,Social Studies,Advanced,2,11
+TCH2001,SCH452,English,Advanced,7,25
+TCH2002,SCH343,Nepali,Advanced,18,9
+TCH2003,SCH113,Math,Basic,11,22
+TCH2004,SCH192,English,Basic,8,25
+TCH2005,SCH225,Science,Advanced,2,24
+TCH2006,SCH275,Nepali,Advanced,17,11
+TCH2007,SCH115,Math,Advanced,20,9
+TCH2008,SCH187,English,Basic,15,25
+TCH2009,SCH482,Math,Basic,5,25
+TCH2010,SCH237,Nepali,Basic,7,10
+TCH2011,SCH476,English,Advanced,2,12
+TCH2012,SCH433,Social Studies,Advanced,8,10
+TCH2013,SCH013,Math,Basic,13,22
+TCH2014,SCH497,Science,Advanced,11,29
+TCH2015,SCH464,Math,Advanced,12,10
+TCH2016,SCH154,Social Studies,Basic,14,20
+TCH2017,SCH489,Social Studies,Advanced,13,18
+TCH2018,SCH229,Social Studies,Basic,5,32
+TCH2019,SCH295,Nepali,Basic,17,10
+TCH2020,SCH013,Social Studies,Basic,18,20
+TCH2021,SCH470,Nepali,Basic,10,24
+TCH2022,SCH281,Nepali,Basic,8,28
+TCH2023,SCH148,Science,Basic,11,25
+TCH2024,SCH466,Nepali,Basic,16,12
+TCH2025,SCH236,Math,Advanced,14,11
+TCH2026,SCH037,Science,Basic,9,23
+TCH2027,SCH143,English,Basic,12,11
+TCH2028,SCH470,Nepali,Basic,1,26
+TCH2029,SCH335,Science,Basic,11,25
+TCH2030,SCH243,Social Studies,Basic,3,27
+TCH2031,SCH148,Science,Basic,4,31
+TCH2032,SCH379,English,Advanced,18,10
+TCH2033,SCH097,Science,Advanced,10,8
+TCH2034,SCH497,English,Basic,17,22
+TCH2035,SCH269,Math,Basic,21,8
+TCH2036,SCH330,Social Studies,Basic,7,22
+TCH2037,SCH088,Social Studies,Basic,3,26
+TCH2038,SCH017,Science,Basic,16,23
+TCH2039,SCH208,Science,Advanced,13,8
+TCH2040,SCH002,Science,Advanced,6,8
+TCH2041,SCH290,Math,Advanced,7,9
+TCH2042,SCH199,English,Advanced,3,13
+TCH2043,SCH329,Social Studies,Advanced,14,11
+TCH2044,SCH107,English,Advanced,3,10
+TCH2045,SCH099,Social Studies,Advanced,21,9
+TCH2046,SCH105,Nepali,Basic,9,23
+TCH2047,SCH021,Social Studies,Advanced,10,25
+TCH2048,SCH427,Science,Advanced,10,10
+TCH2049,SCH427,Math,Basic,11,10
+TCH2050,SCH075,English,Basic,7,29
+TCH2051,SCH188,Nepali,Basic,17,26
+TCH2052,SCH033,Science,Advanced,10,23
+TCH2053,SCH007,Science,Basic,11,18
+TCH2054,SCH327,English,Basic,15,8
+TCH2055,SCH478,Social Studies,Advanced,20,11
+TCH2056,SCH280,English,Advanced,11,11
+TCH2057,SCH368,English,Advanced,17,24
+TCH2058,SCH128,Social Studies,Basic,9,26
+TCH2059,SCH121,English,Basic,10,23
+TCH2060,SCH017,Science,Basic,12,25
+TCH2061,SCH150,Social Studies,Basic,13,8
+TCH2062,SCH202,Nepali,Advanced,18,8
+TCH2063,SCH120,Science,Basic,3,8
+TCH2064,SCH444,Science,Advanced,12,23
+TCH2065,SCH174,Social Studies,Basic,8,10
+TCH2066,SCH409,Science,Advanced,4,10
+TCH2067,SCH124,Social Studies,Advanced,25,11
+TCH2068,SCH173,English,Advanced,14,11
+TCH2069,SCH459,Science,Advanced,26,9
+TCH2070,SCH419,Science,Basic,9,8
+TCH2071,SCH417,Science,Advanced,1,25
+TCH2072,SCH032,Science,Basic,8,26
+TCH2073,SCH182,Nepali,Basic,5,8
+TCH2074,SCH486,Nepali,Basic,1,26
+TCH2075,SCH163,English,Basic,9,31
+TCH2076,SCH049,Social Studies,Advanced,19,8
+TCH2077,SCH434,Math,Basic,2,27
+TCH2078,SCH157,Science,Advanced,8,28
+TCH2079,SCH073,Math,Basic,14,26
+TCH2080,SCH477,Science,Basic,12,8
+TCH2081,SCH346,Nepali,Advanced,3,27
+TCH2082,SCH293,Nepali,Basic,4,9
+TCH2083,SCH282,English,Basic,2,21
+TCH2084,SCH110,Nepali,Basic,7,23
+TCH2085,SCH327,Nepali,Advanced,15,12
+TCH2086,SCH169,Social Studies,Advanced,6,20
+TCH2087,SCH412,Nepali,Advanced,6,28
+TCH2088,SCH246,Social Studies,Advanced,3,20
+TCH2089,SCH379,Social Studies,Basic,3,12
+TCH2090,SCH052,Math,Basic,1,20
+TCH2091,SCH279,Nepali,Basic,2,23
+TCH2092,SCH279,Social Studies,Advanced,4,25
+TCH2093,SCH309,Social Studies,Basic,8,8
+TCH2094,SCH128,Nepali,Advanced,5,20
+TCH2095,SCH277,Science,Advanced,18,12
+TCH2096,SCH228,Math,Basic,1,26
+TCH2097,SCH388,Math,Advanced,12,10
+TCH2098,SCH335,Nepali,Basic,5,22
+TCH2099,SCH106,Nepali,Basic,12,28
+TCH2100,SCH178,English,Advanced,12,8
+TCH2101,SCH382,Social Studies,Advanced,12,9
+TCH2102,SCH270,Science,Basic,11,10
+TCH2103,SCH452,Social Studies,Advanced,7,28
+TCH2104,SCH481,Math,Advanced,8,11
+TCH2105,SCH356,Science,Advanced,6,28
+TCH2106,SCH291,Social Studies,Advanced,17,10
+TCH2107,SCH030,Math,Advanced,5,17
+TCH2108,SCH090,English,Basic,10,23
+TCH2109,SCH397,English,Basic,12,11
+TCH2110,SCH306,Science,Advanced,7,10
+TCH2111,SCH034,Social Studies,Basic,1,26
+TCH2112,SCH061,Nepali,Advanced,4,15
+TCH2113,SCH143,Social Studies,Advanced,14,15
+TCH2114,SCH337,Nepali,Basic,11,8
+TCH2115,SCH183,English,Advanced,15,9
+TCH2116,SCH105,English,Advanced,10,21
+TCH2117,SCH064,Nepali,Basic,1,26
+TCH2118,SCH122,English,Basic,5,22
+TCH2119,SCH463,Math,Advanced,17,9
+TCH2120,SCH082,Social Studies,Basic,10,22
+TCH2121,SCH457,Nepali,Advanced,19,13
+TCH2122,SCH177,Science,Basic,16,8
+TCH2123,SCH359,Science,Advanced,16,9
+TCH2124,SCH250,Nepali,Advanced,10,23
+TCH2125,SCH182,Math,Basic,9,10
+TCH2126,SCH308,Math,Advanced,23,10
+TCH2127,SCH057,Nepali,Basic,6,22
+TCH2128,SCH494,Nepali,Basic,9,13
+TCH2129,SCH113,Social Studies,Advanced,5,23
+TCH2130,SCH075,Science,Basic,2,27
+TCH2131,SCH446,English,Advanced,15,12
+TCH2132,SCH334,English,Advanced,16,9
+TCH2133,SCH245,Science,Advanced,21,12
+TCH2134,SCH014,Social Studies,Basic,12,10
+TCH2135,SCH393,English,Advanced,2,10
+TCH2136,SCH424,Science,Advanced,8,24
+TCH2137,SCH003,Science,Advanced,14,8
+TCH2138,SCH393,Science,Advanced,25,11
+TCH2139,SCH445,Social Studies,Basic,16,11
+TCH2140,SCH286,Math,Basic,12,25
+TCH2141,SCH176,Nepali,Basic,5,18
+TCH2142,SCH137,Science,Advanced,18,11
+TCH2143,SCH069,Social Studies,Advanced,4,8
+TCH2144,SCH377,Science,Advanced,1,9
+TCH2145,SCH433,Nepali,Advanced,18,8
+TCH2146,SCH425,Social Studies,Basic,12,8
+TCH2147,SCH447,Math,Basic,1,22
+TCH2148,SCH207,Nepali,Basic,22,8
+TCH2149,SCH402,Math,Advanced,3,8
+TCH2150,SCH345,Social Studies,Basic,8,9
+TCH2151,SCH062,Science,Basic,7,8
+TCH2152,SCH368,Social Studies,Basic,10,24
+TCH2153,SCH060,Math,Advanced,5,11
+TCH2154,SCH338,Math,Advanced,25,10
+TCH2155,SCH487,Science,Basic,13,22
+TCH2156,SCH301,Social Studies,Basic,12,8
+TCH2157,SCH395,Math,Advanced,1,8
+TCH2158,SCH369,Science,Basic,5,20
+TCH2159,SCH226,Social Studies,Advanced,10,8
+TCH2160,SCH414,Science,Advanced,23,8
+TCH2161,SCH229,Science,Advanced,3,22
+TCH2162,SCH432,English,Basic,17,11
+TCH2163,SCH496,English,Basic,12,8
+TCH2164,SCH223,Social Studies,Advanced,1,8
+TCH2165,SCH479,Social Studies,Basic,12,9
+TCH2166,SCH273,Math,Basic,13,26
+TCH2167,SCH168,Social Studies,Basic,4,27
+TCH2168,SCH305,Science,Basic,1,26
+TCH2169,SCH286,Science,Advanced,12,27
+TCH2170,SCH433,Social Studies,Basic,8,11
+TCH2171,SCH008,Math,Advanced,1,8
+TCH2172,SCH095,Social Studies,Basic,3,17
+TCH2173,SCH127,English,Advanced,18,12
+TCH2174,SCH166,Social Studies,Basic,10,12
+TCH2175,SCH459,Math,Advanced,5,9
+TCH2176,SCH329,Math,Advanced,9,8
+TCH2177,SCH088,Nepali,Advanced,10,24
+TCH2178,SCH415,Science,Advanced,9,10
+TCH2179,SCH117,Social Studies,Advanced,12,23
+TCH2180,SCH265,English,Advanced,25,11
+TCH2181,SCH064,Nepali,Basic,9,25
+TCH2182,SCH496,Nepali,Advanced,23,10
+TCH2183,SCH219,Nepali,Basic,11,8
+TCH2184,SCH360,Math,Basic,13,11
+TCH2185,SCH109,Math,Advanced,22,9
+TCH2186,SCH387,English,Advanced,13,9
+TCH2187,SCH295,Social Studies,Advanced,15,11
+TCH2188,SCH406,Math,Advanced,8,10
+TCH2189,SCH088,Nepali,Basic,8,26
+TCH2190,SCH449,English,Basic,13,31
+TCH2191,SCH437,Social Studies,Basic,1,28
+TCH2192,SCH376,Science,Advanced,6,11
+TCH2193,SCH324,English,Advanced,13,8
+TCH2194,SCH064,Science,Basic,15,23
+TCH2195,SCH030,Math,Basic,12,25
+TCH2196,SCH337,Social Studies,Advanced,2,9
+TCH2197,SCH259,English,Advanced,11,23
+TCH2198,SCH203,Social Studies,Basic,3,27
+TCH2199,SCH293,Science,Advanced,10,9
+TCH2200,SCH429,English,Basic,4,12
+TCH2201,SCH067,Math,Basic,21,9
+TCH2202,SCH094,Math,Basic,4,34
+TCH2203,SCH264,Social Studies,Basic,9,21
+TCH2204,SCH301,Social Studies,Advanced,13,10
+TCH2205,SCH004,Science,Advanced,19,14
+TCH2206,SCH480,Math,Basic,11,11
+TCH2207,SCH368,Math,Advanced,5,19
+TCH2208,SCH447,English,Basic,8,17
+TCH2209,SCH353,Nepali,Advanced,27,12
+TCH2210,SCH408,English,Basic,13,8
+TCH2211,SCH379,Nepali,Advanced,12,8
+TCH2212,SCH315,Social Studies,Advanced,16,12
+TCH2213,SCH407,Math,Advanced,12,8
+TCH2214,SCH312,Nepali,Advanced,2,8
+TCH2215,SCH389,Math,Advanced,4,20
+TCH2216,SCH499,English,Basic,8,12
+TCH2217,SCH430,Science,Advanced,8,8
+TCH2218,SCH125,Social Studies,Advanced,8,27
+TCH2219,SCH175,Science,Basic,13,32
+TCH2220,SCH358,Science,Advanced,7,9
+TCH2221,SCH088,Social Studies,Basic,1,20
+TCH2222,SCH280,Math,Advanced,10,8
+TCH2223,SCH352,Math,Basic,3,21
+TCH2224,SCH493,Math,Basic,12,19
+TCH2225,SCH262,Nepali,Basic,15,20
+TCH2226,SCH269,Math,Advanced,21,8
+TCH2227,SCH421,Math,Advanced,4,10
+TCH2228,SCH384,Social Studies,Advanced,11,11
+TCH2229,SCH085,Nepali,Advanced,6,9
+TCH2230,SCH141,Social Studies,Basic,11,11
+TCH2231,SCH200,Science,Advanced,10,28
+TCH2232,SCH337,Science,Basic,19,9
+TCH2233,SCH489,English,Advanced,15,24
+TCH2234,SCH471,Math,Basic,8,26
+TCH2235,SCH329,Science,Basic,12,11
+TCH2236,SCH255,English,Basic,14,8
+TCH2237,SCH483,Math,Basic,1,26
+TCH2238,SCH045,Social Studies,Advanced,3,26
+TCH2239,SCH385,Social Studies,Advanced,2,9
+TCH2240,SCH037,English,Basic,4,26
+TCH2241,SCH459,Nepali,Advanced,5,11
+TCH2242,SCH133,Social Studies,Basic,13,26
+TCH2243,SCH252,Social Studies,Basic,13,11
+TCH2244,SCH204,Math,Advanced,16,8
+TCH2245,SCH036,English,Advanced,18,13
+TCH2246,SCH324,Science,Advanced,15,8
+TCH2247,SCH126,English,Basic,1,16
+TCH2248,SCH284,Math,Advanced,18,12
+TCH2249,SCH258,English,Basic,14,11
+TCH2250,SCH258,Social Studies,Advanced,10,11
+TCH2251,SCH323,Social Studies,Basic,11,10
+TCH2252,SCH221,English,Advanced,9,27
+TCH2253,SCH054,English,Advanced,3,20
+TCH2254,SCH472,Math,Basic,15,29
+TCH2255,SCH351,Math,Basic,15,10
+TCH2256,SCH269,Nepali,Advanced,5,10
+TCH2257,SCH176,Social Studies,Advanced,3,29
+TCH2258,SCH171,Nepali,Basic,4,10
+TCH2259,SCH002,English,Advanced,15,10
+TCH2260,SCH273,English,Basic,12,21
+TCH2261,SCH395,Nepali,Basic,15,9
+TCH2262,SCH282,Math,Basic,8,17
+TCH2263,SCH028,Math,Advanced,13,21
+TCH2264,SCH262,Science,Basic,9,30
+TCH2265,SCH006,Math,Basic,19,28
+TCH2266,SCH057,Social Studies,Basic,10,28
+TCH2267,SCH336,English,Advanced,5,25
+TCH2268,SCH008,Social Studies,Advanced,17,9
+TCH2269,SCH046,English,Basic,1,29
+TCH2270,SCH055,English,Advanced,16,8
+TCH2271,SCH383,Nepali,Advanced,2,26
+TCH2272,SCH420,Science,Basic,25,25
+TCH2273,SCH489,Science,Advanced,5,17
+TCH2274,SCH310,Social Studies,Basic,9,27
+TCH2275,SCH392,English,Basic,6,24
+TCH2276,SCH187,Math,Basic,6,20
+TCH2277,SCH426,Nepali,Basic,3,15
+TCH2278,SCH456,Science,Advanced,5,10
+TCH2279,SCH310,Math,Basic,3,26
+TCH2280,SCH195,Nepali,Advanced,1,10
+TCH2281,SCH402,Science,Advanced,8,8
+TCH2282,SCH247,Social Studies,Advanced,19,8
+TCH2283,SCH340,Science,Basic,15,11
+TCH2284,SCH263,Nepali,Advanced,10,8
+TCH2285,SCH020,Nepali,Basic,8,23
+TCH2286,SCH357,Science,Basic,13,28
+TCH2287,SCH100,Science,Basic,7,20
+TCH2288,SCH270,English,Advanced,11,10
+TCH2289,SCH023,Social Studies,Basic,7,24
+TCH2290,SCH398,Nepali,Advanced,4,19
+TCH2291,SCH054,Math,Basic,6,25
+TCH2292,SCH404,English,Basic,8,24
+TCH2293,SCH247,Nepali,Advanced,1,8
+TCH2294,SCH259,Nepali,Basic,13,27
+TCH2295,SCH332,Science,Basic,11,10
+TCH2296,SCH052,Social Studies,Basic,2,20
+TCH2297,SCH090,Nepali,Basic,4,23
+TCH2298,SCH362,English,Basic,8,10
+TCH2299,SCH115,Nepali,Advanced,12,10
+TCH2300,SCH284,Nepali,Advanced,1,15
+TCH2301,SCH202,Nepali,Advanced,13,9
+TCH2302,SCH001,Social Studies,Advanced,9,9
+TCH2303,SCH058,Science,Advanced,9,8
+TCH2304,SCH347,Science,Advanced,11,11
+TCH2305,SCH260,English,Advanced,11,10
+TCH2306,SCH368,Math,Advanced,12,28
+TCH2307,SCH499,Social Studies,Advanced,22,8
+TCH2308,SCH366,Science,Basic,3,21
+TCH2309,SCH189,English,Advanced,1,8
+TCH2310,SCH353,Social Studies,Advanced,15,12
+TCH2311,SCH166,English,Advanced,14,13
+TCH2312,SCH426,Social Studies,Basic,3,28
+TCH2313,SCH261,Nepali,Basic,11,25
+TCH2314,SCH481,Math,Advanced,11,9
+TCH2315,SCH126,Social Studies,Advanced,12,26
+TCH2316,SCH140,Nepali,Basic,9,27
+TCH2317,SCH173,English,Advanced,11,11
+TCH2318,SCH240,Science,Advanced,4,25
+TCH2319,SCH174,Math,Basic,11,9
+TCH2320,SCH007,Math,Basic,8,22
+TCH2321,SCH479,Science,Advanced,27,12
+TCH2322,SCH129,Social Studies,Basic,13,27
+TCH2323,SCH095,Nepali,Basic,12,28
+TCH2324,SCH294,Science,Basic,6,23
+TCH2325,SCH020,Social Studies,Basic,4,27
+TCH2326,SCH467,Math,Advanced,1,10
+TCH2327,SCH062,Math,Basic,10,8
+TCH2328,SCH138,English,Advanced,9,23
+TCH2329,SCH328,Science,Basic,14,8
+TCH2330,SCH146,Math,Advanced,1,24
+TCH2331,SCH302,Science,Basic,6,8
+TCH2332,SCH496,English,Basic,17,8
+TCH2333,SCH378,Math,Basic,7,16
+TCH2334,SCH063,Social Studies,Basic,5,27
+TCH2335,SCH099,Science,Basic,1,9
+TCH2336,SCH330,Nepali,Advanced,4,27
+TCH2337,SCH325,Nepali,Advanced,9,10
+TCH2338,SCH299,English,Advanced,15,9
+TCH2339,SCH390,Science,Advanced,14,9
+TCH2340,SCH347,Nepali,Advanced,14,8
+TCH2341,SCH331,Math,Basic,6,8
+TCH2342,SCH433,Social Studies,Basic,13,12
+TCH2343,SCH368,English,Basic,12,24
+TCH2344,SCH361,English,Advanced,11,11
+TCH2345,SCH101,Nepali,Advanced,19,8
+TCH2346,SCH275,English,Advanced,8,10
+TCH2347,SCH388,Social Studies,Basic,11,9
+TCH2348,SCH044,Math,Basic,17,21
+TCH2349,SCH203,Math,Basic,4,21
+TCH2350,SCH305,Nepali,Basic,1,22
+TCH2351,SCH476,Social Studies,Basic,6,9
+TCH2352,SCH384,Social Studies,Advanced,17,8
+TCH2353,SCH147,Nepali,Advanced,12,28
+TCH2354,SCH400,Nepali,Basic,7,26
+TCH2355,SCH165,English,Advanced,12,23
+TCH2356,SCH491,Social Studies,Advanced,6,26
+TCH2357,SCH024,Nepali,Basic,14,9
+TCH2358,SCH076,English,Advanced,11,24
+TCH2359,SCH171,Math,Advanced,15,10
+TCH2360,SCH205,English,Basic,4,30
+TCH2361,SCH011,Math,Basic,12,20
+TCH2362,SCH288,Social Studies,Basic,11,23
+TCH2363,SCH183,English,Advanced,16,12
+TCH2364,SCH398,English,Advanced,10,29
+TCH2365,SCH387,Social Studies,Advanced,15,9
+TCH2366,SCH471,Nepali,Basic,1,20
+TCH2367,SCH037,English,Advanced,4,26
+TCH2368,SCH220,Nepali,Advanced,4,8
+TCH2369,SCH167,Nepali,Advanced,9,9
+TCH2370,SCH205,Math,Basic,8,29
+TCH2371,SCH010,Math,Basic,5,24
+TCH2372,SCH186,Social Studies,Advanced,17,8
+TCH2373,SCH178,Science,Basic,18,8
+TCH2374,SCH319,Science,Basic,9,8
+TCH2375,SCH452,Science,Basic,15,25
+TCH2376,SCH447,Science,Advanced,6,20
+TCH2377,SCH171,Social Studies,Advanced,18,11
+TCH2378,SCH330,English,Advanced,4,25
+TCH2379,SCH243,Science,Basic,9,26
+TCH2380,SCH054,Nepali,Basic,5,31
+TCH2381,SCH388,Math,Basic,10,9
+TCH2382,SCH194,Social Studies,Advanced,17,11
+TCH2383,SCH141,English,Advanced,17,13
+TCH2384,SCH345,Math,Advanced,7,10
+TCH2385,SCH389,Science,Basic,3,22
+TCH2386,SCH435,Nepali,Advanced,7,9
+TCH2387,SCH297,Nepali,Advanced,16,9
+TCH2388,SCH403,Social Studies,Basic,12,8
+TCH2389,SCH259,English,Basic,4,19
+TCH2390,SCH470,Science,Advanced,6,24
+TCH2391,SCH071,Math,Basic,11,8
+TCH2392,SCH330,Math,Basic,9,24
+TCH2393,SCH362,Social Studies,Advanced,6,10
+TCH2394,SCH173,Social Studies,Advanced,12,9
+TCH2395,SCH011,Science,Basic,13,26
+TCH2396,SCH094,Science,Basic,21,23
+TCH2397,SCH500,Math,Basic,8,20
+TCH2398,SCH203,Math,Basic,5,17
+TCH2399,SCH422,Math,Basic,14,11
+TCH2400,SCH238,Nepali,Basic,6,18
+TCH2401,SCH085,Social Studies,Basic,24,9
+TCH2402,SCH294,Math,Basic,5,28
+TCH2403,SCH319,Nepali,Advanced,6,8
+TCH2404,SCH208,Nepali,Basic,16,12
+TCH2405,SCH484,Social Studies,Basic,6,19
+TCH2406,SCH023,Nepali,Basic,12,15
+TCH2407,SCH107,Social Studies,Basic,14,8
+TCH2408,SCH444,Social Studies,Basic,6,26
+TCH2409,SCH451,Math,Advanced,6,9
+TCH2410,SCH269,Math,Basic,9,9
+TCH2411,SCH030,Science,Advanced,8,24
+TCH2412,SCH129,Nepali,Basic,8,29
+TCH2413,SCH084,Nepali,Advanced,20,10
+TCH2414,SCH334,Social Studies,Basic,13,8
+TCH2415,SCH406,Social Studies,Advanced,1,9
+TCH2416,SCH308,Social Studies,Basic,21,9
+TCH2417,SCH270,Math,Advanced,16,9
+TCH2418,SCH419,Math,Advanced,12,8
+TCH2419,SCH002,Social Studies,Basic,16,10
+TCH2420,SCH187,Social Studies,Basic,4,18
+TCH2421,SCH491,Math,Basic,11,26
+TCH2422,SCH281,Math,Basic,9,21
+TCH2423,SCH069,Math,Basic,16,8
+TCH2424,SCH345,Science,Advanced,17,8
+TCH2425,SCH078,English,Basic,4,9
+TCH2426,SCH107,Science,Basic,15,11
+TCH2427,SCH124,Science,Basic,13,12
+TCH2428,SCH478,Nepali,Basic,13,10
+TCH2429,SCH273,Social Studies,Advanced,1,20
+TCH2430,SCH292,Math,Advanced,18,8
+TCH2431,SCH495,English,Basic,6,23
+TCH2432,SCH467,English,Advanced,5,8
+TCH2433,SCH088,Social Studies,Basic,7,20
+TCH2434,SCH445,Math,Advanced,9,8
+TCH2435,SCH451,Social Studies,Basic,12,11
+TCH2436,SCH445,Nepali,Basic,20,10
+TCH2437,SCH134,Nepali,Advanced,2,30
+TCH2438,SCH294,Math,Advanced,9,22
+TCH2439,SCH399,English,Basic,9,8
+TCH2440,SCH413,English,Advanced,11,28
+TCH2441,SCH491,Social Studies,Basic,9,29
+TCH2442,SCH079,Math,Advanced,11,14
+TCH2443,SCH256,Nepali,Basic,7,17
+TCH2444,SCH278,Math,Advanced,17,9
+TCH2445,SCH149,Math,Advanced,18,10
+TCH2446,SCH199,Nepali,Advanced,7,9
+TCH2447,SCH224,English,Basic,1,21
+TCH2448,SCH006,Math,Basic,9,28
+TCH2449,SCH036,Math,Advanced,16,8
+TCH2450,SCH276,Math,Advanced,18,10
+TCH2451,SCH327,Social Studies,Advanced,15,12
+TCH2452,SCH231,Science,Basic,9,21
+TCH2453,SCH024,Nepali,Basic,19,10
+TCH2454,SCH224,Science,Basic,10,20
+TCH2455,SCH478,Science,Advanced,19,10
+TCH2456,SCH342,Social Studies,Basic,1,24
+TCH2457,SCH057,English,Basic,7,25
+TCH2458,SCH041,Science,Basic,10,10
+TCH2459,SCH094,English,Basic,12,24
+TCH2460,SCH029,Math,Advanced,8,10
+TCH2461,SCH001,Nepali,Advanced,18,11
+TCH2462,SCH062,Science,Basic,1,8
+TCH2463,SCH019,Science,Basic,1,26
+TCH2464,SCH276,Social Studies,Advanced,18,9
+TCH2465,SCH146,Social Studies,Advanced,8,21
+TCH2466,SCH031,English,Basic,13,21
+TCH2467,SCH084,Social Studies,Basic,18,8
+TCH2468,SCH424,Science,Advanced,16,19
+TCH2469,SCH212,Math,Advanced,5,12
+TCH2470,SCH325,Math,Advanced,18,9
+TCH2471,SCH459,Social Studies,Advanced,3,8
+TCH2472,SCH255,Math,Basic,20,10
+TCH2473,SCH095,Science,Basic,8,22
+TCH2474,SCH315,Science,Advanced,9,11
+TCH2475,SCH037,Math,Basic,2,28
+TCH2476,SCH344,English,Basic,11,31
+TCH2477,SCH390,Nepali,Advanced,15,11
+TCH2478,SCH317,Social Studies,Advanced,3,9
+TCH2479,SCH456,Math,Basic,11,10
+TCH2480,SCH361,English,Basic,12,12
+TCH2481,SCH297,Math,Basic,12,8
+TCH2482,SCH488,Nepali,Basic,5,13
+TCH2483,SCH253,Social Studies,Basic,9,25
+TCH2484,SCH477,Nepali,Advanced,13,10
+TCH2485,SCH062,Math,Basic,10,11
+TCH2486,SCH304,Science,Advanced,18,11
+TCH2487,SCH107,Science,Basic,11,8
+TCH2488,SCH332,Social Studies,Basic,4,11
+TCH2489,SCH445,Science,Advanced,9,10
+TCH2490,SCH458,Math,Basic,3,25
+TCH2491,SCH470,Nepali,Advanced,13,30
+TCH2492,SCH168,Nepali,Basic,1,27
+TCH2493,SCH035,Social Studies,Advanced,6,13
+TCH2494,SCH325,English,Basic,23,10
+TCH2495,SCH277,Math,Basic,12,9
+TCH2496,SCH356,Math,Advanced,15,25
+TCH2497,SCH239,Social Studies,Basic,13,9
+TCH2498,SCH304,Math,Advanced,12,11
+TCH2499,SCH449,Nepali,Basic,10,28
+TCH2500,SCH349,Science,Advanced,9,24
+TCH2501,SCH248,Science,Advanced,13,10
+TCH2502,SCH103,Science,Basic,7,8
+TCH2503,SCH246,English,Advanced,3,20
+TCH2504,SCH177,English,Basic,17,8
+TCH2505,SCH068,Nepali,Basic,15,22
+TCH2506,SCH418,Nepali,Advanced,15,13
+TCH2507,SCH319,Math,Basic,15,13
+TCH2508,SCH147,Social Studies,Advanced,3,29
+TCH2509,SCH190,English,Basic,4,28
+TCH2510,SCH206,Nepali,Basic,7,25
+TCH2511,SCH071,Math,Basic,11,9
+TCH2512,SCH057,Nepali,Basic,8,26
+TCH2513,SCH113,Math,Advanced,1,23
+TCH2514,SCH121,Science,Basic,11,25
+TCH2515,SCH074,English,Basic,12,19
+TCH2516,SCH149,Nepali,Advanced,13,11
+TCH2517,SCH037,Nepali,Basic,6,23
+TCH2518,SCH042,Nepali,Advanced,20,8
+TCH2519,SCH045,Social Studies,Basic,5,22
+TCH2520,SCH444,English,Advanced,11,29
+TCH2521,SCH042,English,Advanced,18,8
+TCH2522,SCH123,Social Studies,Advanced,9,22
+TCH2523,SCH098,English,Advanced,18,10
+TCH2524,SCH088,Nepali,Basic,7,25
+TCH2525,SCH212,English,Basic,17,10
+TCH2526,SCH035,Social Studies,Advanced,10,9
+TCH2527,SCH264,English,Basic,11,20
+TCH2528,SCH381,Nepali,Advanced,17,8
+TCH2529,SCH489,Social Studies,Basic,8,22
+TCH2530,SCH299,English,Advanced,29,8
+TCH2531,SCH355,Math,Basic,6,22
+TCH2532,SCH001,Nepali,Basic,17,12
+TCH2533,SCH384,English,Advanced,11,8
+TCH2534,SCH299,Social Studies,Basic,23,11
+TCH2535,SCH444,Nepali,Basic,17,24
+TCH2536,SCH321,Math,Basic,9,22
+TCH2537,SCH232,Science,Basic,1,23
+TCH2538,SCH251,Science,Advanced,3,24
+TCH2539,SCH172,English,Basic,1,27
+TCH2540,SCH011,English,Basic,9,16
+TCH2541,SCH276,English,Advanced,1,8
+TCH2542,SCH075,Math,Basic,12,33
+TCH2543,SCH037,Math,Basic,2,22
+TCH2544,SCH175,Science,Advanced,1,24
+TCH2545,SCH067,Nepali,Advanced,10,11
+TCH2546,SCH454,English,Basic,1,28
+TCH2547,SCH328,English,Advanced,16,8
+TCH2548,SCH479,Math,Basic,7,9
+TCH2549,SCH490,Science,Advanced,4,23
+TCH2550,SCH045,Math,Basic,1,23
+TCH2551,SCH070,Social Studies,Advanced,9,10
+TCH2552,SCH014,Social Studies,Advanced,19,9
+TCH2553,SCH119,Nepali,Advanced,6,8
+TCH2554,SCH180,Math,Basic,10,25
+TCH2555,SCH393,Science,Advanced,11,10
+TCH2556,SCH286,Math,Basic,12,26
+TCH2557,SCH261,Math,Advanced,9,30
+TCH2558,SCH220,Social Studies,Advanced,12,8
+TCH2559,SCH140,English,Basic,14,22
+TCH2560,SCH467,Science,Advanced,4,10
+TCH2561,SCH322,Science,Basic,11,21
+TCH2562,SCH362,Social Studies,Basic,17,9
+TCH2563,SCH429,Nepali,Advanced,9,10
+TCH2564,SCH067,Math,Advanced,8,9
+TCH2565,SCH040,Social Studies,Advanced,22,9
+TCH2566,SCH347,Nepali,Basic,9,8
+TCH2567,SCH340,Nepali,Advanced,9,8
+TCH2568,SCH181,Math,Advanced,9,8
+TCH2569,SCH402,Science,Advanced,10,8
+TCH2570,SCH099,Social Studies,Advanced,26,8
+TCH2571,SCH157,Social Studies,Basic,5,26
+TCH2572,SCH306,Social Studies,Basic,14,11
+TCH2573,SCH139,Nepali,Basic,6,21
+TCH2574,SCH045,Math,Basic,15,21
+TCH2575,SCH476,Social Studies,Advanced,10,10
+TCH2576,SCH103,Social Studies,Advanced,15,10
+TCH2577,SCH057,English,Advanced,5,25
+TCH2578,SCH157,English,Advanced,1,33
+TCH2579,SCH154,Nepali,Advanced,3,28
+TCH2580,SCH445,Math,Basic,6,11
+TCH2581,SCH024,Math,Advanced,5,11
+TCH2582,SCH125,Social Studies,Basic,17,25
+TCH2583,SCH271,Science,Advanced,10,28
+TCH2584,SCH008,Science,Advanced,8,11
+TCH2585,SCH210,Science,Basic,5,33
+TCH2586,SCH260,English,Advanced,4,10
+TCH2587,SCH458,Social Studies,Advanced,2,29
+TCH2588,SCH436,Science,Basic,20,26
+TCH2589,SCH405,English,Basic,23,11
+TCH2590,SCH366,Nepali,Advanced,16,28
+TCH2591,SCH468,Social Studies,Advanced,22,13
+TCH2592,SCH078,Social Studies,Advanced,9,9
+TCH2593,SCH207,Social Studies,Basic,10,8
+TCH2594,SCH044,Social Studies,Advanced,10,30
+TCH2595,SCH354,Science,Basic,15,9
+TCH2596,SCH286,Math,Advanced,9,17
+TCH2597,SCH332,English,Advanced,5,9
+TCH2598,SCH389,Science,Basic,10,24
+TCH2599,SCH234,Social Studies,Basic,13,9
+TCH2600,SCH264,English,Advanced,6,20
+TCH2601,SCH292,Nepali,Advanced,14,9
+TCH2602,SCH029,Science,Advanced,12,8
+TCH2603,SCH282,Math,Advanced,10,25
+TCH2604,SCH368,English,Basic,9,21
+TCH2605,SCH195,Math,Advanced,7,10
+TCH2606,SCH334,Social Studies,Advanced,3,11
+TCH2607,SCH468,Math,Advanced,11,8
+TCH2608,SCH192,Social Studies,Advanced,1,29
+TCH2609,SCH097,English,Advanced,1,10
+TCH2610,SCH070,Nepali,Advanced,12,11
+TCH2611,SCH389,Math,Basic,2,22
+TCH2612,SCH415,Math,Advanced,13,10
+TCH2613,SCH223,Math,Basic,17,9
+TCH2614,SCH139,Science,Advanced,14,25
+TCH2615,SCH033,Math,Basic,16,31
+TCH2616,SCH250,English,Basic,16,22
+TCH2617,SCH053,English,Advanced,19,9
+TCH2618,SCH218,Nepali,Advanced,7,28
+TCH2619,SCH173,Science,Advanced,9,8
+TCH2620,SCH413,English,Basic,8,32
+TCH2621,SCH484,Science,Basic,6,24
+TCH2622,SCH021,English,Advanced,9,23
+TCH2623,SCH359,Nepali,Advanced,10,10
+TCH2624,SCH282,Science,Advanced,5,30
+TCH2625,SCH163,Social Studies,Basic,18,26
+TCH2626,SCH032,Science,Basic,5,27
+TCH2627,SCH072,Social Studies,Basic,5,8
+TCH2628,SCH256,Science,Basic,7,30
+TCH2629,SCH159,Math,Basic,15,26
+TCH2630,SCH364,Social Studies,Advanced,11,25
+TCH2631,SCH120,Nepali,Basic,11,8
+TCH2632,SCH472,Nepali,Basic,13,23
+TCH2633,SCH263,English,Basic,16,9
+TCH2634,SCH477,English,Advanced,6,8
+TCH2635,SCH387,Nepali,Advanced,8,10
+TCH2636,SCH019,English,Basic,13,27
+TCH2637,SCH097,Math,Advanced,7,8
+TCH2638,SCH062,Science,Advanced,16,13
+TCH2639,SCH409,Social Studies,Advanced,17,14
+TCH2640,SCH473,Nepali,Advanced,9,9
+TCH2641,SCH400,Math,Basic,14,18
+TCH2642,SCH388,Social Studies,Basic,14,10
+TCH2643,SCH294,Science,Advanced,14,21
+TCH2644,SCH155,Social Studies,Advanced,10,8
+TCH2645,SCH188,Math,Basic,7,20
+TCH2646,SCH257,English,Basic,10,25
+TCH2647,SCH009,Nepali,Advanced,10,10
+TCH2648,SCH463,Math,Advanced,14,12
+TCH2649,SCH323,Social Studies,Advanced,11,12
+TCH2650,SCH149,Social Studies,Advanced,7,8
+TCH2651,SCH345,Social Studies,Basic,21,12
+TCH2652,SCH033,English,Basic,1,16
+TCH2653,SCH354,English,Advanced,21,9
+TCH2654,SCH241,Social Studies,Basic,8,10
+TCH2655,SCH335,English,Basic,5,25
+TCH2656,SCH335,English,Basic,6,23
+TCH2657,SCH321,Math,Advanced,1,20
+TCH2658,SCH095,Math,Advanced,13,28
+TCH2659,SCH228,Social Studies,Basic,9,28
+TCH2660,SCH269,Social Studies,Basic,12,8
+TCH2661,SCH327,Nepali,Advanced,5,10
+TCH2662,SCH047,Math,Basic,1,8
+TCH2663,SCH405,Science,Basic,7,10
+TCH2664,SCH167,English,Advanced,10,10
+TCH2665,SCH243,Science,Basic,10,26
+TCH2666,SCH367,Social Studies,Basic,17,10
+TCH2667,SCH097,Math,Advanced,6,8
+TCH2668,SCH253,Social Studies,Basic,10,24
+TCH2669,SCH163,Social Studies,Basic,7,22
+TCH2670,SCH433,Science,Basic,11,8
+TCH2671,SCH377,Social Studies,Advanced,3,15
+TCH2672,SCH456,Social Studies,Basic,1,8
+TCH2673,SCH470,English,Basic,2,20
+TCH2674,SCH065,Social Studies,Advanced,9,8
+TCH2675,SCH056,Nepali,Advanced,11,25
+TCH2676,SCH243,Math,Basic,10,25
+TCH2677,SCH301,Math,Advanced,7,8
+TCH2678,SCH079,English,Advanced,19,10
+TCH2679,SCH016,Science,Advanced,12,10
+TCH2680,SCH032,Math,Basic,8,19
+TCH2681,SCH040,Science,Basic,14,15
+TCH2682,SCH444,English,Basic,8,31
+TCH2683,SCH324,Math,Advanced,12,10
+TCH2684,SCH061,English,Advanced,9,17
+TCH2685,SCH152,Science,Advanced,1,24
+TCH2686,SCH259,Math,Basic,16,23
+TCH2687,SCH022,Nepali,Basic,10,21
+TCH2688,SCH400,Science,Basic,12,19
+TCH2689,SCH329,Math,Basic,18,9
+TCH2690,SCH292,English,Advanced,10,11
+TCH2691,SCH346,Nepali,Advanced,14,18
+TCH2692,SCH149,Nepali,Basic,16,8
+TCH2693,SCH095,Nepali,Basic,4,15
+TCH2694,SCH449,Math,Basic,6,25
+TCH2695,SCH363,English,Basic,12,26
+TCH2696,SCH241,Math,Advanced,12,11
+TCH2697,SCH030,English,Basic,14,29
+TCH2698,SCH196,Social Studies,Basic,24,8
+TCH2699,SCH342,Social Studies,Advanced,14,19
+TCH2700,SCH012,Science,Advanced,4,9
+TCH2701,SCH491,English,Basic,5,27
+TCH2702,SCH277,Social Studies,Basic,14,13
+TCH2703,SCH461,Nepali,Advanced,15,10
+TCH2704,SCH321,Math,Basic,2,23
+TCH2705,SCH314,Science,Advanced,17,15
+TCH2706,SCH025,Nepali,Advanced,6,12
+TCH2707,SCH059,English,Advanced,12,10
+TCH2708,SCH407,Math,Advanced,7,9
+TCH2709,SCH274,Social Studies,Advanced,11,11
+TCH2710,SCH386,Nepali,Basic,15,23
+TCH2711,SCH274,Nepali,Advanced,8,11
+TCH2712,SCH234,Social Studies,Advanced,10,12
+TCH2713,SCH393,Social Studies,Basic,15,8
+TCH2714,SCH014,Social Studies,Basic,17,10
+TCH2715,SCH371,Math,Advanced,10,10
+TCH2716,SCH219,Nepali,Advanced,6,9
+TCH2717,SCH304,Social Studies,Basic,16,9
+TCH2718,SCH102,English,Basic,10,19
+TCH2719,SCH328,Social Studies,Basic,11,10
+TCH2720,SCH372,English,Basic,8,10
+TCH2721,SCH019,English,Basic,9,20
+TCH2722,SCH355,English,Basic,1,21
+TCH2723,SCH201,Science,Basic,1,27
+TCH2724,SCH020,Math,Basic,13,20
+TCH2725,SCH333,Science,Advanced,2,23
+TCH2726,SCH034,Science,Basic,4,21
+TCH2727,SCH460,English,Basic,1,9
+TCH2728,SCH013,Math,Basic,3,18
+TCH2729,SCH323,Nepali,Advanced,9,10
+TCH2730,SCH406,English,Basic,10,11
+TCH2731,SCH483,Science,Advanced,17,24
+TCH2732,SCH224,Social Studies,Advanced,15,19
+TCH2733,SCH476,Nepali,Advanced,1,8
+TCH2734,SCH300,Science,Advanced,9,8
+TCH2735,SCH006,Science,Advanced,11,22
+TCH2736,SCH376,Math,Basic,10,9
+TCH2737,SCH269,Science,Advanced,19,8
+TCH2738,SCH214,Social Studies,Advanced,5,29
+TCH2739,SCH273,Math,Basic,15,30
+TCH2740,SCH307,Nepali,Basic,20,8
+TCH2741,SCH163,Math,Basic,3,33
+TCH2742,SCH150,Social Studies,Advanced,15,13
+TCH2743,SCH148,Nepali,Basic,12,27
+TCH2744,SCH458,Nepali,Basic,10,24
+TCH2745,SCH310,Science,Advanced,8,20
+TCH2746,SCH189,English,Basic,8,9
+TCH2747,SCH420,Math,Basic,9,27
+TCH2748,SCH445,Nepali,Advanced,17,13
+TCH2749,SCH271,Social Studies,Basic,12,28
+TCH2750,SCH223,Science,Basic,4,8
+TCH2751,SCH274,Science,Advanced,14,9
+TCH2752,SCH224,Science,Basic,8,20
+TCH2753,SCH389,Social Studies,Advanced,8,23
+TCH2754,SCH333,English,Advanced,10,27
+TCH2755,SCH494,Social Studies,Advanced,13,8
+TCH2756,SCH324,Nepali,Advanced,11,13
+TCH2757,SCH076,Social Studies,Basic,5,22
+TCH2758,SCH196,Math,Advanced,16,8
+TCH2759,SCH157,Science,Basic,3,22
+TCH2760,SCH412,Nepali,Basic,12,24
+TCH2761,SCH272,Social Studies,Basic,16,12
+TCH2762,SCH198,English,Basic,5,24
+TCH2763,SCH137,Social Studies,Basic,10,8
+TCH2764,SCH057,Social Studies,Basic,13,23
+TCH2765,SCH139,Nepali,Basic,2,31
+TCH2766,SCH214,Math,Basic,6,24
+TCH2767,SCH218,Nepali,Basic,5,20
+TCH2768,SCH325,Nepali,Advanced,3,11
+TCH2769,SCH382,Nepali,Advanced,8,8
+TCH2770,SCH489,Nepali,Basic,3,23
+TCH2771,SCH383,Math,Basic,4,26
+TCH2772,SCH292,Science,Advanced,9,11
+TCH2773,SCH222,English,Basic,17,8
+TCH2774,SCH100,English,Basic,4,29
+TCH2775,SCH019,Nepali,Basic,9,27
+TCH2776,SCH020,English,Advanced,11,22
+TCH2777,SCH172,Social Studies,Basic,20,28
+TCH2778,SCH009,Science,Basic,9,12
+TCH2779,SCH186,Science,Advanced,11,10
+TCH2780,SCH165,Science,Advanced,4,21
+TCH2781,SCH256,Nepali,Basic,11,22
+TCH2782,SCH320,English,Basic,7,9
+TCH2783,SCH361,Nepali,Basic,5,10
+TCH2784,SCH245,Science,Advanced,8,11
+TCH2785,SCH285,Math,Basic,13,24
+TCH2786,SCH452,Nepali,Advanced,3,24
+TCH2787,SCH394,Nepali,Basic,9,13
+TCH2788,SCH188,Math,Basic,6,25
+TCH2789,SCH466,English,Basic,15,12
+TCH2790,SCH456,Math,Advanced,9,8
+TCH2791,SCH008,Nepali,Basic,12,12
+TCH2792,SCH078,English,Advanced,14,8
+TCH2793,SCH266,Social Studies,Basic,6,21
+TCH2794,SCH391,Nepali,Basic,10,8
+TCH2795,SCH122,Science,Basic,9,27
+TCH2796,SCH130,English,Basic,12,11
+TCH2797,SCH168,English,Basic,14,30
+TCH2798,SCH292,Math,Basic,12,8
+TCH2799,SCH194,English,Basic,1,9
+TCH2800,SCH007,Social Studies,Advanced,1,25
+TCH2801,SCH197,English,Advanced,16,11
+TCH2802,SCH270,Math,Basic,16,8
+TCH2803,SCH319,Math,Basic,3,12
+TCH2804,SCH271,Math,Basic,1,27
+TCH2805,SCH385,Math,Advanced,10,9
+TCH2806,SCH435,English,Advanced,13,13
+TCH2807,SCH290,Social Studies,Basic,7,9
+TCH2808,SCH300,Math,Basic,18,8
+TCH2809,SCH134,Nepali,Basic,12,24
+TCH2810,SCH296,Math,Advanced,1,10
+TCH2811,SCH052,Social Studies,Advanced,8,25
+TCH2812,SCH410,Science,Basic,11,27
+TCH2813,SCH404,Science,Basic,8,29
+TCH2814,SCH043,Science,Advanced,9,10
+TCH2815,SCH054,Science,Advanced,3,16
+TCH2816,SCH313,Social Studies,Basic,7,10
+TCH2817,SCH032,Nepali,Basic,1,21
+TCH2818,SCH057,Math,Basic,16,23
+TCH2819,SCH403,Science,Advanced,14,8
+TCH2820,SCH323,Science,Advanced,3,8
+TCH2821,SCH236,Science,Advanced,18,9
+TCH2822,SCH025,Math,Basic,12,8
+TCH2823,SCH317,Social Studies,Advanced,16,12
+TCH2824,SCH195,Math,Advanced,25,11
+TCH2825,SCH134,Nepali,Basic,3,17
+TCH2826,SCH391,Nepali,Basic,19,8
+TCH2827,SCH342,English,Basic,7,29
+TCH2828,SCH078,Social Studies,Basic,22,8
+TCH2829,SCH070,English,Basic,12,9
+TCH2830,SCH344,Math,Advanced,4,29
+TCH2831,SCH006,Social Studies,Advanced,10,20
+TCH2832,SCH438,Social Studies,Advanced,10,9
+TCH2833,SCH420,English,Basic,10,32
+TCH2834,SCH359,Social Studies,Basic,14,9
+TCH2835,SCH316,Social Studies,Advanced,11,10
+TCH2836,SCH276,Nepali,Advanced,1,12
+TCH2837,SCH184,Science,Basic,13,9
+TCH2838,SCH305,Nepali,Basic,5,24
+TCH2839,SCH088,Math,Advanced,3,18
+TCH2840,SCH424,Math,Basic,10,22
+TCH2841,SCH452,Science,Advanced,9,24
+TCH2842,SCH258,Math,Advanced,19,10
+TCH2843,SCH207,Nepali,Basic,18,11
+TCH2844,SCH050,English,Basic,16,18
+TCH2845,SCH400,Social Studies,Basic,15,21
+TCH2846,SCH003,English,Advanced,5,8
+TCH2847,SCH133,Science,Advanced,5,26
+TCH2848,SCH328,Math,Basic,20,8
+TCH2849,SCH428,Social Studies,Advanced,13,8
+TCH2850,SCH356,Math,Basic,1,22
+TCH2851,SCH277,Math,Advanced,12,8
+TCH2852,SCH063,Social Studies,Basic,1,23
+TCH2853,SCH079,Social Studies,Advanced,15,10
+TCH2854,SCH346,Social Studies,Basic,5,24
+TCH2855,SCH074,Social Studies,Basic,4,25
+TCH2856,SCH170,Science,Basic,12,21
+TCH2857,SCH415,Social Studies,Basic,8,11
+TCH2858,SCH340,Science,Basic,27,11
+TCH2859,SCH267,Nepali,Advanced,10,8
+TCH2860,SCH230,Math,Basic,18,8
+TCH2861,SCH071,Science,Advanced,10,9
+TCH2862,SCH373,Science,Advanced,11,8
+TCH2863,SCH287,Math,Basic,12,26
+TCH2864,SCH311,Science,Basic,6,24
+TCH2865,SCH363,Social Studies,Basic,6,25
+TCH2866,SCH004,Social Studies,Advanced,7,8
+TCH2867,SCH020,Science,Basic,6,27
+TCH2868,SCH219,English,Basic,21,10
+TCH2869,SCH081,Social Studies,Advanced,16,11
+TCH2870,SCH024,Math,Advanced,13,10
+TCH2871,SCH281,Math,Basic,6,22
+TCH2872,SCH306,Science,Basic,6,9
+TCH2873,SCH318,Social Studies,Advanced,13,9
+TCH2874,SCH096,Nepali,Advanced,7,19
+TCH2875,SCH428,English,Advanced,25,13
+TCH2876,SCH310,Science,Basic,7,26
+TCH2877,SCH113,English,Basic,16,28
+TCH2878,SCH459,Math,Advanced,8,11
+TCH2879,SCH424,Math,Basic,1,26
+TCH2880,SCH179,Math,Basic,9,17
+TCH2881,SCH381,Social Studies,Advanced,18,10
+TCH2882,SCH287,Nepali,Advanced,6,23
+TCH2883,SCH010,Science,Basic,12,22
+TCH2884,SCH460,Math,Advanced,8,8
+TCH2885,SCH414,English,Advanced,16,11
+TCH2886,SCH129,Science,Basic,2,25
+TCH2887,SCH018,Nepali,Advanced,9,29
+TCH2888,SCH405,Math,Basic,9,8
+TCH2889,SCH218,Nepali,Advanced,10,22
+TCH2890,SCH130,English,Advanced,15,10
+TCH2891,SCH489,Science,Basic,1,23
+TCH2892,SCH205,Science,Basic,9,27
+TCH2893,SCH182,Science,Advanced,8,8
+TCH2894,SCH210,Social Studies,Basic,3,25
+TCH2895,SCH430,Nepali,Basic,12,8
+TCH2896,SCH237,Nepali,Advanced,14,10
+TCH2897,SCH152,Nepali,Advanced,5,22
+TCH2898,SCH400,Social Studies,Advanced,16,16
+TCH2899,SCH059,Science,Basic,2,9
+TCH2900,SCH139,Nepali,Advanced,12,21
+TCH2901,SCH223,Science,Advanced,15,8
+TCH2902,SCH243,Math,Basic,6,26
+TCH2903,SCH319,Math,Advanced,17,11
+TCH2904,SCH369,English,Advanced,1,25
+TCH2905,SCH020,Social Studies,Advanced,4,24
+TCH2906,SCH262,Nepali,Advanced,6,27
+TCH2907,SCH162,Math,Basic,7,25
+TCH2908,SCH048,Science,Advanced,12,8
+TCH2909,SCH111,Science,Advanced,12,9
+TCH2910,SCH359,Science,Advanced,14,10
+TCH2911,SCH215,Science,Basic,1,20
+TCH2912,SCH164,English,Advanced,12,11
+TCH2913,SCH067,Social Studies,Basic,10,11
+TCH2914,SCH025,Science,Basic,23,11
+TCH2915,SCH362,Nepali,Basic,20,9
+TCH2916,SCH335,Social Studies,Basic,11,29
+TCH2917,SCH408,English,Advanced,18,8
+TCH2918,SCH142,English,Basic,8,11
+TCH2919,SCH268,Social Studies,Advanced,1,21
+TCH2920,SCH274,Science,Basic,15,8
+TCH2921,SCH342,Math,Basic,2,30
+TCH2922,SCH053,Social Studies,Advanced,9,8
+TCH2923,SCH202,Math,Advanced,5,12
+TCH2924,SCH319,English,Basic,13,12
+TCH2925,SCH309,Social Studies,Advanced,10,10
+TCH2926,SCH492,English,Basic,3,28
+TCH2927,SCH120,Nepali,Advanced,5,13
+TCH2928,SCH093,Math,Advanced,5,8
+TCH2929,SCH305,Math,Basic,9,21
+TCH2930,SCH218,Math,Basic,5,29
+TCH2931,SCH465,English,Basic,15,25
+TCH2932,SCH079,Science,Basic,10,9
+TCH2933,SCH236,Science,Advanced,14,8
+TCH2934,SCH025,Math,Advanced,11,8
+TCH2935,SCH229,Math,Basic,9,24
+TCH2936,SCH327,Science,Advanced,12,10
+TCH2937,SCH401,Science,Basic,10,21
+TCH2938,SCH092,Nepali,Basic,13,25
+TCH2939,SCH484,Math,Basic,8,24
+TCH2940,SCH283,Science,Advanced,8,11
+TCH2941,SCH019,Math,Basic,9,33
+TCH2942,SCH371,Math,Advanced,7,12
+TCH2943,SCH399,Social Studies,Advanced,11,9
+TCH2944,SCH485,Social Studies,Basic,6,10
+TCH2945,SCH329,Nepali,Advanced,10,10
+TCH2946,SCH212,Nepali,Advanced,6,10
+TCH2947,SCH177,Social Studies,Advanced,12,9
+TCH2948,SCH275,English,Basic,12,9
+TCH2949,SCH042,Science,Basic,15,11
+TCH2950,SCH319,Social Studies,Basic,15,10
+TCH2951,SCH294,Nepali,Basic,2,22
+TCH2952,SCH241,Math,Advanced,17,10
+TCH2953,SCH309,Social Studies,Basic,9,11
+TCH2954,SCH053,English,Basic,8,8
+TCH2955,SCH053,Math,Advanced,18,12
+TCH2956,SCH337,Social Studies,Basic,9,11
+TCH2957,SCH039,Social Studies,Basic,12,25
+TCH2958,SCH402,Nepali,Advanced,10,8
+TCH2959,SCH206,Nepali,Advanced,8,23
+TCH2960,SCH074,Nepali,Basic,13,29
+TCH2961,SCH158,Social Studies,Basic,7,27
+TCH2962,SCH462,Math,Basic,10,31
+TCH2963,SCH020,Science,Advanced,8,26
+TCH2964,SCH439,English,Advanced,11,11
+TCH2965,SCH145,Social Studies,Basic,9,8
+TCH2966,SCH223,English,Advanced,23,8
+TCH2967,SCH139,Nepali,Advanced,2,26
+TCH2968,SCH441,English,Basic,12,8
+TCH2969,SCH447,Math,Basic,8,22
+TCH2970,SCH164,Social Studies,Basic,4,10
+TCH2971,SCH428,Math,Basic,12,11
+TCH2972,SCH127,Social Studies,Basic,7,11
+TCH2973,SCH065,Math,Advanced,6,10
+TCH2974,SCH217,Science,Basic,5,21
+TCH2975,SCH066,Science,Advanced,10,27
+TCH2976,SCH026,Social Studies,Basic,6,24
+TCH2977,SCH248,English,Basic,12,10
+TCH2978,SCH201,Math,Basic,3,23
+TCH2979,SCH242,Science,Advanced,6,11
+TCH2980,SCH032,English,Basic,1,24
+TCH2981,SCH130,English,Advanced,15,10
+TCH2982,SCH279,Nepali,Advanced,4,15
+TCH2983,SCH170,Science,Advanced,9,28
+TCH2984,SCH222,Nepali,Advanced,11,11
+TCH2985,SCH225,English,Basic,9,24
+TCH2986,SCH002,Math,Advanced,14,10
+TCH2987,SCH153,Social Studies,Basic,19,11
+TCH2988,SCH112,Math,Basic,8,32
+TCH2989,SCH467,Math,Advanced,8,10
+TCH2990,SCH064,Nepali,Advanced,10,29
+TCH2991,SCH298,English,Basic,9,24
+TCH2992,SCH033,Social Studies,Advanced,7,26
+TCH2993,SCH376,Nepali,Basic,25,8
+TCH2994,SCH367,Nepali,Advanced,17,12
+TCH2995,SCH345,Math,Basic,17,10
+TCH2996,SCH140,Science,Basic,5,23
+TCH2997,SCH013,English,Advanced,12,28
+TCH2998,SCH212,Math,Advanced,2,8
+TCH2999,SCH364,English,Advanced,7,22
+TCH3000,SCH423,Math,Advanced,16,8
+TCH3001,SCH425,Nepali,Advanced,28,9
+TCH3002,SCH330,Social Studies,Basic,3,29
+TCH3003,SCH500,Science,Basic,6,28
+TCH3004,SCH123,Social Studies,Basic,14,29
+TCH3005,SCH485,Science,Advanced,9,8
+TCH3006,SCH104,Science,Advanced,16,19
+TCH3007,SCH110,Nepali,Basic,18,24
+TCH3008,SCH087,Math,Basic,10,8
+TCH3009,SCH142,English,Basic,12,8
+TCH3010,SCH135,Nepali,Advanced,14,9
+TCH3011,SCH331,Social Studies,Advanced,5,8
+TCH3012,SCH236,Social Studies,Advanced,10,8
+TCH3013,SCH478,Nepali,Advanced,2,12
+TCH3014,SCH315,Social Studies,Basic,19,11
+TCH3015,SCH357,Science,Basic,11,26
+TCH3016,SCH086,Math,Advanced,14,8
+TCH3017,SCH318,Social Studies,Basic,18,8
+TCH3018,SCH212,Social Studies,Basic,27,8
+TCH3019,SCH134,Science,Advanced,3,35
+TCH3020,SCH234,Nepali,Advanced,5,11
+TCH3021,SCH411,Science,Basic,9,27
+TCH3022,SCH029,Nepali,Advanced,18,11
+TCH3023,SCH192,Math,Basic,1,26
+TCH3024,SCH377,Math,Basic,13,11
+TCH3025,SCH415,Science,Advanced,11,8
+TCH3026,SCH344,Science,Advanced,3,24
+TCH3027,SCH268,Science,Basic,1,22
+TCH3028,SCH472,Science,Advanced,5,23
+TCH3029,SCH286,Math,Basic,19,21
+TCH3030,SCH278,Social Studies,Basic,1,10
+TCH3031,SCH067,Nepali,Advanced,7,12
+TCH3032,SCH008,Social Studies,Advanced,11,10
+TCH3033,SCH075,Math,Basic,1,25
+TCH3034,SCH369,Science,Basic,14,28
+TCH3035,SCH389,Nepali,Advanced,8,20
+TCH3036,SCH339,Social Studies,Advanced,14,10
+TCH3037,SCH210,English,Basic,14,26
+TCH3038,SCH372,Social Studies,Advanced,15,9
+TCH3039,SCH399,Math,Advanced,8,10
+TCH3040,SCH464,Science,Advanced,13,10
+TCH3041,SCH391,English,Advanced,12,8
+TCH3042,SCH279,Social Studies,Advanced,10,27
+TCH3043,SCH024,Nepali,Basic,8,11
+TCH3044,SCH412,Science,Basic,7,25
+TCH3045,SCH282,Math,Basic,4,24
+TCH3046,SCH147,Nepali,Basic,1,23
+TCH3047,SCH003,Math,Basic,23,10
+TCH3048,SCH209,Nepali,Advanced,6,23
+TCH3049,SCH313,Math,Basic,7,10
+TCH3050,SCH242,English,Advanced,6,11
+TCH3051,SCH119,English,Basic,17,11
+TCH3052,SCH133,Social Studies,Advanced,12,28
+TCH3053,SCH053,Nepali,Advanced,13,12
+TCH3054,SCH040,Nepali,Advanced,14,8
+TCH3055,SCH192,Nepali,Basic,7,28
+TCH3056,SCH210,Math,Basic,10,22
+TCH3057,SCH247,Math,Advanced,12,8
+TCH3058,SCH060,Science,Advanced,16,12
+TCH3059,SCH004,English,Advanced,2,10
+TCH3060,SCH405,English,Advanced,5,8
+TCH3061,SCH459,English,Advanced,19,12
+TCH3062,SCH062,Science,Advanced,13,8
+TCH3063,SCH030,Social Studies,Advanced,6,22
+TCH3064,SCH409,Nepali,Basic,23,13
+TCH3065,SCH029,Nepali,Advanced,16,10
+TCH3066,SCH377,Nepali,Basic,4,9
+TCH3067,SCH452,Math,Basic,8,22
+TCH3068,SCH289,Social Studies,Basic,20,13
+TCH3069,SCH223,Science,Advanced,11,12
+TCH3070,SCH298,Math,Basic,9,22
+TCH3071,SCH120,Science,Basic,19,13
+TCH3072,SCH125,Science,Basic,10,23
+TCH3073,SCH414,Math,Advanced,16,9
+TCH3074,SCH290,Social Studies,Advanced,17,12
+TCH3075,SCH328,Social Studies,Advanced,8,11
+TCH3076,SCH267,Science,Basic,10,12
+TCH3077,SCH204,Science,Advanced,12,13
+TCH3078,SCH159,English,Basic,20,21
+TCH3079,SCH372,Social Studies,Advanced,14,12
+TCH3080,SCH498,Science,Basic,7,27
+TCH3081,SCH194,Social Studies,Advanced,9,8
+TCH3082,SCH010,Social Studies,Basic,11,28
+TCH3083,SCH185,Social Studies,Basic,4,23
+TCH3084,SCH469,Science,Basic,7,27
+TCH3085,SCH275,English,Basic,18,11
+TCH3086,SCH436,Social Studies,Advanced,2,23
+TCH3087,SCH019,Science,Basic,7,23
+TCH3088,SCH268,Math,Advanced,12,30
+TCH3089,SCH018,Math,Basic,12,30
+TCH3090,SCH455,Social Studies,Advanced,8,23
+TCH3091,SCH221,Nepali,Advanced,2,23
+TCH3092,SCH400,Nepali,Basic,3,32
+TCH3093,SCH402,Nepali,Basic,17,8
+TCH3094,SCH033,English,Advanced,7,22
+TCH3095,SCH275,Social Studies,Basic,8,9
+TCH3096,SCH087,English,Advanced,10,9
+TCH3097,SCH152,Social Studies,Basic,8,23
+TCH3098,SCH102,English,Basic,13,25
+TCH3099,SCH354,Science,Advanced,12,9
+TCH3100,SCH157,Social Studies,Basic,7,19
+TCH3101,SCH380,Math,Basic,6,29
+TCH3102,SCH018,Science,Advanced,4,26
+TCH3103,SCH024,English,Basic,19,10
+TCH3104,SCH043,Nepali,Advanced,10,11
+TCH3105,SCH042,Science,Advanced,11,11
+TCH3106,SCH170,Social Studies,Basic,9,18
+TCH3107,SCH062,Science,Advanced,8,10
+TCH3108,SCH469,English,Basic,13,28
+TCH3109,SCH486,Social Studies,Basic,12,24
+TCH3110,SCH422,Social Studies,Basic,8,8
+TCH3111,SCH095,English,Basic,4,33
+TCH3112,SCH112,English,Basic,17,20
+TCH3113,SCH074,Social Studies,Basic,10,24
+TCH3114,SCH180,English,Basic,6,27
+TCH3115,SCH284,English,Advanced,9,9
+TCH3116,SCH179,Math,Basic,10,30
+TCH3117,SCH353,Nepali,Advanced,24,11
+TCH3118,SCH431,Math,Basic,6,11
+TCH3119,SCH235,Science,Advanced,9,10
+TCH3120,SCH386,Math,Basic,15,30
+TCH3121,SCH125,Science,Basic,12,31
+TCH3122,SCH081,Science,Basic,1,8
+TCH3123,SCH348,Social Studies,Advanced,16,9
+TCH3124,SCH158,Nepali,Advanced,13,20
+TCH3125,SCH117,Math,Basic,14,27
+TCH3126,SCH466,Nepali,Basic,12,8
+TCH3127,SCH319,Science,Advanced,25,8
+TCH3128,SCH300,Science,Advanced,3,11
+TCH3129,SCH256,Nepali,Advanced,13,24
+TCH3130,SCH443,Science,Advanced,7,9
+TCH3131,SCH187,Science,Advanced,10,22
+TCH3132,SCH223,Math,Basic,19,8
+TCH3133,SCH412,Math,Advanced,1,31
+TCH3134,SCH074,Nepali,Basic,4,27
+TCH3135,SCH120,Science,Basic,15,8
+TCH3136,SCH322,Science,Advanced,11,23
+TCH3137,SCH436,Social Studies,Basic,4,24
+TCH3138,SCH279,Social Studies,Basic,16,26
+TCH3139,SCH293,Math,Advanced,17,10
+TCH3140,SCH142,Social Studies,Advanced,8,10
+TCH3141,SCH460,Social Studies,Advanced,11,9
+TCH3142,SCH435,Nepali,Advanced,16,10
+TCH3143,SCH462,Social Studies,Basic,4,28
+TCH3144,SCH162,Science,Basic,7,28
+TCH3145,SCH175,Social Studies,Basic,4,21
+TCH3146,SCH159,Science,Advanced,5,25
+TCH3147,SCH061,Social Studies,Basic,7,30
+TCH3148,SCH238,English,Basic,4,17
+TCH3149,SCH028,Nepali,Basic,7,27
+TCH3150,SCH118,Nepali,Advanced,9,10
+TCH3151,SCH055,Social Studies,Advanced,7,8
+TCH3152,SCH476,Nepali,Basic,15,11
+TCH3153,SCH039,Math,Advanced,10,27
+TCH3154,SCH190,English,Advanced,10,24
+TCH3155,SCH036,Social Studies,Advanced,16,8
+TCH3156,SCH451,Math,Basic,19,11
+TCH3157,SCH430,Nepali,Advanced,3,11
+TCH3158,SCH005,Science,Advanced,12,34
+TCH3159,SCH150,Nepali,Basic,5,8
+TCH3160,SCH368,Social Studies,Basic,13,26
+TCH3161,SCH439,Social Studies,Basic,3,14
+TCH3162,SCH233,Math,Advanced,9,9
+TCH3163,SCH345,Social Studies,Advanced,16,14
+TCH3164,SCH410,English,Advanced,5,27
+TCH3165,SCH019,Nepali,Advanced,3,24
+TCH3166,SCH272,Science,Basic,22,12
+TCH3167,SCH145,Math,Basic,9,11
+TCH3168,SCH285,English,Basic,8,24
+TCH3169,SCH157,Science,Basic,1,23
+TCH3170,SCH363,Nepali,Basic,2,26
+TCH3171,SCH202,English,Basic,7,8
+TCH3172,SCH360,Math,Basic,14,11
+TCH3173,SCH323,Social Studies,Advanced,7,8
+TCH3174,SCH203,Science,Basic,6,21
+TCH3175,SCH343,Math,Basic,3,9
+TCH3176,SCH361,Social Studies,Basic,9,8
+TCH3177,SCH264,Nepali,Basic,9,25
+TCH3178,SCH145,English,Advanced,9,10
+TCH3179,SCH254,Nepali,Basic,11,8
+TCH3180,SCH094,Math,Basic,8,27
+TCH3181,SCH332,Social Studies,Basic,10,14
+TCH3182,SCH081,Social Studies,Advanced,11,10
+TCH3183,SCH145,Science,Basic,13,11
+TCH3184,SCH069,Nepali,Basic,15,8
+TCH3185,SCH074,Math,Basic,9,23
+TCH3186,SCH289,Social Studies,Advanced,8,9
+TCH3187,SCH182,Nepali,Basic,10,12
+TCH3188,SCH369,Nepali,Basic,3,25
+TCH3189,SCH481,English,Basic,13,9
+TCH3190,SCH479,Math,Basic,18,11
+TCH3191,SCH263,Nepali,Basic,2,12
+TCH3192,SCH323,Science,Advanced,26,13
+TCH3193,SCH053,Social Studies,Basic,14,8
+TCH3194,SCH425,English,Basic,12,8
+TCH3195,SCH175,Social Studies,Basic,13,27
+TCH3196,SCH336,Social Studies,Basic,19,28
+TCH3197,SCH123,Social Studies,Advanced,3,30
+TCH3198,SCH017,English,Basic,7,24
+TCH3199,SCH166,Social Studies,Advanced,13,9
+TCH3200,SCH109,Math,Basic,8,14
+TCH3201,SCH497,Science,Advanced,14,27
+TCH3202,SCH256,Nepali,Advanced,8,19
+TCH3203,SCH379,Math,Advanced,18,8
+TCH3204,SCH248,Math,Advanced,10,11
+TCH3205,SCH337,English,Advanced,2,9
+TCH3206,SCH122,Nepali,Basic,9,27
+TCH3207,SCH141,Science,Basic,9,8
+TCH3208,SCH364,Nepali,Advanced,9,21
+TCH3209,SCH115,Nepali,Advanced,15,12
+TCH3210,SCH266,English,Basic,8,20
+TCH3211,SCH469,Math,Advanced,9,25
+TCH3212,SCH405,Math,Advanced,7,12
+TCH3213,SCH099,Nepali,Advanced,13,10
+TCH3214,SCH265,Science,Basic,12,13
+TCH3215,SCH281,Science,Basic,15,23
+TCH3216,SCH242,Social Studies,Basic,17,9
+TCH3217,SCH203,Social Studies,Advanced,11,22
+TCH3218,SCH103,English,Basic,10,8
+TCH3219,SCH076,Social Studies,Basic,7,21
+TCH3220,SCH289,Social Studies,Basic,4,10
+TCH3221,SCH205,Science,Basic,2,22
+TCH3222,SCH148,English,Basic,17,21
+TCH3223,SCH030,Science,Advanced,6,20
+TCH3224,SCH405,Science,Advanced,20,10
+TCH3225,SCH418,Social Studies,Advanced,18,10
+TCH3226,SCH211,English,Advanced,13,11
+TCH3227,SCH247,Math,Advanced,1,8
+TCH3228,SCH307,Science,Advanced,14,10
+TCH3229,SCH270,Nepali,Advanced,5,10
+TCH3230,SCH200,Science,Basic,6,29
+TCH3231,SCH298,Nepali,Advanced,9,26
+TCH3232,SCH201,Science,Basic,4,23
+TCH3233,SCH411,Math,Advanced,3,25
+TCH3234,SCH247,English,Basic,11,11
+TCH3235,SCH131,Social Studies,Basic,14,24
+TCH3236,SCH117,English,Advanced,1,30
+TCH3237,SCH439,Nepali,Advanced,15,8
+TCH3238,SCH473,English,Basic,30,10
+TCH3239,SCH403,Social Studies,Advanced,8,9
+TCH3240,SCH231,Social Studies,Advanced,12,22
+TCH3241,SCH261,English,Basic,1,30
+TCH3242,SCH169,Math,Basic,7,22
+TCH3243,SCH394,Social Studies,Basic,17,10
+TCH3244,SCH392,Math,Advanced,6,23
+TCH3245,SCH480,Nepali,Advanced,14,12
+TCH3246,SCH393,English,Advanced,14,13
+TCH3247,SCH173,Science,Advanced,3,8
+TCH3248,SCH345,Science,Basic,1,9
+TCH3249,SCH330,Nepali,Basic,16,27
+TCH3250,SCH436,Nepali,Basic,12,26
+TCH3251,SCH392,Nepali,Basic,4,30
+TCH3252,SCH051,Social Studies,Advanced,5,24
+TCH3253,SCH271,Nepali,Basic,17,27
+TCH3254,SCH293,Social Studies,Basic,17,9
+TCH3255,SCH154,Math,Advanced,1,19
+TCH3256,SCH238,Social Studies,Basic,4,23
+TCH3257,SCH298,Nepali,Advanced,7,25
+TCH3258,SCH072,Nepali,Advanced,12,11
+TCH3259,SCH417,Nepali,Advanced,9,28
+TCH3260,SCH364,Nepali,Basic,10,25
+TCH3261,SCH496,Nepali,Basic,7,11
+TCH3262,SCH330,Science,Basic,1,30
+TCH3263,SCH364,Nepali,Basic,13,23
+TCH3264,SCH025,Math,Advanced,9,11
+TCH3265,SCH385,Science,Advanced,11,11
+TCH3266,SCH039,Nepali,Basic,13,21
+TCH3267,SCH472,Science,Basic,1,24
+TCH3268,SCH450,English,Advanced,17,9
+TCH3269,SCH210,Nepali,Basic,13,20
+TCH3270,SCH170,Social Studies,Basic,1,25
+TCH3271,SCH141,Nepali,Advanced,5,9
+TCH3272,SCH226,English,Advanced,10,12
+TCH3273,SCH432,Nepali,Advanced,16,9
+TCH3274,SCH167,English,Advanced,18,14
+TCH3275,SCH368,Nepali,Advanced,8,30
+TCH3276,SCH020,English,Advanced,18,27
+TCH3277,SCH206,Nepali,Basic,6,27
+TCH3278,SCH398,Nepali,Advanced,3,22
+TCH3279,SCH022,Science,Advanced,6,25
+TCH3280,SCH430,Social Studies,Basic,13,8
+TCH3281,SCH014,English,Basic,22,9
+TCH3282,SCH399,Social Studies,Advanced,9,13
+TCH3283,SCH418,English,Advanced,17,10
+TCH3284,SCH378,Science,Basic,10,25
+TCH3285,SCH394,Nepali,Advanced,12,10
+TCH3286,SCH298,Nepali,Basic,12,22
+TCH3287,SCH486,Science,Advanced,10,22
+TCH3288,SCH008,English,Advanced,20,9
+TCH3289,SCH032,Social Studies,Advanced,5,17
+TCH3290,SCH418,Nepali,Basic,9,11
+TCH3291,SCH258,Nepali,Advanced,21,8
+TCH3292,SCH330,Science,Basic,2,27
+TCH3293,SCH062,Social Studies,Advanced,9,14
+TCH3294,SCH331,Social Studies,Basic,15,12
+TCH3295,SCH465,Social Studies,Advanced,13,24
+TCH3296,SCH281,Science,Basic,4,34
+TCH3297,SCH306,Nepali,Basic,8,8
+TCH3298,SCH498,Science,Basic,9,23
+TCH3299,SCH480,Math,Advanced,6,10
+TCH3300,SCH442,Math,Basic,9,25
+TCH3301,SCH216,Math,Advanced,3,8
+TCH3302,SCH317,Science,Advanced,11,12
+TCH3303,SCH316,Social Studies,Basic,17,10
+TCH3304,SCH057,Social Studies,Advanced,2,28
+TCH3305,SCH034,English,Basic,17,28
+TCH3306,SCH076,Math,Basic,16,28
+TCH3307,SCH296,English,Advanced,21,10
+TCH3308,SCH470,Social Studies,Advanced,1,25
+TCH3309,SCH078,Math,Advanced,15,8
+TCH3310,SCH356,Nepali,Basic,1,25
+TCH3311,SCH037,Science,Basic,9,25
+TCH3312,SCH381,Nepali,Advanced,20,11
+TCH3313,SCH112,Nepali,Advanced,14,29
+TCH3314,SCH253,Science,Basic,6,23
+TCH3315,SCH172,Social Studies,Basic,4,28
+TCH3316,SCH265,Science,Advanced,1,9
+TCH3317,SCH033,English,Advanced,6,23
+TCH3318,SCH398,Science,Advanced,8,21
+TCH3319,SCH432,Social Studies,Advanced,18,11
+TCH3320,SCH355,Science,Basic,12,28
+TCH3321,SCH375,Social Studies,Basic,27,10
+TCH3322,SCH338,Social Studies,Basic,11,14
+TCH3323,SCH500,Nepali,Basic,6,22
+TCH3324,SCH090,Nepali,Advanced,11,25
+TCH3325,SCH177,Math,Basic,24,10
+TCH3326,SCH263,English,Advanced,10,11
+TCH3327,SCH047,Math,Advanced,4,9
+TCH3328,SCH194,Math,Advanced,17,8
+TCH3329,SCH214,Nepali,Basic,6,28
+TCH3330,SCH078,English,Advanced,19,11
+TCH3331,SCH045,Social Studies,Basic,1,26
+TCH3332,SCH442,English,Basic,14,33
+TCH3333,SCH422,Science,Basic,5,8
+TCH3334,SCH404,Social Studies,Advanced,9,19
+TCH3335,SCH117,English,Advanced,7,26
+TCH3336,SCH127,Science,Advanced,17,11
+TCH3337,SCH436,English,Basic,12,28
+TCH3338,SCH473,Science,Basic,13,10
+TCH3339,SCH068,Social Studies,Basic,16,27
+TCH3340,SCH340,English,Advanced,16,10
+TCH3341,SCH084,Nepali,Advanced,4,9
+TCH3342,SCH266,Science,Basic,9,30
+TCH3343,SCH341,Science,Basic,16,24
+TCH3344,SCH481,Nepali,Advanced,18,8
+TCH3345,SCH119,Social Studies,Advanced,13,12
+TCH3346,SCH427,Social Studies,Advanced,24,8
+TCH3347,SCH264,Science,Advanced,2,32
+TCH3348,SCH364,Social Studies,Basic,16,25
+TCH3349,SCH227,English,Advanced,15,9
+TCH3350,SCH082,Science,Advanced,7,18
+TCH3351,SCH417,Math,Basic,8,25
+TCH3352,SCH433,Math,Basic,24,13
+TCH3353,SCH388,Nepali,Advanced,15,8
+TCH3354,SCH353,Math,Advanced,9,9
+TCH3355,SCH192,Math,Advanced,13,18
+TCH3356,SCH262,Nepali,Advanced,7,24
+TCH3357,SCH261,English,Advanced,1,28
+TCH3358,SCH209,English,Basic,1,24
+TCH3359,SCH017,English,Basic,7,30
+TCH3360,SCH093,Math,Advanced,16,8
+TCH3361,SCH042,English,Advanced,6,8
+TCH3362,SCH486,Science,Basic,7,21
+TCH3363,SCH124,Nepali,Advanced,10,8
+TCH3364,SCH438,Nepali,Advanced,7,11
+TCH3365,SCH295,Nepali,Advanced,16,8
+TCH3366,SCH013,Math,Basic,1,29
+TCH3367,SCH449,English,Basic,7,22
+TCH3368,SCH263,Social Studies,Advanced,5,9
+TCH3369,SCH064,Math,Advanced,7,27
+TCH3370,SCH220,Nepali,Advanced,25,8
+TCH3371,SCH001,Social Studies,Advanced,19,8
+TCH3372,SCH082,Social Studies,Basic,5,17
+TCH3373,SCH322,Math,Basic,1,17
+TCH3374,SCH200,Nepali,Advanced,14,27
+TCH3375,SCH413,English,Basic,15,19
+TCH3376,SCH486,English,Basic,6,23
+TCH3377,SCH077,Nepali,Basic,7,19
+TCH3378,SCH032,Nepali,Basic,12,20
+TCH3379,SCH294,Social Studies,Basic,5,30
+TCH3380,SCH318,Nepali,Basic,13,11
+TCH3381,SCH354,Math,Basic,11,12
+TCH3382,SCH063,Math,Advanced,10,16
+TCH3383,SCH224,Nepali,Basic,1,21
+TCH3384,SCH082,Science,Basic,7,21
+TCH3385,SCH363,English,Basic,13,27
+TCH3386,SCH096,Social Studies,Advanced,7,25
+TCH3387,SCH430,Math,Advanced,20,8
+TCH3388,SCH478,English,Basic,17,10
+TCH3389,SCH359,Social Studies,Advanced,28,12
+TCH3390,SCH449,Nepali,Basic,10,24
+TCH3391,SCH454,Social Studies,Advanced,11,21
+TCH3392,SCH184,Math,Advanced,1,10
+TCH3393,SCH401,English,Basic,9,19
+TCH3394,SCH015,English,Advanced,1,11
+TCH3395,SCH131,Nepali,Basic,11,22
+TCH3396,SCH185,Social Studies,Basic,1,30
+TCH3397,SCH010,Social Studies,Basic,12,25
+TCH3398,SCH151,Social Studies,Basic,20,26
+TCH3399,SCH350,Math,Basic,11,8
+TCH3400,SCH251,Social Studies,Advanced,6,19
+TCH3401,SCH423,Social Studies,Basic,7,13
+TCH3402,SCH497,Social Studies,Basic,9,27
+TCH3403,SCH018,Science,Advanced,1,32
+TCH3404,SCH046,English,Basic,11,23
+TCH3405,SCH077,Math,Basic,16,18
+TCH3406,SCH488,Math,Advanced,27,9
+TCH3407,SCH174,Nepali,Advanced,3,8
+TCH3408,SCH182,Math,Basic,4,11
+TCH3409,SCH156,Social Studies,Advanced,9,8
+TCH3410,SCH025,Nepali,Advanced,1,8
+TCH3411,SCH374,English,Basic,13,26
+TCH3412,SCH158,English,Basic,2,23
+TCH3413,SCH162,Social Studies,Basic,7,23
+TCH3414,SCH313,Social Studies,Basic,8,8
+TCH3415,SCH167,English,Basic,23,8
+TCH3416,SCH444,English,Advanced,16,23
+TCH3417,SCH211,Nepali,Advanced,16,12
+TCH3418,SCH044,Nepali,Basic,8,23
+TCH3419,SCH077,Science,Basic,11,23
+TCH3420,SCH318,English,Basic,10,11
+TCH3421,SCH376,Social Studies,Basic,8,12
+TCH3422,SCH015,Math,Advanced,14,9
+TCH3423,SCH051,Science,Advanced,9,20
+TCH3424,SCH049,Science,Advanced,18,10
+TCH3425,SCH109,English,Basic,25,11
+TCH3426,SCH408,Social Studies,Advanced,9,8
+TCH3427,SCH019,Math,Basic,4,28
+TCH3428,SCH497,Nepali,Basic,9,18
+TCH3429,SCH432,Science,Advanced,2,12
+TCH3430,SCH040,Science,Basic,11,9
+TCH3431,SCH049,English,Advanced,10,10
+TCH3432,SCH264,Science,Basic,11,22
+TCH3433,SCH112,Social Studies,Basic,13,19
+TCH3434,SCH292,Math,Advanced,20,10
+TCH3435,SCH145,Social Studies,Advanced,4,13
+TCH3436,SCH490,Nepali,Basic,10,29
+TCH3437,SCH329,English,Advanced,1,8
+TCH3438,SCH196,Social Studies,Basic,10,10
+TCH3439,SCH056,Science,Basic,12,28
+TCH3440,SCH457,Social Studies,Basic,1,8
+TCH3441,SCH191,Science,Advanced,5,26
+TCH3442,SCH101,Social Studies,Advanced,17,11
+TCH3443,SCH013,English,Basic,12,23
+TCH3444,SCH313,English,Basic,15,8
+TCH3445,SCH258,English,Basic,15,13
+TCH3446,SCH021,Nepali,Basic,1,24
+TCH3447,SCH463,English,Basic,19,11
+TCH3448,SCH157,Science,Basic,14,26
+TCH3449,SCH186,Science,Basic,20,11
+TCH3450,SCH073,English,Advanced,7,26
+TCH3451,SCH375,Math,Advanced,17,9
+TCH3452,SCH348,Nepali,Advanced,10,9
+TCH3453,SCH109,Nepali,Advanced,1,8
+TCH3454,SCH484,Nepali,Basic,1,27
+TCH3455,SCH140,Nepali,Advanced,16,22
+TCH3456,SCH020,English,Basic,7,26
+TCH3457,SCH488,Math,Basic,1,10
+TCH3458,SCH468,Nepali,Advanced,19,8
+TCH3459,SCH082,Science,Basic,7,28
+TCH3460,SCH496,English,Advanced,6,9
+TCH3461,SCH103,Science,Advanced,17,8
+TCH3462,SCH317,Nepali,Basic,13,8
+TCH3463,SCH445,Math,Advanced,17,13
+TCH3464,SCH299,Math,Basic,3,8
+TCH3465,SCH475,Nepali,Advanced,7,11
+TCH3466,SCH369,Math,Basic,7,31
+TCH3467,SCH368,Science,Basic,1,21
+TCH3468,SCH086,Nepali,Basic,23,9
+TCH3469,SCH080,Nepali,Advanced,18,28
+TCH3470,SCH224,Science,Basic,8,27
+TCH3471,SCH070,Nepali,Basic,1,12
+TCH3472,SCH435,English,Basic,13,8
+TCH3473,SCH166,Science,Advanced,12,9
+TCH3474,SCH025,Nepali,Basic,18,8
+TCH3475,SCH192,Nepali,Basic,10,22
+TCH3476,SCH393,Math,Basic,1,8
+TCH3477,SCH341,English,Basic,7,23
+TCH3478,SCH061,Nepali,Advanced,9,23
+TCH3479,SCH015,English,Advanced,5,9
+TCH3480,SCH313,Social Studies,Basic,1,9
+TCH3481,SCH080,Science,Basic,1,26
+TCH3482,SCH169,Nepali,Basic,9,29
+TCH3483,SCH381,English,Advanced,8,11
+TCH3484,SCH399,Math,Advanced,1,10
+TCH3485,SCH275,Math,Advanced,7,8
+TCH3486,SCH370,Math,Advanced,21,8
+TCH3487,SCH218,Science,Basic,10,25
+TCH3488,SCH214,English,Advanced,12,20
+TCH3489,SCH085,Nepali,Advanced,3,8
+TCH3490,SCH322,Math,Basic,1,23
+TCH3491,SCH411,Nepali,Advanced,7,27
+TCH3492,SCH091,Social Studies,Basic,10,18
+TCH3493,SCH077,English,Basic,10,22
+TCH3494,SCH145,Math,Advanced,15,8
+TCH3495,SCH261,Social Studies,Advanced,6,25
+TCH3496,SCH467,Math,Advanced,9,10
+TCH3497,SCH238,Math,Basic,13,23
+TCH3498,SCH245,Social Studies,Advanced,17,11
+TCH3499,SCH287,English,Basic,4,15
+TCH3500,SCH481,Math,Basic,12,12
+TCH3501,SCH413,Social Studies,Basic,13,26
+TCH3502,SCH324,English,Basic,8,11
+TCH3503,SCH222,English,Advanced,3,10
+TCH3504,SCH131,Nepali,Basic,12,24
+TCH3505,SCH006,English,Basic,2,24
+TCH3506,SCH304,Science,Advanced,14,8
+TCH3507,SCH197,Social Studies,Advanced,9,11
+TCH3508,SCH387,Science,Basic,17,10
+TCH3509,SCH188,Science,Basic,3,16
+TCH3510,SCH331,Science,Basic,13,8
+TCH3511,SCH437,Science,Basic,8,22
+TCH3512,SCH363,Math,Advanced,11,20
+TCH3513,SCH216,Math,Advanced,3,10
+TCH3514,SCH281,Science,Basic,7,27
+TCH3515,SCH041,English,Advanced,19,9
+TCH3516,SCH439,English,Advanced,16,8
+TCH3517,SCH305,Science,Advanced,1,24
+TCH3518,SCH112,Social Studies,Basic,6,16
+TCH3519,SCH234,Social Studies,Advanced,22,8
+TCH3520,SCH470,Nepali,Advanced,5,28
+TCH3521,SCH402,English,Basic,10,11
+TCH3522,SCH400,Nepali,Advanced,4,25
+TCH3523,SCH332,Social Studies,Advanced,20,9
+TCH3524,SCH337,English,Advanced,14,9
+TCH3525,SCH072,Social Studies,Basic,12,10
+TCH3526,SCH160,Nepali,Basic,1,20
+TCH3527,SCH179,Social Studies,Basic,4,27
+TCH3528,SCH174,Math,Advanced,17,13
+TCH3529,SCH245,Social Studies,Advanced,9,8
+TCH3530,SCH186,Math,Advanced,12,8
+TCH3531,SCH144,English,Basic,17,8
+TCH3532,SCH089,Social Studies,Basic,5,8
+TCH3533,SCH419,English,Basic,7,9
+TCH3534,SCH185,Math,Basic,4,20
+TCH3535,SCH013,Math,Advanced,15,23
+TCH3536,SCH422,Math,Advanced,13,10
+TCH3537,SCH047,Science,Basic,8,8
+TCH3538,SCH083,Nepali,Basic,8,10
+TCH3539,SCH378,English,Basic,2,27
+TCH3540,SCH298,Science,Basic,1,24
+TCH3541,SCH032,Social Studies,Advanced,11,29
+TCH3542,SCH496,Science,Basic,2,10
+TCH3543,SCH433,Science,Basic,21,14
+TCH3544,SCH226,Math,Advanced,12,8
+TCH3545,SCH160,English,Basic,15,27
+TCH3546,SCH127,English,Advanced,23,13
+TCH3547,SCH216,Science,Advanced,2,10
+TCH3548,SCH296,Science,Basic,13,11
+TCH3549,SCH234,Science,Advanced,12,14
+TCH3550,SCH181,Science,Basic,10,9
+TCH3551,SCH375,Math,Advanced,18,9
+TCH3552,SCH125,English,Advanced,8,20
+TCH3553,SCH483,English,Advanced,3,19
+TCH3554,SCH103,Nepali,Advanced,9,8
+TCH3555,SCH083,Social Studies,Advanced,5,9
+TCH3556,SCH215,Social Studies,Basic,12,20
+TCH3557,SCH118,English,Advanced,14,11
+TCH3558,SCH211,Science,Basic,3,8
+TCH3559,SCH412,Nepali,Basic,17,26
+TCH3560,SCH354,English,Basic,15,8
+TCH3561,SCH084,Science,Advanced,9,8
+TCH3562,SCH365,Science,Basic,5,28
+TCH3563,SCH286,English,Basic,5,33
+TCH3564,SCH232,Nepali,Basic,6,18
+TCH3565,SCH002,English,Advanced,16,12
+TCH3566,SCH294,Social Studies,Basic,3,29
+TCH3567,SCH306,Science,Basic,9,12
+TCH3568,SCH074,Math,Basic,13,25
+TCH3569,SCH129,Social Studies,Basic,12,28
+TCH3570,SCH123,English,Basic,21,24
+TCH3571,SCH392,Nepali,Basic,1,22
+TCH3572,SCH387,Social Studies,Advanced,16,8
+TCH3573,SCH300,Nepali,Basic,8,9
+TCH3574,SCH100,English,Basic,17,21
+TCH3575,SCH090,Nepali,Advanced,1,32
+TCH3576,SCH250,Math,Basic,11,17
+TCH3577,SCH459,Math,Advanced,9,11
+TCH3578,SCH395,Math,Basic,10,8
+TCH3579,SCH032,Science,Basic,8,33
+TCH3580,SCH255,Science,Advanced,10,8
+TCH3581,SCH279,Science,Advanced,7,22
+TCH3582,SCH035,Social Studies,Basic,1,9
+TCH3583,SCH416,Science,Basic,7,22
+TCH3584,SCH211,Science,Basic,6,9
+TCH3585,SCH487,English,Basic,15,34
+TCH3586,SCH207,Math,Advanced,17,9
+TCH3587,SCH314,Math,Advanced,5,9
+TCH3588,SCH110,Math,Advanced,17,27
+TCH3589,SCH267,Science,Basic,16,8
+TCH3590,SCH238,Science,Basic,9,28
+TCH3591,SCH146,Math,Advanced,6,18
+TCH3592,SCH202,English,Basic,10,8
+TCH3593,SCH361,Social Studies,Advanced,16,9
+TCH3594,SCH457,Science,Basic,16,10
+TCH3595,SCH211,Science,Basic,21,11
+TCH3596,SCH352,Math,Basic,15,27
+TCH3597,SCH064,Nepali,Advanced,3,20
+TCH3598,SCH404,Nepali,Advanced,13,26
+TCH3599,SCH152,Nepali,Advanced,2,24
+TCH3600,SCH052,Math,Basic,6,30
+TCH3601,SCH065,Science,Advanced,11,10
+TCH3602,SCH022,Math,Basic,6,22
+TCH3603,SCH304,Nepali,Advanced,19,8
+TCH3604,SCH148,Science,Basic,12,30
+TCH3605,SCH010,Science,Basic,10,22
+TCH3606,SCH353,Math,Advanced,4,15
+TCH3607,SCH107,Math,Advanced,18,11
+TCH3608,SCH192,Science,Advanced,18,30
+TCH3609,SCH091,Nepali,Basic,12,25
+TCH3610,SCH336,English,Advanced,7,31
+TCH3611,SCH304,Science,Basic,5,12
+TCH3612,SCH345,Math,Advanced,1,8
+TCH3613,SCH034,Nepali,Advanced,8,31
+TCH3614,SCH398,Science,Advanced,8,24
+TCH3615,SCH372,Math,Advanced,8,12
+TCH3616,SCH468,Math,Advanced,14,10
+TCH3617,SCH123,Math,Basic,16,19
+TCH3618,SCH129,Nepali,Advanced,15,19
+TCH3619,SCH141,Math,Basic,8,11
+TCH3620,SCH476,Social Studies,Advanced,16,11
+TCH3621,SCH234,Math,Basic,10,12
+TCH3622,SCH189,Math,Basic,16,12
+TCH3623,SCH425,English,Advanced,11,11
+TCH3624,SCH426,Nepali,Advanced,15,32
+TCH3625,SCH051,Nepali,Basic,5,20
+TCH3626,SCH323,Math,Basic,6,8
+TCH3627,SCH323,Social Studies,Advanced,30,14
+TCH3628,SCH140,Nepali,Advanced,9,21
+TCH3629,SCH090,Nepali,Basic,7,26
+TCH3630,SCH416,Nepali,Basic,1,25
+TCH3631,SCH098,Science,Basic,15,8
+TCH3632,SCH049,Math,Advanced,11,11
+TCH3633,SCH259,Math,Basic,8,22
+TCH3634,SCH437,Social Studies,Basic,8,31
+TCH3635,SCH415,Social Studies,Advanced,21,8
+TCH3636,SCH477,Nepali,Advanced,21,9
+TCH3637,SCH348,Nepali,Advanced,14,11
+TCH3638,SCH326,English,Basic,3,10
+TCH3639,SCH348,Math,Advanced,19,10
+TCH3640,SCH195,Social Studies,Basic,14,11
+TCH3641,SCH496,English,Basic,10,10
+TCH3642,SCH031,Math,Basic,9,27
+TCH3643,SCH011,Science,Basic,5,29
+TCH3644,SCH472,Nepali,Basic,4,22
+TCH3645,SCH108,Math,Advanced,12,11
+TCH3646,SCH402,Social Studies,Advanced,5,9
+TCH3647,SCH017,Math,Advanced,3,23
+TCH3648,SCH373,Science,Advanced,7,10
+TCH3649,SCH072,Math,Advanced,1,11
+TCH3650,SCH006,Math,Basic,12,20
+TCH3651,SCH333,English,Basic,8,29
+TCH3652,SCH128,Math,Basic,1,32
+TCH3653,SCH073,Math,Advanced,9,22
+TCH3654,SCH132,English,Basic,8,10
+TCH3655,SCH455,Math,Basic,7,27
+TCH3656,SCH270,English,Basic,8,8
+TCH3657,SCH220,Math,Basic,13,8
+TCH3658,SCH266,Science,Basic,6,28
+TCH3659,SCH191,Nepali,Basic,1,25
+TCH3660,SCH066,Science,Basic,11,29
+TCH3661,SCH131,English,Basic,8,24
+TCH3662,SCH131,Social Studies,Basic,1,23
+TCH3663,SCH327,Science,Advanced,17,8
+TCH3664,SCH307,Social Studies,Advanced,1,12
+TCH3665,SCH011,English,Advanced,6,28
+TCH3666,SCH061,Science,Basic,2,24
+TCH3667,SCH309,Math,Advanced,8,10
+TCH3668,SCH099,Math,Advanced,12,11
+TCH3669,SCH371,Nepali,Basic,10,12
+TCH3670,SCH375,Social Studies,Advanced,7,11
+TCH3671,SCH208,Social Studies,Advanced,19,10
+TCH3672,SCH235,Nepali,Advanced,6,8
+TCH3673,SCH323,Social Studies,Basic,10,8
+TCH3674,SCH241,Math,Basic,8,14
+TCH3675,SCH387,English,Basic,10,8
+TCH3676,SCH096,Social Studies,Basic,4,28
+TCH3677,SCH433,English,Basic,13,11
+TCH3678,SCH401,Math,Basic,17,24
+TCH3679,SCH121,Social Studies,Advanced,15,27
+TCH3680,SCH148,Math,Basic,5,30
+TCH3681,SCH226,English,Advanced,13,12
+TCH3682,SCH285,Social Studies,Basic,7,17
+TCH3683,SCH443,English,Advanced,1,11
+TCH3684,SCH481,English,Basic,8,8
+TCH3685,SCH156,Social Studies,Advanced,15,11
+TCH3686,SCH471,Nepali,Advanced,8,24
+TCH3687,SCH435,English,Advanced,16,9
+TCH3688,SCH311,English,Basic,6,20
+TCH3689,SCH098,English,Basic,3,10
+TCH3690,SCH156,Science,Advanced,7,13
+TCH3691,SCH210,Math,Advanced,8,20
+TCH3692,SCH454,Math,Basic,9,24
+TCH3693,SCH129,Nepali,Basic,10,26
+TCH3694,SCH172,Social Studies,Advanced,4,26
+TCH3695,SCH045,Science,Basic,18,22
+TCH3696,SCH252,Math,Basic,9,8
+TCH3697,SCH453,Social Studies,Basic,14,24
+TCH3698,SCH407,Social Studies,Basic,2,8
+TCH3699,SCH395,Math,Basic,6,12
+TCH3700,SCH002,English,Basic,12,9
+TCH3701,SCH459,Social Studies,Advanced,7,10
+TCH3702,SCH031,Science,Basic,4,30
+TCH3703,SCH200,Science,Advanced,8,20
+TCH3704,SCH437,Social Studies,Basic,4,31
+TCH3705,SCH145,Science,Advanced,10,13
+TCH3706,SCH265,English,Basic,13,10
+TCH3707,SCH210,Nepali,Basic,5,28
+TCH3708,SCH392,Social Studies,Basic,2,22
+TCH3709,SCH214,Science,Basic,9,23
+TCH3710,SCH470,Social Studies,Basic,8,27
+TCH3711,SCH435,English,Basic,11,10
+TCH3712,SCH362,Nepali,Advanced,23,8
+TCH3713,SCH229,Social Studies,Basic,5,24
+TCH3714,SCH036,English,Advanced,17,11
+TCH3715,SCH052,Nepali,Basic,1,29
+TCH3716,SCH185,Math,Advanced,8,27
+TCH3717,SCH033,Math,Advanced,5,27
+TCH3718,SCH276,Math,Advanced,14,9
+TCH3719,SCH150,Math,Basic,21,14
+TCH3720,SCH478,Nepali,Basic,11,8
+TCH3721,SCH243,English,Basic,10,22
+TCH3722,SCH362,Math,Advanced,13,10
+TCH3723,SCH367,English,Basic,13,8
+TCH3724,SCH088,Nepali,Advanced,1,20
+TCH3725,SCH255,English,Advanced,11,12
+TCH3726,SCH320,Social Studies,Basic,10,12
+TCH3727,SCH111,Nepali,Advanced,1,10
+TCH3728,SCH391,English,Advanced,21,8
+TCH3729,SCH103,English,Advanced,10,10
+TCH3730,SCH160,Math,Basic,11,20
+TCH3731,SCH473,Nepali,Basic,4,11
+TCH3732,SCH048,Math,Advanced,15,8
+TCH3733,SCH011,Science,Basic,11,24
+TCH3734,SCH044,Science,Basic,3,21
+TCH3735,SCH380,Math,Basic,6,35
+TCH3736,SCH274,English,Advanced,13,8
+TCH3737,SCH043,Science,Basic,7,11
+TCH3738,SCH184,Nepali,Basic,11,9
+TCH3739,SCH258,Math,Basic,9,8
+TCH3740,SCH387,Math,Advanced,12,14
+TCH3741,SCH380,Social Studies,Basic,7,24
+TCH3742,SCH073,Math,Advanced,11,24
+TCH3743,SCH426,Math,Advanced,3,23
+TCH3744,SCH299,English,Basic,8,11
+TCH3745,SCH320,English,Advanced,8,8
+TCH3746,SCH051,Nepali,Basic,13,28
+TCH3747,SCH172,Social Studies,Advanced,9,22
+TCH3748,SCH031,Social Studies,Basic,1,33
+TCH3749,SCH252,Science,Advanced,25,10
+TCH3750,SCH299,Math,Basic,12,8
+TCH3751,SCH234,Social Studies,Advanced,1,9
+TCH3752,SCH425,Science,Advanced,1,11
+TCH3753,SCH382,Science,Advanced,14,8
+TCH3754,SCH153,Math,Basic,16,12
+TCH3755,SCH005,Science,Basic,8,24
+TCH3756,SCH403,Social Studies,Basic,11,13
+TCH3757,SCH279,Nepali,Advanced,8,27
+TCH3758,SCH264,Social Studies,Basic,17,21
+TCH3759,SCH367,Social Studies,Basic,1,10
+TCH3760,SCH342,Social Studies,Basic,11,21
+TCH3761,SCH125,Science,Advanced,10,30
+TCH3762,SCH088,Social Studies,Basic,1,20
+TCH3763,SCH134,English,Advanced,9,21
+TCH3764,SCH076,Nepali,Basic,5,26
+TCH3765,SCH005,Social Studies,Basic,2,17
+TCH3766,SCH148,Nepali,Advanced,5,26
+TCH3767,SCH389,Nepali,Advanced,11,19
+TCH3768,SCH015,Math,Advanced,6,11
+TCH3769,SCH162,Nepali,Basic,1,21
+TCH3770,SCH202,English,Advanced,20,9
+TCH3771,SCH144,Social Studies,Basic,5,10
+TCH3772,SCH388,Nepali,Advanced,15,10
+TCH3773,SCH371,Science,Basic,11,8
+TCH3774,SCH238,Nepali,Basic,16,29
+TCH3775,SCH470,Math,Basic,4,24
+TCH3776,SCH046,Science,Advanced,3,25
+TCH3777,SCH320,English,Advanced,12,10
+TCH3778,SCH451,Science,Advanced,20,11
+TCH3779,SCH224,Math,Basic,4,20
+TCH3780,SCH031,Science,Basic,9,27
+TCH3781,SCH351,English,Advanced,25,8
+TCH3782,SCH320,Social Studies,Advanced,17,8
+TCH3783,SCH380,Science,Advanced,16,23
+TCH3784,SCH072,English,Advanced,19,15
+TCH3785,SCH187,English,Basic,10,21
+TCH3786,SCH072,English,Advanced,8,8
+TCH3787,SCH273,Social Studies,Basic,4,22
+TCH3788,SCH038,Science,Basic,20,21
+TCH3789,SCH013,Science,Basic,8,26
+TCH3790,SCH269,Social Studies,Basic,14,13
+TCH3791,SCH460,English,Advanced,3,8
+TCH3792,SCH279,English,Basic,3,30
+TCH3793,SCH376,Nepali,Advanced,15,13
+TCH3794,SCH442,Nepali,Advanced,1,27
+TCH3795,SCH277,Social Studies,Basic,14,8
+TCH3796,SCH257,English,Basic,10,26
+TCH3797,SCH089,Social Studies,Basic,8,11
+TCH3798,SCH153,Science,Basic,5,11
+TCH3799,SCH063,Nepali,Advanced,13,21
+TCH3800,SCH383,Nepali,Advanced,12,19
+TCH3801,SCH008,English,Advanced,12,10
+TCH3802,SCH461,English,Basic,9,9
+TCH3803,SCH160,Nepali,Basic,16,15
+TCH3804,SCH483,Science,Basic,15,19
+TCH3805,SCH427,Social Studies,Advanced,22,12
+TCH3806,SCH294,Social Studies,Basic,9,29
+TCH3807,SCH111,Social Studies,Basic,9,11
+TCH3808,SCH397,Social Studies,Basic,11,10
+TCH3809,SCH315,Nepali,Advanced,17,11
+TCH3810,SCH271,Math,Advanced,6,25
+TCH3811,SCH285,Nepali,Basic,7,22
+TCH3812,SCH221,Nepali,Basic,13,30
+TCH3813,SCH061,Math,Advanced,19,22
+TCH3814,SCH121,Math,Basic,13,26
+TCH3815,SCH474,English,Basic,6,28
+TCH3816,SCH172,Science,Advanced,8,24
+TCH3817,SCH185,Science,Basic,7,22
+TCH3818,SCH120,Social Studies,Advanced,19,10
+TCH3819,SCH183,Social Studies,Advanced,16,13
+TCH3820,SCH173,Nepali,Advanced,6,15
+TCH3821,SCH264,Nepali,Basic,8,26
+TCH3822,SCH361,Social Studies,Basic,16,8
+TCH3823,SCH390,Science,Basic,7,9
+TCH3824,SCH006,Social Studies,Basic,8,21
+TCH3825,SCH048,Science,Basic,3,12
+TCH3826,SCH280,Nepali,Advanced,5,11
+TCH3827,SCH339,Nepali,Basic,4,8
+TCH3828,SCH381,Nepali,Advanced,10,14
+TCH3829,SCH301,Science,Basic,13,10
+TCH3830,SCH046,English,Basic,7,21
+TCH3831,SCH185,Math,Basic,11,25
+TCH3832,SCH217,Science,Basic,15,20
+TCH3833,SCH304,Nepali,Advanced,20,10
+TCH3834,SCH382,English,Advanced,7,10
+TCH3835,SCH381,Nepali,Advanced,7,12
+TCH3836,SCH137,Social Studies,Basic,11,8
+TCH3837,SCH232,English,Basic,5,21
+TCH3838,SCH035,Nepali,Advanced,21,8
+TCH3839,SCH298,Math,Basic,7,26
+TCH3840,SCH456,Math,Advanced,9,8
+TCH3841,SCH299,Math,Basic,24,9
+TCH3842,SCH069,Nepali,Advanced,4,8
+TCH3843,SCH156,Nepali,Basic,12,9
+TCH3844,SCH311,Science,Advanced,1,26
+TCH3845,SCH398,English,Basic,2,28
+TCH3846,SCH129,Science,Advanced,9,23
+TCH3847,SCH195,Nepali,Advanced,30,8
+TCH3848,SCH257,Nepali,Basic,7,31
+TCH3849,SCH363,Science,Advanced,11,21
+TCH3850,SCH408,English,Advanced,14,12
+TCH3851,SCH065,Math,Advanced,1,9
+TCH3852,SCH148,English,Basic,17,22
+TCH3853,SCH152,Social Studies,Basic,15,21
+TCH3854,SCH430,English,Advanced,13,10
+TCH3855,SCH322,Nepali,Advanced,4,17
+TCH3856,SCH075,Math,Basic,12,22
+TCH3857,SCH229,Science,Basic,18,23
+TCH3858,SCH343,English,Basic,11,10
+TCH3859,SCH124,Math,Basic,7,9
+TCH3860,SCH144,Nepali,Basic,2,11
+TCH3861,SCH358,Science,Basic,2,11
+TCH3862,SCH113,Nepali,Advanced,6,22
+TCH3863,SCH372,Nepali,Advanced,9,10
+TCH3864,SCH425,Math,Basic,14,9
+TCH3865,SCH339,Nepali,Advanced,7,8
+TCH3866,SCH477,Science,Advanced,1,12
+TCH3867,SCH101,Social Studies,Advanced,13,12
+TCH3868,SCH378,Science,Basic,12,29
+TCH3869,SCH185,English,Basic,5,25
+TCH3870,SCH067,Science,Advanced,6,11
+TCH3871,SCH243,Social Studies,Basic,8,26
+TCH3872,SCH455,English,Basic,7,29
+TCH3873,SCH013,Science,Basic,5,21
+TCH3874,SCH472,Science,Basic,15,27
+TCH3875,SCH436,Social Studies,Basic,6,18
+TCH3876,SCH111,Social Studies,Advanced,9,8
+TCH3877,SCH388,Nepali,Advanced,6,9
+TCH3878,SCH393,Math,Basic,15,9
+TCH3879,SCH183,Social Studies,Advanced,6,12
+TCH3880,SCH338,Social Studies,Basic,5,8
+TCH3881,SCH170,Math,Basic,12,23
+TCH3882,SCH330,Math,Basic,11,21
+TCH3883,SCH323,Math,Advanced,7,8
+TCH3884,SCH375,Math,Advanced,13,11
+TCH3885,SCH009,Math,Advanced,17,12
+TCH3886,SCH479,Science,Advanced,15,8
+TCH3887,SCH386,Science,Advanced,14,25
+TCH3888,SCH392,English,Basic,12,23
+TCH3889,SCH269,Nepali,Basic,12,10
+TCH3890,SCH037,Nepali,Basic,2,17
+TCH3891,SCH415,English,Advanced,9,12
+TCH3892,SCH105,English,Basic,6,24
+TCH3893,SCH396,Nepali,Advanced,11,11
+TCH3894,SCH389,Math,Basic,2,28
+TCH3895,SCH407,Social Studies,Basic,10,9
+TCH3896,SCH210,Nepali,Basic,10,24
+TCH3897,SCH066,Math,Basic,9,22
+TCH3898,SCH198,English,Basic,13,25
+TCH3899,SCH276,Science,Advanced,17,11
+TCH3900,SCH029,English,Advanced,17,11
+TCH3901,SCH368,Social Studies,Basic,9,28
+TCH3902,SCH317,Science,Basic,14,14
+TCH3903,SCH018,Nepali,Basic,8,26
+TCH3904,SCH058,English,Basic,16,9
+TCH3905,SCH390,English,Basic,17,9
+TCH3906,SCH125,Nepali,Advanced,5,23
+TCH3907,SCH047,Science,Advanced,1,10
+TCH3908,SCH496,English,Advanced,12,10
+TCH3909,SCH466,Social Studies,Advanced,15,9
+TCH3910,SCH204,English,Basic,16,8
+TCH3911,SCH355,Nepali,Basic,2,24
+TCH3912,SCH483,English,Basic,8,26
+TCH3913,SCH084,Nepali,Basic,13,14
+TCH3914,SCH286,Social Studies,Advanced,1,26
+TCH3915,SCH242,Nepali,Advanced,9,11
+TCH3916,SCH174,Nepali,Advanced,14,9
+TCH3917,SCH370,Nepali,Advanced,5,9
+TCH3918,SCH436,English,Advanced,6,20
+TCH3919,SCH086,English,Advanced,17,12
+TCH3920,SCH159,Math,Advanced,4,17
+TCH3921,SCH415,Nepali,Basic,8,8
+TCH3922,SCH337,Science,Basic,15,8
+TCH3923,SCH382,Nepali,Advanced,2,8
+TCH3924,SCH306,Nepali,Advanced,3,11
+TCH3925,SCH081,Science,Advanced,7,9
+TCH3926,SCH203,Nepali,Basic,8,20
+TCH3927,SCH351,Science,Advanced,2,9
+TCH3928,SCH360,Math,Advanced,19,8
+TCH3929,SCH492,Math,Basic,17,23
+TCH3930,SCH066,English,Basic,2,22
+TCH3931,SCH054,English,Basic,1,26
+TCH3932,SCH157,English,Basic,6,21
+TCH3933,SCH124,Science,Advanced,21,8
+TCH3934,SCH202,Science,Basic,16,9
+TCH3935,SCH395,Science,Basic,17,10
+TCH3936,SCH429,English,Advanced,15,9
+TCH3937,SCH248,Math,Advanced,13,9
+TCH3938,SCH226,Nepali,Advanced,4,8
+TCH3939,SCH220,Social Studies,Basic,8,10
+TCH3940,SCH192,Nepali,Advanced,10,28
+TCH3941,SCH402,Math,Advanced,21,8
+TCH3942,SCH207,Social Studies,Advanced,20,8
+TCH3943,SCH286,Science,Advanced,8,20
+TCH3944,SCH299,Social Studies,Basic,7,8
+TCH3945,SCH451,Science,Advanced,12,8
+TCH3946,SCH240,Science,Advanced,4,22
+TCH3947,SCH422,Nepali,Advanced,8,11
+TCH3948,SCH084,Math,Basic,19,8
+TCH3949,SCH179,Science,Advanced,7,26
+TCH3950,SCH245,Math,Advanced,12,14
+TCH3951,SCH101,English,Advanced,10,8
+TCH3952,SCH074,Nepali,Basic,5,25
+TCH3953,SCH352,Nepali,Basic,10,23
+TCH3954,SCH324,English,Basic,12,12
+TCH3955,SCH416,Nepali,Basic,17,30
+TCH3956,SCH371,Math,Basic,18,11
+TCH3957,SCH232,English,Basic,7,24
+TCH3958,SCH299,Nepali,Advanced,17,11
+TCH3959,SCH233,Social Studies,Basic,15,12
+TCH3960,SCH242,Science,Basic,1,10
+TCH3961,SCH315,Nepali,Advanced,4,9
+TCH3962,SCH466,Social Studies,Basic,11,9
+TCH3963,SCH024,Math,Basic,7,11
+TCH3964,SCH221,English,Advanced,10,29
+TCH3965,SCH265,Math,Basic,10,9
+TCH3966,SCH344,Math,Basic,21,23
+TCH3967,SCH227,Science,Advanced,2,11
+TCH3968,SCH076,Nepali,Basic,12,29
+TCH3969,SCH054,Social Studies,Advanced,13,21
+TCH3970,SCH239,Math,Advanced,16,11
+TCH3971,SCH243,Nepali,Advanced,11,24
+TCH3972,SCH040,Social Studies,Basic,18,11
+TCH3973,SCH204,Social Studies,Advanced,14,9
+TCH3974,SCH447,Nepali,Basic,12,24
+TCH3975,SCH205,Math,Advanced,9,24
+TCH3976,SCH107,English,Basic,16,10
+TCH3977,SCH374,Social Studies,Basic,3,28
+TCH3978,SCH348,Social Studies,Advanced,17,10
+TCH3979,SCH077,Math,Basic,9,21
+TCH3980,SCH044,Science,Advanced,8,22
+TCH3981,SCH222,Nepali,Advanced,15,11
+TCH3982,SCH394,Social Studies,Advanced,18,10
+TCH3983,SCH237,Math,Basic,15,9
+TCH3984,SCH105,Math,Basic,2,22
+TCH3985,SCH103,English,Basic,15,9
+TCH3986,SCH133,English,Basic,1,24
+TCH3987,SCH178,English,Basic,10,9
+TCH3988,SCH180,Social Studies,Basic,10,33
+TCH3989,SCH259,Math,Basic,2,30
+TCH3990,SCH442,Math,Basic,8,29
+TCH3991,SCH117,Math,Basic,10,25
+TCH3992,SCH343,Social Studies,Advanced,14,8
+TCH3993,SCH452,Math,Basic,5,25
+TCH3994,SCH340,Science,Advanced,4,10
+TCH3995,SCH424,Social Studies,Basic,3,26
+TCH3996,SCH331,Math,Basic,14,12
+TCH3997,SCH483,Nepali,Advanced,9,20
+TCH3998,SCH222,Science,Advanced,8,8
+TCH3999,SCH428,Math,Basic,14,9
+TCH4000,SCH324,Science,Basic,12,9
+TCH4001,SCH291,Science,Basic,4,10
+TCH4002,SCH400,Social Studies,Basic,12,22
+TCH4003,SCH080,Social Studies,Basic,6,27
+TCH4004,SCH494,English,Advanced,7,9
+TCH4005,SCH134,Math,Advanced,10,28
+TCH4006,SCH115,Science,Basic,12,8
+TCH4007,SCH034,Math,Basic,9,23
+TCH4008,SCH325,Science,Basic,11,8
+TCH4009,SCH038,Science,Basic,3,27
+TCH4010,SCH045,Math,Basic,9,23
+TCH4011,SCH077,Social Studies,Advanced,3,29
+TCH4012,SCH078,Social Studies,Advanced,15,14
+TCH4013,SCH460,Math,Basic,7,8
+TCH4014,SCH414,Math,Advanced,14,9
+TCH4015,SCH049,Science,Basic,10,8
+TCH4016,SCH208,English,Basic,12,8
+TCH4017,SCH133,Nepali,Basic,3,22
+TCH4018,SCH044,English,Basic,1,28
+TCH4019,SCH260,Math,Basic,11,9
+TCH4020,SCH284,Social Studies,Advanced,19,8
+TCH4021,SCH484,Science,Basic,2,27
+TCH4022,SCH490,Nepali,Basic,2,16
+TCH4023,SCH294,Science,Basic,10,25
+TCH4024,SCH435,Science,Advanced,9,8
+TCH4025,SCH450,English,Basic,15,9
+TCH4026,SCH242,Nepali,Advanced,16,11
+TCH4027,SCH390,Nepali,Basic,7,8
+TCH4028,SCH345,Nepali,Advanced,14,10
+TCH4029,SCH184,Nepali,Advanced,13,9
+TCH4030,SCH065,Science,Basic,17,16
+TCH4031,SCH007,Science,Basic,16,26
+TCH4032,SCH027,Social Studies,Basic,16,9
+TCH4033,SCH102,English,Basic,1,31
+TCH4034,SCH177,English,Advanced,7,8
+TCH4035,SCH261,English,Basic,13,34
+TCH4036,SCH035,English,Advanced,14,9
+TCH4037,SCH357,English,Advanced,13,26
+TCH4038,SCH307,Social Studies,Basic,4,8
+TCH4039,SCH117,English,Basic,5,26
+TCH4040,SCH280,Math,Basic,16,9
+TCH4041,SCH468,Science,Advanced,18,12
+TCH4042,SCH269,Science,Advanced,11,8
+TCH4043,SCH168,Science,Basic,11,32
+TCH4044,SCH245,Social Studies,Basic,9,13
+TCH4045,SCH124,Nepali,Advanced,8,9
+TCH4046,SCH478,Math,Basic,19,9
+TCH4047,SCH089,English,Advanced,3,11
+TCH4048,SCH213,Social Studies,Advanced,4,11
+TCH4049,SCH355,Nepali,Basic,11,30
+TCH4050,SCH106,English,Advanced,3,21
+TCH4051,SCH162,English,Advanced,7,23
+TCH4052,SCH208,Social Studies,Advanced,2,9
+TCH4053,SCH381,Social Studies,Basic,12,11
+TCH4054,SCH052,English,Advanced,9,24
+TCH4055,SCH232,Math,Basic,15,23
+TCH4056,SCH190,Science,Advanced,4,24
+TCH4057,SCH390,Social Studies,Advanced,15,9
+TCH4058,SCH298,Nepali,Basic,10,27
+TCH4059,SCH472,Nepali,Advanced,4,23
+TCH4060,SCH249,English,Advanced,23,10
+TCH4061,SCH259,Science,Basic,1,22
+TCH4062,SCH311,Social Studies,Basic,11,24
+TCH4063,SCH351,Nepali,Advanced,11,11
+TCH4064,SCH448,Nepali,Advanced,7,10
+TCH4065,SCH257,Nepali,Basic,7,25
+TCH4066,SCH252,Nepali,Basic,9,9
+TCH4067,SCH166,Social Studies,Basic,14,8
+TCH4068,SCH484,Social Studies,Basic,5,31
+TCH4069,SCH445,Math,Basic,15,11
+TCH4070,SCH239,English,Advanced,12,10
+TCH4071,SCH185,Math,Basic,3,26
+TCH4072,SCH230,Nepali,Basic,13,11
+TCH4073,SCH090,Science,Basic,6,24
+TCH4074,SCH142,Science,Basic,27,10
+TCH4075,SCH142,Social Studies,Advanced,7,11
+TCH4076,SCH282,Nepali,Basic,8,21
+TCH4077,SCH045,Nepali,Basic,10,29
+TCH4078,SCH145,Math,Advanced,7,12
+TCH4079,SCH222,Nepali,Advanced,8,8
+TCH4080,SCH431,Nepali,Basic,12,11
+TCH4081,SCH286,Social Studies,Basic,12,26
+TCH4082,SCH462,Nepali,Basic,2,21
+TCH4083,SCH468,Math,Advanced,9,11
+TCH4084,SCH039,Math,Advanced,6,28
+TCH4085,SCH432,Social Studies,Advanced,23,8
+TCH4086,SCH094,Nepali,Basic,8,27
+TCH4087,SCH324,Social Studies,Advanced,17,10
+TCH4088,SCH378,Social Studies,Basic,7,18
+TCH4089,SCH114,Science,Basic,9,11
+TCH4090,SCH449,Math,Advanced,14,20
+TCH4091,SCH008,Math,Advanced,19,12
+TCH4092,SCH054,Math,Advanced,8,21
+TCH4093,SCH170,Nepali,Advanced,14,24
+TCH4094,SCH010,Social Studies,Basic,10,21
+TCH4095,SCH124,Math,Basic,3,11
+TCH4096,SCH352,Nepali,Advanced,9,26
+TCH4097,SCH243,Social Studies,Basic,2,28
+TCH4098,SCH300,Nepali,Advanced,16,14
+TCH4099,SCH315,Nepali,Advanced,10,8
+TCH4100,SCH467,Social Studies,Basic,9,9
+TCH4101,SCH132,English,Basic,12,11
+TCH4102,SCH200,Math,Basic,5,29
+TCH4103,SCH227,Social Studies,Advanced,12,8
+TCH4104,SCH342,Science,Basic,7,22
+TCH4105,SCH267,English,Basic,12,12
+TCH4106,SCH490,English,Basic,2,24
+TCH4107,SCH466,Science,Advanced,21,9
+TCH4108,SCH341,Social Studies,Basic,4,32
+TCH4109,SCH258,Math,Basic,15,12
+TCH4110,SCH488,Science,Basic,7,9
+TCH4111,SCH029,Social Studies,Basic,6,11
+TCH4112,SCH313,Nepali,Advanced,7,8
+TCH4113,SCH245,Nepali,Advanced,12,10
+TCH4114,SCH147,English,Basic,7,25
+TCH4115,SCH292,Nepali,Advanced,21,12
+TCH4116,SCH271,English,Basic,7,27
+TCH4117,SCH330,Nepali,Basic,12,26
+TCH4118,SCH218,Math,Basic,4,17
+TCH4119,SCH391,Nepali,Advanced,22,10
+TCH4120,SCH230,Social Studies,Advanced,14,8
+TCH4121,SCH151,Nepali,Advanced,6,21
+TCH4122,SCH286,Social Studies,Basic,2,26
+TCH4123,SCH106,Science,Advanced,9,25
+TCH4124,SCH307,English,Advanced,12,11
+TCH4125,SCH481,English,Advanced,1,11
+TCH4126,SCH099,English,Basic,25,8
+TCH4127,SCH127,English,Advanced,1,8
+TCH4128,SCH034,Nepali,Basic,12,20
+TCH4129,SCH012,Science,Advanced,13,10
+TCH4130,SCH469,Science,Advanced,7,23
+TCH4131,SCH150,Nepali,Advanced,10,8
+TCH4132,SCH448,Nepali,Advanced,16,12
+TCH4133,SCH459,English,Basic,13,8
+TCH4134,SCH192,Social Studies,Basic,7,24
+TCH4135,SCH039,Math,Basic,5,25
+TCH4136,SCH405,Science,Basic,10,12
+TCH4137,SCH153,English,Basic,6,9
+TCH4138,SCH418,Math,Basic,6,9
+TCH4139,SCH273,English,Basic,9,23
+TCH4140,SCH186,English,Basic,17,13
+TCH4141,SCH398,English,Basic,1,28
+TCH4142,SCH033,English,Basic,7,24
+TCH4143,SCH439,English,Advanced,10,11
+TCH4144,SCH329,Nepali,Advanced,12,11
+TCH4145,SCH453,Science,Basic,8,27
+TCH4146,SCH142,Nepali,Advanced,16,9
+TCH4147,SCH320,Math,Basic,16,10
+TCH4148,SCH199,Social Studies,Advanced,13,8
+TCH4149,SCH186,Science,Basic,6,10
+TCH4150,SCH339,Nepali,Basic,15,9
+TCH4151,SCH360,Science,Advanced,16,8
+TCH4152,SCH215,Social Studies,Basic,7,22
+TCH4153,SCH496,Nepali,Advanced,8,8
+TCH4154,SCH274,Science,Advanced,30,12
+TCH4155,SCH112,Math,Basic,10,23
+TCH4156,SCH394,Math,Advanced,5,8
+TCH4157,SCH366,English,Basic,7,28
+TCH4158,SCH141,Nepali,Basic,5,11
+TCH4159,SCH071,Nepali,Advanced,13,10
+TCH4160,SCH214,Math,Basic,21,26
+TCH4161,SCH490,Social Studies,Basic,9,22
+TCH4162,SCH221,English,Basic,4,20
+TCH4163,SCH208,English,Basic,4,9
+TCH4164,SCH202,Nepali,Advanced,15,8
+TCH4165,SCH123,Social Studies,Basic,7,21
+TCH4166,SCH420,Math,Basic,11,23
+TCH4167,SCH347,Math,Basic,17,8
+TCH4168,SCH067,Science,Advanced,14,10
+TCH4169,SCH431,Math,Advanced,14,12
+TCH4170,SCH471,Nepali,Basic,17,25
+TCH4171,SCH404,Science,Basic,7,30
+TCH4172,SCH415,English,Advanced,7,10
+TCH4173,SCH138,Math,Advanced,5,24
+TCH4174,SCH190,Science,Advanced,4,27
+TCH4175,SCH300,English,Basic,10,8
+TCH4176,SCH177,English,Basic,4,10
+TCH4177,SCH474,Nepali,Basic,13,17
+TCH4178,SCH304,Nepali,Advanced,10,8
+TCH4179,SCH099,Math,Basic,17,8
+TCH4180,SCH248,Math,Advanced,11,8
+TCH4181,SCH126,Social Studies,Basic,13,21
+TCH4182,SCH449,English,Basic,13,25
+TCH4183,SCH030,Social Studies,Basic,3,27
+TCH4184,SCH355,English,Basic,11,31
+TCH4185,SCH401,Nepali,Basic,10,27
+TCH4186,SCH336,Science,Advanced,12,15
+TCH4187,SCH466,English,Basic,14,12
+TCH4188,SCH374,Nepali,Basic,9,22
+TCH4189,SCH493,Math,Basic,4,24
+TCH4190,SCH095,Nepali,Basic,7,25
+TCH4191,SCH371,Social Studies,Advanced,12,11
+TCH4192,SCH309,Nepali,Advanced,4,11
+TCH4193,SCH103,Nepali,Advanced,19,8
+TCH4194,SCH272,English,Advanced,9,11
+TCH4195,SCH255,Social Studies,Advanced,14,8
+TCH4196,SCH351,Math,Advanced,15,8
+TCH4197,SCH425,Social Studies,Advanced,15,12
+TCH4198,SCH284,Science,Advanced,11,11
+TCH4199,SCH104,Math,Basic,9,21
+TCH4200,SCH244,Science,Advanced,8,9
+TCH4201,SCH291,Nepali,Advanced,10,12
+TCH4202,SCH176,Social Studies,Advanced,15,28
+TCH4203,SCH110,English,Basic,15,26
+TCH4204,SCH305,Social Studies,Basic,1,25
+TCH4205,SCH444,Math,Basic,4,27
+TCH4206,SCH161,English,Basic,7,26
+TCH4207,SCH230,English,Basic,12,8
+TCH4208,SCH310,Math,Basic,3,23
+TCH4209,SCH290,Social Studies,Basic,14,12
+TCH4210,SCH034,Science,Advanced,10,35
+TCH4211,SCH025,English,Advanced,15,10
+TCH4212,SCH165,English,Basic,13,19
+TCH4213,SCH077,Math,Basic,4,27
+TCH4214,SCH143,Science,Basic,7,12
+TCH4215,SCH418,Science,Advanced,9,11
+TCH4216,SCH117,Social Studies,Basic,8,32
+TCH4217,SCH485,Math,Advanced,16,11
+TCH4218,SCH364,Science,Advanced,6,22
+TCH4219,SCH074,Math,Advanced,8,27
+TCH4220,SCH130,Social Studies,Basic,14,8
+TCH4221,SCH197,English,Advanced,9,10
+TCH4222,SCH386,English,Basic,3,26
+TCH4223,SCH333,Nepali,Basic,5,27
+TCH4224,SCH003,Math,Advanced,10,10
+TCH4225,SCH288,Social Studies,Basic,8,27
+TCH4226,SCH359,Nepali,Basic,17,8
+TCH4227,SCH399,Science,Basic,11,10
+TCH4228,SCH155,English,Advanced,30,11
+TCH4229,SCH232,English,Basic,8,20
+TCH4230,SCH170,Nepali,Advanced,7,34
+TCH4231,SCH048,Social Studies,Basic,3,9
+TCH4232,SCH029,English,Advanced,19,14
+TCH4233,SCH436,English,Basic,7,27
+TCH4234,SCH467,English,Advanced,17,11
+TCH4235,SCH118,English,Advanced,13,12
+TCH4236,SCH130,Social Studies,Advanced,19,10
+TCH4237,SCH238,English,Basic,16,25
+TCH4238,SCH456,Math,Advanced,13,9
+TCH4239,SCH049,Social Studies,Advanced,1,10
+TCH4240,SCH302,Social Studies,Advanced,13,8
+TCH4241,SCH181,Nepali,Advanced,8,12
+TCH4242,SCH385,Nepali,Advanced,4,9
+TCH4243,SCH218,Math,Basic,12,20
+TCH4244,SCH277,Nepali,Advanced,12,10
+TCH4245,SCH350,Social Studies,Advanced,17,10
+TCH4246,SCH399,Social Studies,Advanced,14,9
+TCH4247,SCH376,Social Studies,Advanced,14,11
+TCH4248,SCH483,Math,Basic,1,26
+TCH4249,SCH088,Math,Basic,21,22
+TCH4250,SCH016,Social Studies,Basic,13,8
+TCH4251,SCH064,Social Studies,Advanced,14,27
+TCH4252,SCH124,Math,Advanced,11,11
+TCH4253,SCH111,Social Studies,Advanced,17,8
+TCH4254,SCH406,Math,Basic,14,10
+TCH4255,SCH203,Nepali,Advanced,8,25
+TCH4256,SCH200,Social Studies,Basic,12,19
+TCH4257,SCH097,Social Studies,Basic,9,10
+TCH4258,SCH125,Nepali,Advanced,5,24
+TCH4259,SCH058,Nepali,Basic,10,12
+TCH4260,SCH422,Math,Basic,12,13
+TCH4261,SCH044,Nepali,Advanced,8,29
+TCH4262,SCH395,Social Studies,Basic,15,12
+TCH4263,SCH320,Science,Basic,10,10
+TCH4264,SCH294,English,Advanced,1,19
+TCH4265,SCH017,Nepali,Basic,12,22
+TCH4266,SCH097,Nepali,Basic,18,9
+TCH4267,SCH310,Science,Basic,12,28
+TCH4268,SCH453,Social Studies,Basic,1,23
+TCH4269,SCH064,Nepali,Advanced,2,15
+TCH4270,SCH411,English,Basic,4,18
+TCH4271,SCH049,English,Basic,11,8
+TCH4272,SCH077,Science,Basic,10,25
+TCH4273,SCH287,Science,Advanced,12,28
+TCH4274,SCH245,Social Studies,Advanced,17,10
+TCH4275,SCH227,Social Studies,Advanced,9,9
+TCH4276,SCH225,Science,Basic,4,24
+TCH4277,SCH417,Science,Basic,12,28
+TCH4278,SCH376,Social Studies,Basic,2,10
+TCH4279,SCH135,Social Studies,Basic,12,8
+TCH4280,SCH131,Nepali,Advanced,11,32
+TCH4281,SCH453,English,Advanced,5,24
+TCH4282,SCH152,Social Studies,Basic,10,34
+TCH4283,SCH462,English,Advanced,12,22
+TCH4284,SCH493,English,Basic,4,25
+TCH4285,SCH319,Nepali,Basic,11,11
+TCH4286,SCH104,Science,Basic,8,25
+TCH4287,SCH120,Nepali,Advanced,7,9
+TCH4288,SCH090,English,Basic,10,33
+TCH4289,SCH294,English,Basic,7,26
+TCH4290,SCH087,Nepali,Advanced,9,8
+TCH4291,SCH242,English,Advanced,15,10
+TCH4292,SCH262,Social Studies,Basic,1,19
+TCH4293,SCH188,Science,Basic,12,21
+TCH4294,SCH173,Science,Basic,12,10
+TCH4295,SCH370,Social Studies,Basic,12,9
+TCH4296,SCH043,Social Studies,Basic,15,12
+TCH4297,SCH131,Math,Basic,7,19
+TCH4298,SCH429,Math,Advanced,5,12
+TCH4299,SCH108,Science,Basic,7,11
+TCH4300,SCH343,Science,Basic,3,8
+TCH4301,SCH182,Science,Advanced,14,8
+TCH4302,SCH479,Math,Basic,19,9
+TCH4303,SCH055,Science,Basic,6,8
+TCH4304,SCH351,Science,Advanced,23,9
+TCH4305,SCH172,Nepali,Advanced,7,24
+TCH4306,SCH161,Social Studies,Basic,9,25
+TCH4307,SCH302,Science,Basic,12,8
+TCH4308,SCH419,Social Studies,Advanced,16,9
+TCH4309,SCH407,Nepali,Basic,18,13
+TCH4310,SCH256,Science,Basic,7,25
+TCH4311,SCH351,Social Studies,Advanced,10,8
+TCH4312,SCH281,Math,Basic,15,23
+TCH4313,SCH118,Social Studies,Advanced,13,8
+TCH4314,SCH031,Math,Basic,2,16
+TCH4315,SCH156,Math,Advanced,12,8
+TCH4316,SCH312,English,Advanced,9,10
+TCH4317,SCH234,Science,Basic,2,8
+TCH4318,SCH241,English,Advanced,13,10
+TCH4319,SCH034,English,Advanced,1,26
+TCH4320,SCH274,Nepali,Advanced,5,10
+TCH4321,SCH429,Math,Basic,13,12
+TCH4322,SCH248,Science,Advanced,11,9
+TCH4323,SCH380,Social Studies,Advanced,2,26
+TCH4324,SCH297,Science,Basic,3,8
+TCH4325,SCH010,Science,Advanced,1,18
+TCH4326,SCH383,Math,Basic,12,21
+TCH4327,SCH107,Science,Basic,9,8
+TCH4328,SCH376,Social Studies,Basic,18,9
+TCH4329,SCH397,Nepali,Advanced,12,8
+TCH4330,SCH121,English,Basic,17,19
+TCH4331,SCH355,Social Studies,Advanced,5,30
+TCH4332,SCH133,Science,Advanced,7,26
+TCH4333,SCH384,Math,Basic,15,11
+TCH4334,SCH315,English,Basic,18,11
+TCH4335,SCH102,Math,Advanced,1,27
+TCH4336,SCH362,Social Studies,Basic,9,10
+TCH4337,SCH238,Science,Basic,2,28
+TCH4338,SCH079,English,Advanced,9,9
+TCH4339,SCH470,Nepali,Advanced,12,22
+TCH4340,SCH351,Social Studies,Advanced,12,10
+TCH4341,SCH329,Science,Advanced,13,9
+TCH4342,SCH294,Science,Basic,6,23
+TCH4343,SCH460,English,Advanced,17,10
+TCH4344,SCH480,Nepali,Basic,17,11
+TCH4345,SCH227,Science,Advanced,16,9
+TCH4346,SCH497,English,Basic,8,17
+TCH4347,SCH393,English,Advanced,2,8
+TCH4348,SCH474,Science,Basic,6,30
+TCH4349,SCH401,Social Studies,Basic,11,22
+TCH4350,SCH333,Social Studies,Basic,14,24
+TCH4351,SCH144,Nepali,Advanced,20,8
+TCH4352,SCH231,Science,Basic,8,20
+TCH4353,SCH238,Math,Basic,7,17
+TCH4354,SCH295,Nepali,Advanced,7,11
+TCH4355,SCH170,Social Studies,Advanced,10,27
+TCH4356,SCH211,Nepali,Advanced,11,8
+TCH4357,SCH174,Social Studies,Advanced,10,10
+TCH4358,SCH178,English,Advanced,15,8
+TCH4359,SCH350,Science,Advanced,12,10
+TCH4360,SCH101,Math,Basic,7,11
+TCH4361,SCH362,Math,Basic,5,10
+TCH4362,SCH047,Social Studies,Advanced,1,8
+TCH4363,SCH411,Science,Basic,4,30
+TCH4364,SCH088,Math,Basic,6,20
+TCH4365,SCH171,Math,Basic,18,10
+TCH4366,SCH139,Nepali,Basic,9,22
+TCH4367,SCH181,Math,Advanced,20,9
+TCH4368,SCH215,English,Basic,6,26
+TCH4369,SCH494,Social Studies,Advanced,14,14
+TCH4370,SCH391,Social Studies,Advanced,18,10
+TCH4371,SCH056,Math,Basic,2,20
+TCH4372,SCH042,Nepali,Advanced,12,13
+TCH4373,SCH500,Science,Basic,14,27
+TCH4374,SCH015,Science,Basic,3,8
+TCH4375,SCH066,Social Studies,Basic,6,24
+TCH4376,SCH031,Nepali,Advanced,5,29
+TCH4377,SCH454,English,Basic,14,23
+TCH4378,SCH462,Math,Basic,5,23
+TCH4379,SCH416,Math,Basic,5,26
+TCH4380,SCH369,Math,Advanced,6,29
+TCH4381,SCH284,Nepali,Basic,10,8
+TCH4382,SCH458,Nepali,Advanced,8,24
+TCH4383,SCH346,Math,Advanced,8,24
+TCH4384,SCH375,Science,Advanced,1,8
+TCH4385,SCH485,English,Basic,17,8
+TCH4386,SCH234,Nepali,Advanced,1,10
+TCH4387,SCH174,Math,Basic,17,13
+TCH4388,SCH347,English,Basic,16,12
+TCH4389,SCH453,Social Studies,Basic,12,25
+TCH4390,SCH345,Social Studies,Advanced,5,9
+TCH4391,SCH408,Math,Basic,16,10
+TCH4392,SCH422,Social Studies,Advanced,19,10
+TCH4393,SCH210,Science,Basic,6,26
+TCH4394,SCH260,Nepali,Basic,7,10
+TCH4395,SCH485,English,Advanced,10,8
+TCH4396,SCH082,English,Advanced,11,21
+TCH4397,SCH112,Math,Basic,9,23
+TCH4398,SCH482,Science,Advanced,9,25
+TCH4399,SCH456,Math,Advanced,8,9
+TCH4400,SCH165,Science,Basic,8,30
+TCH4401,SCH491,Nepali,Advanced,17,21
+TCH4402,SCH329,Science,Advanced,7,8
+TCH4403,SCH498,Science,Basic,2,21
+TCH4404,SCH288,Nepali,Basic,1,18
+TCH4405,SCH449,Math,Basic,6,22
+TCH4406,SCH372,Science,Advanced,9,8
+TCH4407,SCH045,English,Basic,22,26
+TCH4408,SCH292,Social Studies,Advanced,11,12
+TCH4409,SCH014,Social Studies,Advanced,10,8
+TCH4410,SCH321,Nepali,Advanced,4,31
+TCH4411,SCH126,Science,Basic,6,17
+TCH4412,SCH259,Nepali,Basic,11,26
+TCH4413,SCH437,Science,Basic,5,25
+TCH4414,SCH278,English,Advanced,19,11
+TCH4415,SCH349,Math,Advanced,6,29
+TCH4416,SCH087,Social Studies,Advanced,21,8
+TCH4417,SCH299,Science,Basic,25,10
+TCH4418,SCH118,Science,Advanced,16,10
+TCH4419,SCH344,Science,Advanced,10,27
+TCH4420,SCH168,English,Basic,5,25
+TCH4421,SCH177,Social Studies,Advanced,18,8
+TCH4422,SCH089,Science,Advanced,18,8
+TCH4423,SCH363,Social Studies,Basic,11,35
+TCH4424,SCH473,Social Studies,Basic,14,8
+TCH4425,SCH324,Science,Advanced,17,13
+TCH4426,SCH027,Nepali,Basic,15,9
+TCH4427,SCH171,Math,Advanced,6,10
+TCH4428,SCH408,Social Studies,Basic,15,8
+TCH4429,SCH399,Nepali,Advanced,20,8
+TCH4430,SCH333,Nepali,Advanced,12,28
+TCH4431,SCH339,Science,Advanced,18,8
+TCH4432,SCH091,Math,Basic,13,34
+TCH4433,SCH167,Social Studies,Basic,11,10
+TCH4434,SCH146,Social Studies,Advanced,1,21
+TCH4435,SCH029,Math,Basic,10,8
+TCH4436,SCH141,English,Advanced,5,9
+TCH4437,SCH458,Math,Basic,10,19
+TCH4438,SCH091,English,Basic,7,18
+TCH4439,SCH194,Science,Advanced,11,12
+TCH4440,SCH045,English,Basic,9,29
+TCH4441,SCH459,Nepali,Basic,12,10
+TCH4442,SCH150,Science,Advanced,6,11
+TCH4443,SCH086,Science,Advanced,8,8
+TCH4444,SCH421,Math,Basic,11,8
+TCH4445,SCH284,Science,Basic,15,13
+TCH4446,SCH485,Math,Advanced,10,9
+TCH4447,SCH010,Nepali,Basic,10,27
+TCH4448,SCH031,Science,Basic,8,18
+TCH4449,SCH352,Nepali,Basic,14,29
+TCH4450,SCH341,Math,Advanced,1,15
+TCH4451,SCH399,Math,Advanced,28,8
+TCH4452,SCH469,Science,Advanced,1,15
+TCH4453,SCH460,Science,Basic,8,11
+TCH4454,SCH086,English,Basic,23,9
+TCH4455,SCH333,Math,Basic,1,26
+TCH4456,SCH265,Science,Basic,13,8
+TCH4457,SCH447,English,Basic,6,25
+TCH4458,SCH494,Math,Advanced,16,11
+TCH4459,SCH003,English,Advanced,13,10
+TCH4460,SCH236,Nepali,Advanced,23,11
+TCH4461,SCH411,Math,Basic,13,28
+TCH4462,SCH277,Science,Basic,14,12
+TCH4463,SCH102,Math,Basic,4,28
+TCH4464,SCH219,Math,Advanced,4,10
+TCH4465,SCH153,Social Studies,Advanced,1,8
+TCH4466,SCH107,Social Studies,Basic,9,13
+TCH4467,SCH038,Nepali,Advanced,7,27
+TCH4468,SCH149,Math,Advanced,21,9
+TCH4469,SCH274,Math,Advanced,22,9
+TCH4470,SCH424,Social Studies,Basic,2,29
+TCH4471,SCH158,Math,Basic,11,23
+TCH4472,SCH335,Science,Advanced,3,29
+TCH4473,SCH320,Social Studies,Advanced,5,8
+TCH4474,SCH139,Social Studies,Basic,13,28
+TCH4475,SCH027,Science,Advanced,16,9
+TCH4476,SCH092,Math,Basic,11,21
+TCH4477,SCH386,English,Basic,8,32
+TCH4478,SCH491,Nepali,Advanced,7,26
+TCH4479,SCH196,English,Basic,3,9
+TCH4480,SCH274,Social Studies,Basic,10,12
+TCH4481,SCH098,English,Basic,24,10
+TCH4482,SCH381,Nepali,Advanced,1,8
+TCH4483,SCH255,English,Advanced,18,8
+TCH4484,SCH126,Social Studies,Basic,11,26
+TCH4485,SCH443,English,Basic,12,10
+TCH4486,SCH395,Nepali,Advanced,13,8
+TCH4487,SCH013,Science,Basic,6,33
+TCH4488,SCH260,Social Studies,Basic,5,8
+TCH4489,SCH106,Science,Basic,5,32
+TCH4490,SCH304,Nepali,Basic,6,9
+TCH4491,SCH106,English,Basic,2,22
+TCH4492,SCH067,English,Advanced,10,10
+TCH4493,SCH042,Social Studies,Advanced,2,10
+TCH4494,SCH293,Math,Basic,6,10
+TCH4495,SCH493,Math,Basic,1,23
+TCH4496,SCH500,Social Studies,Basic,3,25
+TCH4497,SCH226,English,Advanced,21,11
+TCH4498,SCH043,Nepali,Advanced,15,9
+TCH4499,SCH018,Nepali,Advanced,7,24
+TCH4500,SCH137,Social Studies,Advanced,10,8
+TCH4501,SCH252,Social Studies,Basic,7,8
+TCH4502,SCH332,Social Studies,Advanced,10,8
+TCH4503,SCH082,English,Advanced,9,18
+TCH4504,SCH235,Math,Basic,14,9
+TCH4505,SCH084,English,Advanced,21,12
+TCH4506,SCH428,English,Basic,5,9
+TCH4507,SCH493,English,Advanced,9,22
+TCH4508,SCH208,English,Advanced,6,10
+TCH4509,SCH068,Nepali,Basic,11,25
+TCH4510,SCH082,Social Studies,Basic,7,24
+TCH4511,SCH087,English,Advanced,5,11
+TCH4512,SCH130,Science,Advanced,13,10
+TCH4513,SCH167,Social Studies,Basic,14,15
+TCH4514,SCH416,Math,Basic,17,26
+TCH4515,SCH205,Science,Basic,4,28
+TCH4516,SCH125,Social Studies,Basic,6,25
+TCH4517,SCH086,English,Basic,17,11
+TCH4518,SCH197,Science,Basic,13,11
+TCH4519,SCH450,English,Advanced,18,8
+TCH4520,SCH143,Science,Advanced,15,8
+TCH4521,SCH434,Math,Basic,10,20
+TCH4522,SCH466,Nepali,Advanced,12,10
+TCH4523,SCH294,Science,Advanced,7,27
+TCH4524,SCH357,Nepali,Basic,6,24
+TCH4525,SCH106,Math,Basic,7,22
+TCH4526,SCH422,Math,Advanced,9,11
+TCH4527,SCH468,Nepali,Basic,16,8
+TCH4528,SCH112,Social Studies,Advanced,11,19
+TCH4529,SCH167,Science,Advanced,10,8
+TCH4530,SCH070,Nepali,Advanced,12,10
+TCH4531,SCH444,Science,Basic,15,30
+TCH4532,SCH210,Math,Basic,5,25
+TCH4533,SCH408,Math,Advanced,6,8
+TCH4534,SCH476,Social Studies,Advanced,2,11
+TCH4535,SCH226,Science,Basic,7,8
+TCH4536,SCH373,English,Advanced,9,9
+TCH4537,SCH042,Nepali,Advanced,6,11
+TCH4538,SCH028,Nepali,Basic,8,22
+TCH4539,SCH469,Math,Basic,7,24
+TCH4540,SCH310,English,Advanced,7,27
+TCH4541,SCH161,Math,Advanced,9,32
+TCH4542,SCH264,English,Basic,3,31
+TCH4543,SCH064,Math,Basic,9,24
+TCH4544,SCH280,English,Advanced,6,8
+TCH4545,SCH035,Science,Advanced,12,8
+TCH4546,SCH052,Nepali,Basic,7,32
+TCH4547,SCH045,Nepali,Basic,9,26
+TCH4548,SCH299,English,Advanced,5,10
+TCH4549,SCH119,Science,Advanced,2,8
+TCH4550,SCH470,Social Studies,Advanced,10,25
+TCH4551,SCH020,Science,Basic,14,17
+TCH4552,SCH283,Science,Basic,16,9
+TCH4553,SCH187,Math,Basic,11,19
+TCH4554,SCH452,Nepali,Basic,10,18
+TCH4555,SCH474,Math,Basic,14,22
+TCH4556,SCH237,Science,Basic,10,10
+TCH4557,SCH326,English,Basic,6,11
+TCH4558,SCH240,Social Studies,Basic,13,18
+TCH4559,SCH003,Nepali,Advanced,9,8
+TCH4560,SCH305,Social Studies,Basic,2,24
+TCH4561,SCH269,English,Advanced,14,8
+TCH4562,SCH492,Social Studies,Advanced,16,24
+TCH4563,SCH429,Science,Advanced,12,10
+TCH4564,SCH249,Math,Basic,3,8
+TCH4565,SCH119,English,Advanced,19,12
+TCH4566,SCH496,Math,Basic,17,9
+TCH4567,SCH114,English,Advanced,7,8
+TCH4568,SCH277,English,Advanced,1,9
+TCH4569,SCH101,English,Basic,11,9
+TCH4570,SCH095,English,Basic,4,25
+TCH4571,SCH232,English,Basic,13,20
+TCH4572,SCH284,Math,Basic,8,8
+TCH4573,SCH422,Science,Basic,19,8
+TCH4574,SCH484,Nepali,Basic,8,22
+TCH4575,SCH212,Math,Advanced,12,11
+TCH4576,SCH384,Science,Advanced,7,10
+TCH4577,SCH143,Science,Basic,1,11
+TCH4578,SCH191,Social Studies,Basic,3,27
+TCH4579,SCH500,Social Studies,Basic,10,35
+TCH4580,SCH032,English,Basic,12,29
+TCH4581,SCH462,Science,Basic,9,25
+TCH4582,SCH076,Social Studies,Basic,1,30
+TCH4583,SCH159,Nepali,Advanced,17,24
+TCH4584,SCH495,Math,Basic,4,22
+TCH4585,SCH445,Math,Advanced,10,8
+TCH4586,SCH350,Social Studies,Advanced,13,11
+TCH4587,SCH110,Math,Basic,7,26
+TCH4588,SCH118,English,Advanced,17,9
+TCH4589,SCH176,English,Basic,16,32
+TCH4590,SCH460,English,Advanced,19,10
+TCH4591,SCH250,Social Studies,Basic,2,27
+TCH4592,SCH026,Science,Basic,9,32
+TCH4593,SCH161,English,Advanced,6,22
+TCH4594,SCH450,Nepali,Basic,22,9
+TCH4595,SCH143,English,Advanced,12,8
+TCH4596,SCH294,English,Basic,8,25
+TCH4597,SCH496,English,Basic,11,10
+TCH4598,SCH429,Nepali,Basic,12,8
+TCH4599,SCH395,Nepali,Advanced,18,11
+TCH4600,SCH316,Math,Basic,15,8
+TCH4601,SCH225,Science,Advanced,13,24
+TCH4602,SCH420,Science,Advanced,5,24
+TCH4603,SCH041,Math,Advanced,11,8
+TCH4604,SCH318,Social Studies,Basic,16,10
+TCH4605,SCH278,Math,Basic,17,8
+TCH4606,SCH138,Math,Basic,10,24
+TCH4607,SCH244,Math,Advanced,9,10
+TCH4608,SCH313,Nepali,Advanced,16,8
+TCH4609,SCH196,Nepali,Advanced,21,9
+TCH4610,SCH369,English,Advanced,18,22
+TCH4611,SCH460,Math,Advanced,9,8
+TCH4612,SCH012,English,Basic,11,12
+TCH4613,SCH335,Math,Basic,2,27
+TCH4614,SCH006,English,Basic,4,26
+TCH4615,SCH219,Nepali,Basic,17,14
+TCH4616,SCH273,Science,Basic,14,23
+TCH4617,SCH236,Science,Advanced,2,11
+TCH4618,SCH212,Nepali,Advanced,20,10
+TCH4619,SCH085,Social Studies,Advanced,9,11
+TCH4620,SCH061,English,Basic,7,23
+TCH4621,SCH481,Math,Basic,13,11
+TCH4622,SCH197,Social Studies,Basic,5,8
+TCH4623,SCH430,Social Studies,Advanced,4,8
+TCH4624,SCH272,Nepali,Advanced,23,9
+TCH4625,SCH136,Science,Advanced,15,8
+TCH4626,SCH479,Math,Advanced,7,12
+TCH4627,SCH217,Science,Basic,1,30
+TCH4628,SCH413,English,Basic,7,25
+TCH4629,SCH343,Nepali,Advanced,18,12
+TCH4630,SCH290,Science,Basic,6,8
+TCH4631,SCH248,Science,Advanced,2,10
+TCH4632,SCH438,English,Advanced,6,8
+TCH4633,SCH127,Science,Basic,15,11
+TCH4634,SCH400,Social Studies,Basic,6,23
+TCH4635,SCH096,Science,Advanced,9,20
+TCH4636,SCH486,Science,Basic,10,28
+TCH4637,SCH429,Math,Advanced,19,8
+TCH4638,SCH157,Social Studies,Advanced,10,27
+TCH4639,SCH283,Science,Basic,21,9
+TCH4640,SCH016,Science,Advanced,10,9
+TCH4641,SCH162,Social Studies,Basic,6,21
+TCH4642,SCH391,Nepali,Advanced,5,8
+TCH4643,SCH396,Social Studies,Basic,14,8
+TCH4644,SCH295,Science,Basic,15,9
+TCH4645,SCH115,English,Advanced,15,11
+TCH4646,SCH352,Nepali,Basic,6,29
+TCH4647,SCH056,Math,Basic,13,20
+TCH4648,SCH267,English,Basic,7,9
+TCH4649,SCH238,English,Basic,13,30
+TCH4650,SCH079,Math,Basic,13,12
+TCH4651,SCH402,English,Advanced,9,13
+TCH4652,SCH053,Science,Advanced,17,10
+TCH4653,SCH215,Social Studies,Basic,11,29
+TCH4654,SCH311,English,Basic,5,22
+TCH4655,SCH241,English,Basic,15,9
+TCH4656,SCH152,Math,Advanced,8,31
+TCH4657,SCH248,Science,Advanced,7,11
+TCH4658,SCH311,Math,Advanced,9,20
+TCH4659,SCH127,Math,Advanced,4,8
+TCH4660,SCH329,Science,Advanced,9,8
+TCH4661,SCH267,Nepali,Basic,12,10
+TCH4662,SCH321,Nepali,Basic,1,16
+TCH4663,SCH457,Math,Basic,15,9
+TCH4664,SCH377,English,Basic,6,9
+TCH4665,SCH499,English,Advanced,14,11
+TCH4666,SCH128,Social Studies,Basic,7,25
+TCH4667,SCH269,Math,Basic,17,11
+TCH4668,SCH458,Social Studies,Basic,13,19
+TCH4669,SCH243,Nepali,Basic,1,21
+TCH4670,SCH441,Nepali,Basic,17,9
+TCH4671,SCH147,English,Advanced,14,19
+TCH4672,SCH445,Social Studies,Basic,7,10
+TCH4673,SCH348,Nepali,Basic,13,10
+TCH4674,SCH100,Science,Basic,7,24
+TCH4675,SCH014,Science,Advanced,21,9
+TCH4676,SCH087,Science,Advanced,18,9
+TCH4677,SCH268,Science,Advanced,13,24
+TCH4678,SCH102,Social Studies,Basic,6,24
+TCH4679,SCH231,Social Studies,Basic,12,19
+TCH4680,SCH455,Math,Basic,5,27
+TCH4681,SCH226,Science,Basic,11,8
+TCH4682,SCH100,Nepali,Basic,7,27
+TCH4683,SCH471,Social Studies,Basic,13,20
+TCH4684,SCH028,Math,Basic,16,22
+TCH4685,SCH471,Social Studies,Advanced,7,20
+TCH4686,SCH492,Math,Basic,9,23
+TCH4687,SCH093,Math,Basic,8,10
+TCH4688,SCH006,Nepali,Basic,7,22
+TCH4689,SCH115,Social Studies,Advanced,9,11
+TCH4690,SCH072,Social Studies,Basic,4,10
+TCH4691,SCH013,Math,Advanced,2,27
+TCH4692,SCH077,English,Basic,14,21
+TCH4693,SCH414,Social Studies,Advanced,6,13
+TCH4694,SCH210,Social Studies,Basic,11,23
+TCH4695,SCH300,Nepali,Advanced,11,8
+TCH4696,SCH197,English,Basic,1,9
+TCH4697,SCH359,English,Advanced,9,11
+TCH4698,SCH098,Science,Advanced,12,9
+TCH4699,SCH038,Science,Advanced,6,18
+TCH4700,SCH403,Science,Basic,5,8
+TCH4701,SCH019,Science,Basic,11,27
+TCH4702,SCH461,Nepali,Basic,13,13
+TCH4703,SCH025,English,Advanced,13,10
+TCH4704,SCH100,Nepali,Advanced,5,23
+TCH4705,SCH126,Science,Advanced,3,29
+TCH4706,SCH125,Science,Advanced,10,24
+TCH4707,SCH332,Nepali,Advanced,10,12
+TCH4708,SCH355,Science,Advanced,11,21
+TCH4709,SCH058,Science,Advanced,3,9
+TCH4710,SCH089,Science,Basic,13,8
+TCH4711,SCH068,Nepali,Basic,1,23
+TCH4712,SCH456,Science,Advanced,16,10
+TCH4713,SCH097,Nepali,Basic,12,9
+TCH4714,SCH485,Science,Advanced,17,11
+TCH4715,SCH040,English,Advanced,23,9
+TCH4716,SCH071,Math,Basic,19,9
+TCH4717,SCH215,English,Advanced,6,26
+TCH4718,SCH036,Social Studies,Advanced,10,9
+TCH4719,SCH431,Social Studies,Advanced,15,8
+TCH4720,SCH084,English,Basic,24,10
+TCH4721,SCH040,Social Studies,Basic,15,10
+TCH4722,SCH430,Math,Advanced,23,12
+TCH4723,SCH322,Math,Advanced,13,30
+TCH4724,SCH236,Math,Basic,11,12
+TCH4725,SCH497,Social Studies,Advanced,9,29
+TCH4726,SCH159,Math,Advanced,8,25
+TCH4727,SCH246,Math,Advanced,2,19
+TCH4728,SCH380,English,Basic,13,25
+TCH4729,SCH128,Science,Basic,10,26
+TCH4730,SCH302,Social Studies,Basic,7,8
+TCH4731,SCH144,Math,Basic,18,10
+TCH4732,SCH126,Nepali,Basic,14,20
+TCH4733,SCH089,Math,Advanced,12,11
+TCH4734,SCH277,Social Studies,Advanced,22,10
+TCH4735,SCH106,Nepali,Basic,9,22
+TCH4736,SCH237,English,Basic,10,8
+TCH4737,SCH474,Social Studies,Basic,4,29
+TCH4738,SCH482,Science,Basic,4,25
+TCH4739,SCH450,Nepali,Basic,9,10
+TCH4740,SCH342,English,Basic,4,26
+TCH4741,SCH116,Science,Advanced,9,22
+TCH4742,SCH332,Science,Basic,4,8
+TCH4743,SCH108,Social Studies,Basic,16,8
+TCH4744,SCH296,Science,Basic,7,10
+TCH4745,SCH082,Math,Advanced,14,27
+TCH4746,SCH359,Nepali,Basic,9,8
+TCH4747,SCH309,Math,Basic,11,12
+TCH4748,SCH341,Social Studies,Basic,2,20
+TCH4749,SCH329,English,Advanced,11,10
+TCH4750,SCH322,Math,Advanced,3,28
+TCH4751,SCH395,Science,Advanced,16,9
+TCH4752,SCH451,Math,Advanced,9,10
+TCH4753,SCH487,Nepali,Basic,1,17
+TCH4754,SCH311,English,Basic,10,19
+TCH4755,SCH144,Science,Advanced,7,10
+TCH4756,SCH150,Science,Basic,17,10
+TCH4757,SCH446,English,Basic,11,9
+TCH4758,SCH102,Science,Basic,5,25
+TCH4759,SCH136,English,Basic,11,11
+TCH4760,SCH435,Nepali,Advanced,11,9
+TCH4761,SCH489,Science,Advanced,12,25
+TCH4762,SCH262,English,Basic,9,19
+TCH4763,SCH028,Social Studies,Advanced,3,25
+TCH4764,SCH482,Social Studies,Basic,12,27
+TCH4765,SCH115,Nepali,Advanced,7,10
+TCH4766,SCH234,Math,Basic,18,9
+TCH4767,SCH428,Science,Advanced,8,11
+TCH4768,SCH186,Nepali,Basic,19,10
+TCH4769,SCH070,Nepali,Basic,4,11
+TCH4770,SCH395,Science,Basic,15,10
+TCH4771,SCH323,Science,Basic,8,14
+TCH4772,SCH403,Science,Basic,21,9
+TCH4773,SCH313,English,Advanced,5,8
+TCH4774,SCH181,Math,Basic,16,10
+TCH4775,SCH478,Nepali,Advanced,15,10
+TCH4776,SCH305,English,Basic,12,22
+TCH4777,SCH374,Social Studies,Advanced,4,25
+TCH4778,SCH440,English,Basic,2,18
+TCH4779,SCH460,Nepali,Advanced,13,8
+TCH4780,SCH148,Social Studies,Basic,8,25
+TCH4781,SCH208,Social Studies,Basic,7,10
+TCH4782,SCH370,Math,Basic,8,8
+TCH4783,SCH042,Social Studies,Basic,14,12
+TCH4784,SCH243,Nepali,Basic,9,30
+TCH4785,SCH412,Nepali,Basic,11,22
+TCH4786,SCH147,English,Basic,8,32
+TCH4787,SCH059,Nepali,Basic,8,10
+TCH4788,SCH302,Science,Advanced,18,11
+TCH4789,SCH090,English,Basic,4,32
+TCH4790,SCH449,Nepali,Basic,8,24
+TCH4791,SCH471,English,Basic,4,30
+TCH4792,SCH407,Nepali,Advanced,4,9
+TCH4793,SCH226,Social Studies,Basic,19,11
+TCH4794,SCH487,Math,Basic,16,29
+TCH4795,SCH096,Nepali,Advanced,3,27
+TCH4796,SCH114,Nepali,Basic,4,11
+TCH4797,SCH029,Science,Basic,5,10
+TCH4798,SCH312,English,Advanced,4,9
+TCH4799,SCH157,Math,Basic,5,24
+TCH4800,SCH331,Social Studies,Advanced,17,8
+TCH4801,SCH168,Math,Basic,2,25
+TCH4802,SCH245,Math,Basic,16,9
+TCH4803,SCH385,Math,Advanced,15,9
+TCH4804,SCH268,Nepali,Basic,7,27
+TCH4805,SCH438,English,Advanced,19,11
+TCH4806,SCH334,Nepali,Advanced,12,8
+TCH4807,SCH097,Math,Advanced,12,8
+TCH4808,SCH230,Nepali,Basic,14,9
+TCH4809,SCH326,Science,Advanced,21,12
+TCH4810,SCH310,Social Studies,Basic,11,19
+TCH4811,SCH216,English,Basic,7,12
+TCH4812,SCH325,Science,Basic,11,11
+TCH4813,SCH207,Social Studies,Advanced,4,8
+TCH4814,SCH188,English,Basic,6,27
+TCH4815,SCH468,Science,Advanced,3,11
+TCH4816,SCH327,Social Studies,Advanced,15,12
+TCH4817,SCH314,Math,Basic,8,12
+TCH4818,SCH380,Social Studies,Advanced,3,17
+TCH4819,SCH483,Nepali,Basic,8,28
+TCH4820,SCH425,English,Advanced,8,10
+TCH4821,SCH368,English,Basic,13,30
+TCH4822,SCH120,English,Advanced,16,9
+TCH4823,SCH043,Math,Basic,10,9
+TCH4824,SCH413,Nepali,Basic,8,28
+TCH4825,SCH238,Math,Basic,3,22
+TCH4826,SCH271,English,Basic,11,24
+TCH4827,SCH172,Social Studies,Basic,8,27
+TCH4828,SCH465,Social Studies,Basic,7,21
+TCH4829,SCH300,English,Advanced,21,10
+TCH4830,SCH387,Social Studies,Advanced,17,9
+TCH4831,SCH358,Nepali,Advanced,13,12
+TCH4832,SCH044,Science,Basic,9,25
+TCH4833,SCH017,Nepali,Advanced,2,16
+TCH4834,SCH345,Social Studies,Basic,22,10
+TCH4835,SCH132,Science,Basic,26,11
+TCH4836,SCH021,Math,Basic,4,24
+TCH4837,SCH349,English,Basic,15,30
+TCH4838,SCH160,Nepali,Basic,12,18
+TCH4839,SCH225,Social Studies,Basic,1,30
+TCH4840,SCH454,Math,Basic,11,31
+TCH4841,SCH178,Social Studies,Basic,11,8
+TCH4842,SCH078,Science,Advanced,13,10
+TCH4843,SCH045,English,Basic,4,20
+TCH4844,SCH103,Nepali,Advanced,15,8
+TCH4845,SCH053,English,Advanced,24,13
+TCH4846,SCH061,Math,Advanced,11,31
+TCH4847,SCH109,Science,Advanced,15,9
+TCH4848,SCH167,Nepali,Advanced,21,11
+TCH4849,SCH324,Nepali,Advanced,9,8
+TCH4850,SCH461,Math,Basic,7,12
+TCH4851,SCH021,Social Studies,Basic,7,32
+TCH4852,SCH147,Science,Basic,11,28
+TCH4853,SCH449,Science,Basic,4,23
+TCH4854,SCH033,English,Basic,1,21
+TCH4855,SCH110,Nepali,Advanced,5,24
+TCH4856,SCH340,Social Studies,Advanced,23,8
+TCH4857,SCH415,Social Studies,Basic,19,8
+TCH4858,SCH159,Science,Basic,5,25
+TCH4859,SCH273,Nepali,Basic,12,25
+TCH4860,SCH213,Science,Advanced,10,11
+TCH4861,SCH471,English,Basic,8,19
+TCH4862,SCH070,English,Advanced,21,10
+TCH4863,SCH398,Nepali,Advanced,9,25
+TCH4864,SCH289,Math,Advanced,3,8
+TCH4865,SCH100,Science,Basic,17,23
+TCH4866,SCH274,Science,Advanced,11,9
+TCH4867,SCH296,Nepali,Advanced,13,8
+TCH4868,SCH368,Science,Basic,6,24
+TCH4869,SCH055,Nepali,Advanced,14,11
+TCH4870,SCH482,Science,Basic,7,17
+TCH4871,SCH010,Social Studies,Basic,12,27
+TCH4872,SCH003,Science,Advanced,3,9
+TCH4873,SCH476,English,Advanced,10,12
+TCH4874,SCH445,English,Advanced,15,8
+TCH4875,SCH155,Science,Basic,24,9
+TCH4876,SCH078,Social Studies,Advanced,16,9
+TCH4877,SCH049,Math,Basic,6,8
+TCH4878,SCH087,Social Studies,Basic,1,8
+TCH4879,SCH224,Nepali,Basic,6,22
+TCH4880,SCH430,Math,Advanced,10,8
+TCH4881,SCH227,Social Studies,Advanced,25,10
+TCH4882,SCH129,Math,Advanced,8,30
+TCH4883,SCH079,Social Studies,Advanced,25,8
+TCH4884,SCH181,Nepali,Basic,14,9
+TCH4885,SCH018,Math,Advanced,10,25
+TCH4886,SCH314,English,Advanced,6,11
+TCH4887,SCH380,Social Studies,Basic,7,26
+TCH4888,SCH074,English,Advanced,12,28
+TCH4889,SCH496,Math,Advanced,8,9
+TCH4890,SCH466,English,Basic,10,8
+TCH4891,SCH479,Nepali,Basic,11,10
+TCH4892,SCH084,Nepali,Advanced,6,10
+TCH4893,SCH410,Science,Basic,12,29
+TCH4894,SCH382,Nepali,Advanced,1,8
+TCH4895,SCH364,English,Basic,7,23
+TCH4896,SCH265,Nepali,Basic,4,9
+TCH4897,SCH164,Math,Advanced,8,8
+TCH4898,SCH274,Math,Advanced,7,10
+TCH4899,SCH396,English,Advanced,1,9
+TCH4900,SCH059,Nepali,Basic,29,11
+TCH4901,SCH403,Nepali,Advanced,9,12
+TCH4902,SCH443,Nepali,Advanced,20,10
+TCH4903,SCH191,Science,Basic,2,21
+TCH4904,SCH293,Math,Advanced,6,8
+TCH4905,SCH392,Social Studies,Advanced,13,33
+TCH4906,SCH424,Math,Basic,8,22
+TCH4907,SCH183,Nepali,Advanced,16,12
+TCH4908,SCH177,Social Studies,Basic,7,10
+TCH4909,SCH272,Math,Basic,1,10
+TCH4910,SCH245,Science,Advanced,5,10
+TCH4911,SCH363,Science,Basic,5,25
+TCH4912,SCH059,Science,Advanced,24,10
+TCH4913,SCH044,Math,Basic,10,24
+TCH4914,SCH259,English,Basic,1,22
+TCH4915,SCH251,Social Studies,Advanced,5,27
+TCH4916,SCH282,Social Studies,Basic,9,26
+TCH4917,SCH097,Social Studies,Advanced,17,8
+TCH4918,SCH020,Social Studies,Basic,18,18
+TCH4919,SCH290,English,Advanced,4,10
+TCH4920,SCH145,Nepali,Advanced,5,10
+TCH4921,SCH417,Social Studies,Advanced,4,27
+TCH4922,SCH469,Nepali,Basic,7,22
+TCH4923,SCH104,Math,Basic,7,33
+TCH4924,SCH463,Math,Basic,11,8
+TCH4925,SCH040,Science,Advanced,1,8
+TCH4926,SCH110,Science,Basic,9,30
+TCH4927,SCH484,Math,Basic,12,21
+TCH4928,SCH022,Social Studies,Basic,1,24
+TCH4929,SCH282,Social Studies,Basic,7,23
+TCH4930,SCH238,Social Studies,Basic,11,21
+TCH4931,SCH057,Nepali,Basic,7,26
+TCH4932,SCH309,Social Studies,Basic,2,10
+TCH4933,SCH341,English,Basic,12,28
+TCH4934,SCH351,Social Studies,Advanced,11,8
+TCH4935,SCH391,English,Basic,6,9
+TCH4936,SCH266,Nepali,Basic,8,21
+TCH4937,SCH475,Science,Basic,14,8
+TCH4938,SCH292,Math,Advanced,9,11
+TCH4939,SCH160,Nepali,Advanced,1,24
+TCH4940,SCH278,Nepali,Basic,10,8
+TCH4941,SCH290,Nepali,Basic,23,8
+TCH4942,SCH171,Social Studies,Basic,16,11
+TCH4943,SCH169,Social Studies,Basic,9,20
+TCH4944,SCH450,Social Studies,Advanced,16,8
+TCH4945,SCH010,Nepali,Advanced,1,24
+TCH4946,SCH484,Social Studies,Basic,8,28
+TCH4947,SCH137,Math,Basic,7,13
+TCH4948,SCH206,Science,Basic,7,28
+TCH4949,SCH435,Nepali,Advanced,16,10
+TCH4950,SCH163,Science,Basic,13,24
+TCH4951,SCH332,Science,Advanced,15,9
+TCH4952,SCH085,English,Advanced,11,8
+TCH4953,SCH036,Math,Advanced,11,12
+TCH4954,SCH364,English,Advanced,11,26
+TCH4955,SCH039,Social Studies,Basic,4,22
+TCH4956,SCH473,Math,Advanced,7,12
+TCH4957,SCH446,Science,Advanced,17,8
+TCH4958,SCH111,English,Advanced,17,12
+TCH4959,SCH336,Nepali,Basic,9,31
+TCH4960,SCH482,Math,Basic,2,25
+TCH4961,SCH467,Math,Advanced,20,11
+TCH4962,SCH321,Nepali,Basic,17,22
+TCH4963,SCH463,Math,Advanced,6,8
+TCH4964,SCH111,Science,Advanced,10,14
+TCH4965,SCH390,Nepali,Advanced,8,9
+TCH4966,SCH293,Science,Advanced,4,8
+TCH4967,SCH367,Science,Basic,12,8
+TCH4968,SCH296,Nepali,Basic,10,8
+TCH4969,SCH330,Social Studies,Advanced,9,29
+TCH4970,SCH092,Social Studies,Basic,5,25
+TCH4971,SCH029,Math,Basic,9,11
+TCH4972,SCH103,English,Advanced,10,12
+TCH4973,SCH278,Math,Basic,13,13
+TCH4974,SCH253,Math,Basic,10,25
+TCH4975,SCH251,Math,Basic,12,31
+TCH4976,SCH033,English,Basic,15,34
+TCH4977,SCH232,Social Studies,Basic,7,26
+TCH4978,SCH301,Math,Basic,10,8
+TCH4979,SCH308,Math,Advanced,15,8
+TCH4980,SCH413,Social Studies,Basic,9,30
+TCH4981,SCH105,Nepali,Advanced,12,28
+TCH4982,SCH348,Social Studies,Basic,1,13
+TCH4983,SCH434,Nepali,Basic,6,27
+TCH4984,SCH452,Social Studies,Advanced,5,24
+TCH4985,SCH339,Social Studies,Advanced,16,12
+TCH4986,SCH060,Social Studies,Advanced,10,10
+TCH4987,SCH031,Social Studies,Basic,2,29
+TCH4988,SCH150,English,Basic,1,8
+TCH4989,SCH396,English,Advanced,1,9
+TCH4990,SCH486,Math,Basic,7,26
+TCH4991,SCH053,Nepali,Advanced,18,9
+TCH4992,SCH173,Social Studies,Advanced,14,8
+TCH4993,SCH071,English,Advanced,15,9
+TCH4994,SCH001,Math,Advanced,9,9
+TCH4995,SCH362,Math,Advanced,7,9
+TCH4996,SCH421,Nepali,Basic,19,12
+TCH4997,SCH380,Science,Basic,9,23
+TCH4998,SCH041,Science,Basic,7,8
+TCH4999,SCH215,Science,Basic,13,24
+TCH5000,SCH100,English,Basic,1,19
